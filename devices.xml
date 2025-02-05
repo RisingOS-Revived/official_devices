@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
+  <project name="device_oneplus_wly" />
+  <project name="device_realme_ferrari" />
 </manifest>
