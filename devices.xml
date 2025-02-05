@@ -2,4 +2,5 @@
 <manifest>
   <project name="device_oneplus_wly" />
   <project name="device_realme_ferrari" />
+  <project name="device_xiaomi_mondrian" />
 </manifest>
