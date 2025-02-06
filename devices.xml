@@ -5,4 +5,5 @@
   <project name="device_xiaomi_mondrian" />
   <project name="device_nothing_Pong" />
   <project name="device_motorola_dubai" />
+  <project name="device_xiaomi_cepheus" />
 </manifest>
