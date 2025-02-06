@@ -5,6 +5,7 @@
 ## Google
 
 ## Motorola
+- **Motorola Edge 30 (Dubai)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
 
 ## Nothing
 - **Nothing Phone 2 (Pong)** - [`@samrth012`](https://t.me/samrth012)
