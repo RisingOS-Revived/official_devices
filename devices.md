@@ -15,6 +15,7 @@
 
 ## Poco
 - **POCO F5 Pro/K60 (mondrian)** - [`@Keosh1`](https://t.me/Keosh1)
+- **POCO F4 (munch)** - [`@rik_x290`](https://t.me/rik_x290)
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
