@@ -26,5 +26,5 @@
 ## Tecno
 
 ## Xiaomi
-
+- **Mi 9 (cepheus)** - [`@tribual`](https://t.me/tribual)
 
