@@ -7,4 +7,5 @@
   <project name="device_motorola_dubai" />
   <project name="device_xiaomi_cepheus" />
   <project name="device_xiaomi_munch" />
+  <project name="device_xiaomi_marble" />
 </manifest>

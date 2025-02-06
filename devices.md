@@ -15,6 +15,7 @@
 
 ## Poco
 - **POCO F5 Pro/K60 (mondrian)** - [`@Keosh1`](https://t.me/Keosh1)
+- **POCO F5 (marble)** - [`@SharmagRit`](http://t.me/SharmagRit)
 - **POCO F4 (munch)** - [`@rik_x290`](https://t.me/rik_x290)
 
 ## Realme
