@@ -3,6 +3,10 @@
 ## Generic System Image
 
 ## Google
+- **Pixel Tablet (tangorpro)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
+- **Pixel 8 (shiba)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
+- **Pixel 8 Pro (husky)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
+- **Pixel 8a (akita)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 
 ## Motorola
 - **Motorola Edge 30 (Dubai)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
