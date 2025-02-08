@@ -13,4 +13,5 @@
   <project name="device_google_akita" />
   <project name="device_google_husky" />
   <project name="device_google_akita" />
+  <project name="device_xiaomi_ginkgo" />
 </manifest>
