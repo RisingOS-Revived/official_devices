@@ -28,6 +28,7 @@
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
 
 ## Redmi
+- **Redmi Note 10 (sunny)** - [`@dpenra`](https://t.me/dpenra)
 
 ## Samsung
 
@@ -35,4 +36,3 @@
 
 ## Xiaomi
 - **Mi 9 (cepheus)** - [`@tribual`](https://t.me/tribual)
-
