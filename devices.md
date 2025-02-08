@@ -23,6 +23,7 @@
 - **POCO F5 Pro/K60 (mondrian)** - [`@Keosh1`](https://t.me/Keosh1)
 - **POCO F5 (marble)** - [`@SharmagRit`](https://t.me/SharmagRit)
 - **POCO F4 (munch)** - [`@rik_x290`](https://t.me/rik_x290)
+- **POCO X3/NFC (surya)** - [`@braindead66`](https://t.me/braindead66)
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
