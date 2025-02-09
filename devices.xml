@@ -17,4 +17,5 @@
   <project name="device_google_akita" />
   <project name="device_xiaomi_ginkgo" />
   <project name="device_xiaomi_surya" />
+  <project name="device_xiaomi_sunny" />
 </manifest>

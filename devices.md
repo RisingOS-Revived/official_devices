@@ -32,7 +32,7 @@
 
 ## Redmi
 - **Redmi Note 8/8T (ginkgo)** - [`@k_y_c_i_i_9_1`](https://t.me/k_y_c_i_i_9_1)
-
+- **Redmi Note 10 (sunny)** - [`@dpenra`](https://t.me/dpenra)
 ## Samsung
 
 ## Tecno
