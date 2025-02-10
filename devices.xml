@@ -18,4 +18,5 @@
   <project name="device_xiaomi_ginkgo" />
   <project name="device_xiaomi_surya" />
   <project name="device_xiaomi_sunny" />
+  <project name="device_xiaomi_topaz" />
 </manifest>
