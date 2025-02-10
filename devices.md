@@ -33,6 +33,8 @@
 ## Redmi
 - **Redmi Note 8/8T (ginkgo)** - [`@k_y_c_i_i_9_1`](https://t.me/k_y_c_i_i_9_1)
 - **Redmi Note 10 (sunny)** - [`@dpenra`](https://t.me/dpenra)
+- **Redmi Note 12 4G (topaz/tapas)** - [`@skwel24`](https://t.me/skwel24) &&  [`@mirabelle1999`](https://t.me/mirabelle1999)
+
 ## Samsung
 
 ## Tecno
