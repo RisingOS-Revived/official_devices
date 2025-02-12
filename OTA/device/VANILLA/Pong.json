@@ -4,18 +4,18 @@
                         "maintainer": "samrth012",
                         "oem": "Nothing",
                         "device": "Pong",
-                        "filename": "RisingOS_Revived-6.2.1-STABLE-25020712-VANILLA-OFFICIAL-Pong-ota-signed.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/Pong/RisingOS_Revived-6.2.1-STABLE-25020712-VANILLA-OFFICIAL-Pong-ota-signed.zip/download",
-                        "timestamp": 1738930046,
-                        "md5": "2130248291c926600c077afa5dee694e",
-                        "sha256": "b2e8b3b46b8a860a6b4c1ff9d2fed9c45503ae765f7200ab51bdd0e3721ebe9e",
-                        "size": 2036960819,
+                        "filename": "RisingOS_Revived-6.2.1-STABLE-25021218-VANILLA-OFFICIAL-Pong-ota-signed.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/Pong/RisingOS_Revived-6.2.1-STABLE-25021218-VANILLA-OFFICIAL-Pong-ota-signed.zip/download",
+                        "timestamp": 1739385315,
+                        "md5": "501e9cdb7105dfb1ae2d10f3a7607680",
+                        "sha256": "2df119ae8975947459d0f504a7793f3cb93e33d479b0b7bdfc74719e8f573e94",
+                        "size": 2036872949,
                         "version": "6.2.1-Boundless",
                         "buildtype": "STABLE",
                         "forum": "",
                         "recovery": "",
                         "paypal": "",
-                        "telegram": ""
+                        "telegram": "https://t.me/samrth012"
                 }
         ]
 }
