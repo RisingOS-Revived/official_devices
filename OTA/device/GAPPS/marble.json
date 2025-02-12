@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "SharmagRit",
+			"oem": "POCO",
+			"device": "POCO F5",
+			"filename": "RisingOS_Revived-6.2.1-STABLE-25021108-GAPPS-OFFICIAL-marble-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/marble/",
+			"timestamp": 1739259654,
+			"md5": "e7a6019b1440b5a9ef6c233606f8b445",
+			"sha256": "212d0e492836d666d1369996c167d367e6113dcfc5812f5e04fbef82f4a53c17",
+			"size": 2855284241,
+			"version": "6.2.1-Boundless",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+                        "paypal": "https://www.paypal.com/paypalme/RiteshKrSharma",
+      			"telegram": "https://t.me/SharmagRit",
+		}
+	]
+}
