@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Yeab",
+                        "oem": "Xiaomi",
+                        "device": "ginkgo",
+                        "filename": "RisingOS_Revived-6.2.1-STABLE-25021200-CORE-OFFICIAL-ginkgo-ota-signed.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/ginkgo/RisingOS_Revived-6.2.1-STABLE-25021200-CORE-OFFICIAL-ginkgo-ota-signed.zip/download",
+                        "timestamp": 1739321681,
+                        "md5": "8fde74835c61b21203b35f5826996e65",
+                        "sha256": "927ddb77af062f1bcc6fb941bbd9b1e276f280886f7c2ef87b240b35b71952f6",
+                        "size": 2390106876,
+                        "version": "6.2.1-Boundless",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": ""
+                }
+        ]
+}
