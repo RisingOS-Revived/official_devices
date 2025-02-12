@@ -1,0 +1,5 @@
+This is Android 15 QPR1 with February 2025 (r14) security patches
+
+Device changes:
+==============================
+initial official release
