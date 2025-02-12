@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: Poco F5/Redmi Note 12 Turbo
+Device codename: marble
+Device maintainer: SharmagRit
+
+=×=×= 25th January 2024 =×=×=
+* Synced with latest RisingOS-Revived v6.2.1 Boundless source
+* Based on latest blobs 
+* Update CarrierConfig from peridot v816.0.4.0UNPMIXM
+* Panic to recovery, not bootloader
+* Build missing Wi-Fi Display lib
+* Add 786 Adreno driver from @Lynchp1n
