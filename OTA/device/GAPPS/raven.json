@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Jrcable2",
+			"oem": "Google",
+			"device": "raven",
+			"filename": "RisingOS_Revived-6.2.1-STABLE-25021212-GAPPS-OFFICIAL-raven-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/raven/RisingOS_Revived-6.2.1-STABLE-25021212-GAPPS-OFFICIAL-raven-ota.zip/download",
+			"timestamp": 1739381748,
+			"md5": "da7c244f87f773fce647b6721a0e08d0",
+			"sha256": "7bceca3c1424c5c471c3f8ae880343ee4a283581a55cc5555139414079156080",
+			"size": 2529721345,
+			"version": "6.2.1-Boundless",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
