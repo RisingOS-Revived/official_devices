@@ -27,6 +27,7 @@
 - **POCO F4 (munch)** - [`@rik_x290`](https://t.me/rik_x290)
 - **POCO X3/NFC (surya)** - [`@braindead66`](https://t.me/braindead66)
 - **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
+- **POCO X4 Pro 5G (veux)** - [`@amrito_kun`](https://t.me/amrito_kun)
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
