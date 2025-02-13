@@ -37,6 +37,7 @@
 - **Redmi Note 12 4G (topaz/tapas)** - [`@skwel24`](https://t.me/skwel24) &&  [`@mirabelle1999`](https://t.me/mirabelle1999)
 
 ## Samsung
+- **Samsung A73 5G (a73xq)** - [`@alqix0`](https://t.me/alqix0)
 
 ## Tecno
 
