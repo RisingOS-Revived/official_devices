@@ -1,0 +1,22 @@
+{
+	"response": [
+		{
+			"maintainer": "Ashwani",
+			"oem": "Xiaomi",
+			"device": "sky",
+			"filename": "RisingOS_Revived-6.2.1-STABLE-25021313-CORE-OFFICIAL-sky-ota.zip",
+			"download": "",
+			"timestamp": 1739453955,
+			"md5": "ea6400294383273301b598d87cd929f2",
+			"sha256": "7717ab08f53941a3ead9426dc99b370afec3fffff55482362dbc68c9d0f6b416",
+			"size": 1904192168,
+			"version": "6.2.1-Boundless",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
+
