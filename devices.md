@@ -26,6 +26,7 @@
 - **POCO F5 (marble)** - [`@SharmagRit`](https://t.me/SharmagRit)
 - **POCO F4 (munch)** - [`@rik_x290`](https://t.me/rik_x290)
 - **POCO X3/NFC (surya)** - [`@braindead66`](https://t.me/braindead66)
+- **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
@@ -33,7 +34,10 @@
 ## Redmi
 - **Redmi Note 8/8T (ginkgo)** - [`@k_y_c_i_i_9_1`](https://t.me/k_y_c_i_i_9_1)
 - **Redmi Note 10 (sunny)** - [`@dpenra`](https://t.me/dpenra)
+- **Redmi Note 12 4G (topaz/tapas)** - [`@skwel24`](https://t.me/skwel24) &&  [`@mirabelle1999`](https://t.me/mirabelle1999)
+
 ## Samsung
+- **Samsung A73 5G (a73xq)** - [`@alqix0`](https://t.me/alqix0)
 
 ## Tecno
 

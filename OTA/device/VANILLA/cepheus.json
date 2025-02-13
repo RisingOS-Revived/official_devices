@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "tribual",
+			"oem": "",
+			"device": "cepheus",
+			"filename": "RisingOS_Revived-6.2.1-STABLE-25021213-VANILLA-OFFICIAL-cepheus-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/cepheus/RisingOS_Revived-6.2.1-STABLE-25021213-VANILLA-OFFICIAL-cepheus-ota.zip/download",
+			"timestamp": 1739361872,
+			"md5": "5bd6bf61220ef6f3c16f1b320fd9a27f",
+			"sha256": "6e5d5a58d7c19447dc7c0a3cc4fe497864c7e6e68c4401ed8ba2cf22f4379845",
+			"size": 1870213575,
+			"version": "6.2.1-Boundless",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/cepheus/files/recovery/OrangeFox-cepheus-A14RetrofitMetadata-28012024.zip/download",
+			"paypal": "tribual@web.de",
+			"telegram": "@tribual"
+		}
+	]
+}

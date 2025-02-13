@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "akita",
+			"filename": "RisingOS_Revived-6.2.1-STABLE-25021018-GAPPS-OFFICIAL-akita-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/akita/RisingOS_Revived-6.2.1-STABLE-25021018-GAPPS-OFFICIAL-akita-ota.zip/download",
+			"timestamp": 1739230392,
+			"md5": "72642d140b5d2aa3c6c38abcaf9baec6",
+			"sha256": "a202a082dd8983aa59c7581b48008a7812100f01dde992356bfdb239fc35bf6f",
+			"size": 2550921262,
+			"version": "6.2.1-Boundless",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}

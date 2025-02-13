@@ -4,18 +4,18 @@
                         "maintainer": "samrth012",
                         "oem": "Nothing",
                         "device": "Pong",
-                        "filename": "RisingOS_Revived-6.2.1-STABLE-25020704-GAPPS-OFFICIAL-Pong-ota-signed.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/Pong/RisingOS_Revived-6.2.1-STABLE-25020704-GAPPS-OFFICIAL-Pong-ota-signed.zip/download",
-                        "timestamp": 1738901662,
-                        "md5": "6594919b8f5b60e6c090e5c868bfd415",
-                        "sha256": "8468d94c347411e9cb41e22034363e60fa0e2e0bece3df69a6f07a0c1f9de960",
-                        "size": 2776411607,
+                        "filename": "RisingOS_Revived-6.2.1-STABLE-25021214-GAPPS-OFFICIAL-Pong-ota-signed.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/Pong/RisingOS_Revived-6.2.1-STABLE-25021214-GAPPS-OFFICIAL-Pong-ota-signed.zip/download",
+                        "timestamp": 1739370257,
+                        "md5": "18d94ffe75f1e8512b44ae24a6730d42",
+                        "sha256": "122aac7782b8f93e16918a2fcf632b6d7fecb12c9234b3747d93ac434b0941fe",
+                        "size": 2776435295,
                         "version": "6.2.1-Boundless",
                         "buildtype": "STABLE",
                         "forum": "",
                         "recovery": "",
                         "paypal": "",
-                        "telegram": ""
+                        "telegram": "https://t.me/samrth012"
                 }
         ]
 }
