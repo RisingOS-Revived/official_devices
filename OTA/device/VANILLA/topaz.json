@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Haruki x skwel",
+                        "oem": "Xiaomi",
+                        "device": "topaz",
+                        "filename": "RisingOS_Revived-6.2.1-STABLE-25021307-VANILLA-OFFICIAL-topaz-ota-signed.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/topaz/RisingOS_Revived-6.2.1-STABLE-25021307-VANILLA-OFFICIAL-topaz-ota-signed.zip/download",
+                        "timestamp": 1739431288,
+                        "md5": "7a38c000afde68ed3cc10983314d9021",
+                        "sha256": "ed6b306ff43b91c8551ce3fc1f79155b61920242e7144d99811c6b6df07063bb",
+                        "size": 1450207104,
+                        "version": "6.2.1-Boundless",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": ""
+                }
+        ]
+}
