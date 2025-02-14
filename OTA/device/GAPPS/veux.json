@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "アムリタ",
+                        "oem": "Xiaomi",
+                        "device": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
+                        "filename": "RisingOS_Revived-6.2.1-STABLE-25021423-GAPPS-OFFICIAL-veux-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/veux/RisingOS_Revived-6.2.1-STABLE-25021423-GAPPS-OFFICIAL-veux-ota.zip/download",
+                        "timestamp": 1739555928,
+                        "md5": "65f683ec01f24e50efe05c0defc9e95d",
+                        "sha256": "a4a8bbe67c5916a68fca192fc69e0adedca66256a06b4bc8c8ec806619f0f5e2",
+                        "size": 2201145858,
+                        "version": "6.2.1-Boundless",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://t.me/veuxplayground/2950",
+                        "paypal": "https://PayPal.Me/takixamru",
+                        "telegram": "https://t.me/amrito_kun"
+                }
+        ]
+}
