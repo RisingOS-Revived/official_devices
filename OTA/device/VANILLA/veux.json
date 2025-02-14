@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "アムリタ",
+                        "oem": "Xiaomi",
+                        "device": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
+                        "filename": "RisingOS_Revived-6.2.1-STABLE-25021500-VANILLA-OFFICIAL-veux-ota.zip",
+                        "download": "",
+                        "timestamp": 1739558899,
+                        "md5": "9d6d4c514e605f75a594b8df0dc5a675",
+                        "sha256": "d451b0d0685bd8bdf2114dfb525d6a1e2e0ba6c5268530734f8e1d55f2125d90",
+                        "size": 1544201198,
+                        "version": "6.2.1-Boundless",
+                        "buildtype": "STABLE",
+                        "forum": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/veux/RisingOS_Revived-6.2.1-STABLE-25021500-VANILLA-OFFICIAL-veux-ota.zip/download",
+                        "recovery": "https://t.me/veuxplayground/2950",
+                        "paypal": "https://PayPal.Me/takixamru",
+                        "telegram": "https://t.me/amrito_kun"
+                }
+        ]
+}
