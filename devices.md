@@ -28,6 +28,7 @@
 - **POCO F6 (peridot)** - [`@ath1188`](https://t.me/ath1188)
 - **POCO X3/NFC (surya)** - [`@braindead66`](https://t.me/braindead66)
 - **POCO X4 Pro 5G (veux)** - [`@amrito_kun`](https://t.me/amrito_kun)
+- **POCO X5 Pro 5G (redwood)** - [`@Thereache`](https://t.me/thereache)
 - **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
 
 ## Realme
