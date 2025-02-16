@@ -1,20 +1,30 @@
 This is Android 15 QPR1 with February 2025 (r14) security patches.
 
 ==============================
+16/2/2025
+==============================
+Device changes:
+- Testing Fix for SMS/USSD issues, 
+- Remove AOSP Dailer,(users have issues with it).
+
+Source changes:
+- Minor improvements.
+
+==============================
 14/2/2025
 ==============================
 Device changes:
-Add KernelSU Next with susfs4ksu,Check (https://github.com/rifsxd/KernelSU-Next/releases) to download KSU Manager,
-Add AOSP Dailer with Google Choose what you want,
-Some users cant use USSD Codes use Airplane mode once after every restart should fix it (partial fix), Thanks to Arian for this partial fix.
+- Add KernelSU Next with susfs4ksu,Check (https://github.com/rifsxd/KernelSU-Next/releases) to download KSU Manager,
+- Add AOSP Dailer with Google Choose what you want,
+- Some users cant use USSD Codes use Airplane mode once after every restart should fix it (partial fix), Thanks to Arian for this partial fix.
 
 Source changes:
-Add back island notifications,
-Update Basic Call Recorder |Version 1.76|,
-Update lawnchair/lawnicons to the latest version.
+- Add back island notifications,
+- Update Basic Call Recorder |Version 1.76|,
+- Update lawnchair/lawnicons to the latest version.
 
 ==============================
 8/2/2025
 ==============================
 Device changes:
-initial official release
+- initial official release.
