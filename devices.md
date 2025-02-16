@@ -22,12 +22,13 @@
 - **OnePlus 10 pro (wly)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
 
 ## Poco
-- **POCO F5 Pro/K60 (mondrian)** - [`@Keosh1`](https://t.me/Keosh1)
-- **POCO F5 (marble)** - [`@SharmagRit`](https://t.me/SharmagRit)
 - **POCO F4 (munch)** - [`@rik_x290`](https://t.me/rik_x290)
+- **POCO F5 (marble)** - [`@SharmagRit`](https://t.me/SharmagRit)
+- **POCO F5 Pro/K60 (mondrian)** - [`@Keosh1`](https://t.me/Keosh1)
+- **POCO F6 (peridot)** - [`@ath1188`](https://t.me/ath1188)
 - **POCO X3/NFC (surya)** - [`@braindead66`](https://t.me/braindead66)
-- **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
 - **POCO X4 Pro 5G (veux)** - [`@amrito_kun`](https://t.me/amrito_kun)
+- **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)

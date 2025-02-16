@@ -21,5 +21,6 @@
   <project name="device_xiaomi_topaz" />
   <project namw="device_xiaomi_sky" />
   <project name="device_samsung_a73xq" />
-  <project namw="device_xiaomi_veux" />
+  <project name="device_xiaomi_veux" />
+  <project name="device_xiaomi_peridot" />
 </manifest>
