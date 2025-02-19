@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Thereache",
+			"oem": "xiaomi",
+			"device": "POCO X5 PRO 5G",
+			"filename": "RisingOS_Revived-6.2.1-25021906-CORE-OFFICIAL-redwood-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/redwood/RisingOS_Revived-6.2.1-25021906-CORE-OFFICIAL-redwood-ota.zip/download",
+			"timestamp": 1739946135,
+			"md5": "d8a068a603ce2372e4b58a078dd86c69",
+			"sha256": "bedff582cf632efbecf4d6d11e295875a0bb147e8064421c4d330bd0c0a9d083",
+			"size": 2557753835,
+			"version": "6.2.1-Boundless",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/PrajapatiAbhay917",
+			"telegram": "https://t.me/thereachebuildchat"
+		}
+	]
+}

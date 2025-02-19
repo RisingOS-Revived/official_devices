@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Thereache",
+			"oem": "xiaomi",
+			"device": "POCO X5 PRO 5G",
+			"filename": "RisingOS_Revived-6.2.1-25021905-GAPPS-OFFICIAL-redwood-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/redwood/RisingOS_Revived-6.2.1-25021905-GAPPS-OFFICIAL-redwood-ota.zip/download",
+			"timestamp": 1739942873,
+			"md5": "47ced97a698e94c6a344265e669342e5",
+			"sha256": "e46cc1ea0b08511952a1518d19840d5edec3bf9a3806a552256e9c6df3e60946",
+			"size": 2557750171,
+			"version": "6.2.1-Boundless",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/PrajapatiAbhay917",
+			"telegram": "https://t.me/thereachebuildchat"
+		}
+	]
+}
