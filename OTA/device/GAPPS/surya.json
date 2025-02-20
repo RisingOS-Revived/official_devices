@@ -1,0 +1,21 @@
+{
+    "response": [
+        {
+            "maintainer": "shoya0x00",
+            "oem": "Xiaomi",
+            "device": "POCO X3/NFC",
+            "filename": "RisingOS_Revived-6.2.1-25022007-GAPPS-OFFICIAL-surya-ota.zip",
+            "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/surya/RisingOS_Revived-6.2.1-25022007-GAPPS-OFFICIAL-surya-ota.zip/download",
+            "timestamp": 1740037179,
+            "md5": "e72ba2737ec09a106a6d1c3933b521fd",
+            "sha256": "6a84d43a78c6e846905e8bc9ee83c46baa3bfeda9be912629815400ec78d000b",
+            "size": 2584911300,
+            "version": "6.2.1-Boundless",
+            "buildtype": "OFFICIAL",
+            "forum": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/POCOX3_Build_SG"
+        }
+    ]
+}
