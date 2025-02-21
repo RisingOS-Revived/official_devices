@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Rik",
+			"oem": "Xiaomi",
+			"device": "POCO F4",
+			"filename": "RisingOS_Revived-6.2.1-25022115-GAPPS-OFFICIAL-munch-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/munch/RisingOS_Revived-6.2.1-25022115-GAPPS-OFFICIAL-munch-ota.zip/download",
+			"timestamp": 1740152697,
+			"md5": "8a22f31aa260114ac778c3b521b9e3ce",
+			"sha256": "9c31bcd9b09691a8cdb908c1ebf38129dadbd573489d4d9a429e68cae2e49cd8",
+			"size": 2556319558,
+			"version": "6.2.1-Boundless",
+			"buildtype": "STABLE",
+			"forum": "https://t.me/munch_chat",
+			"recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/munch/twrp-3.7.1_12-v9.0_A15-munch-skkk.img/download",
+			"paypal": "https://paypal.me/rikx290",
+			"telegram": "https://t.me/rik_x290"
+		}
+	]
+}
