@@ -1,0 +1,21 @@
+{
+    "response": [
+            {
+                    "maintainer": "Rakhshan (shan_rakh)",
+                    "oem": "Motorola",
+                    "device": "dubai",
+                    "filename": "RisingOS_Revived-6.2.1-STABLE-25022109-CORE-OFFICIAL-dubai-ota.zip",
+                    "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/dubai/RisingOS_Revived-6.2.1-STABLE-25022109-CORE-OFFICIAL-dubai-ota.zip/download",
+                    "timestamp": 1740108838,
+                    "md5": "9d64a9b359038722e8907a01892a2f82",
+                    "sha256": "057a54f676779f613669cdf4932c8b95b86cd164b7bb9ebc739169020e05367a",
+                    "size": 2518582370,
+                    "version": "6.2.1-Boundless",
+                    "buildtype": "STABLE",
+                    "forum": "",
+                    "recovery": "",
+                    "paypal": "",
+                    "telegram": "https://t.me/ararchive_shan_rakh_discussion"
+            }
+    ]
+}
