@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: POCO F4
+Device codename: munch
+Device maintainer: Rik
+
+=×=×= 20th February 2024 =×=×=
+* Initial Build
+* Dirty Flash is okay from Rising 6.2
+* Synced with latest source
+* February security patches
+* Misc fixes and optimizations
