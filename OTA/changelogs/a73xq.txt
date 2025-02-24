@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: Samsung A73 5G
+Device codename: a73xq
+Device maintainer: alqix
+
+===== 21th February 2025 =====
+* Initial Build
+* Synced with latest source
+* February security patches
