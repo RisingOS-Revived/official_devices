@@ -1,6 +1,6 @@
 # RisingOS Installation Instructions for topaz/tapas
 
-**Author:** @skwel24 x @mirabelle19999
+**Maintainer:** @skwel24 x @mirabelle19999
 
 ---
  
