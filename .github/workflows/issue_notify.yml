@@ -1,0 +1,32 @@
+name: Device Maintainership Request Notifier
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  issue_tracker:
+    runs-on: ubuntu-latest
+    steps:
+        - name: Checkout
+          uses: actions/checkout@main
+
+        - name: Notify in Telegram
+          run: |
+            TgNotify() {
+              curl -s -X POST "https://api.telegram.org/bot${{ secrets.BOT_TOKEN }}/sendMessage" \
+              -d chat_id="${{ secrets.PRIV_CHAT_ID }}" \
+              -d message_thread_id="${{ secrets.TOPIC_ID_MAINTAINER }}" \
+              -d parse_mode=Markdown \
+              -d text="${1}" \
+              -d disable_web_page_preview=true
+            }
+            
+            TgNotify "
+            #ISSUE\_TRACKER
+            *New Device Maintainer Request Opened at* [${{ github.repository }}](https://github.com/${{ github.repository }})
+            *Title:* \`${{ github.event.issue.title }}\`
+            *User:* [${{ github.actor }}](https://github.com/${{ github.actor }})
+            *Form URL:* [Here](${{ github.event.issue.html_url }})"
+
