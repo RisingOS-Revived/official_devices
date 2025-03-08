@@ -12,6 +12,7 @@
 
 ## Motorola
 - **Motorola Edge 30 (Dubai)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
+- **Motorola Edge 30 Neo (Miami)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
 - **Motorola Edge 30 Ultra / X30 Pro (eqs))** - [`@davigamer987`](https://t.me/davigamer987)
 
 
