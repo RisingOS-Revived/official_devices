@@ -1,3 +1,15 @@
+March 10th 2025
+
+This is Android 15 QPR1 with March 2025 (r15) security patches
+
+Device changes:
+==============================
+* no changes from previous release as trees have not been updated by lineage for QPR2
+
+----Previous Release----
+
+February 12th 2025
+
 This is Android 15 QPR1 with February 2025 (r14) security patches
 
 Device changes:
