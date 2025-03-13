@@ -5,6 +5,9 @@
 ## Google
 - **Pixel 6 (oriole)** - [`@Jrcable2`](https://t.me/Jrcable2)
 - **Pixel 6 Pro (raven)** - [`@Jrcable2`](https://t.me/Jrcable2)
+- **Pixel 7 (panther)** - [`@Pyrtle93`](https://t.me/Pyrtle93)
+- **Pixel 7 Pro (cheetah)** - [`@Pyrtle93`](https://t.me/Pyrtle93)
+- **Pixel 7a (lynx)** - [`@Pyrtle93`](https://t.me/Pyrtle93)
 - **Pixel Tablet (tangorpro)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 8 (shiba)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 8 Pro (husky)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
