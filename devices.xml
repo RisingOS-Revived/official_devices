@@ -28,4 +28,5 @@
   <project name="device_xiaomi_veux" />
   <project name="device_xiaomi_peridot" />
   <project namw="device_xiaomi_redwood" />
+  <project namw="device_xiaomi_vermeer" />
 </manifest>
