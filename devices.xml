@@ -27,6 +27,8 @@
   <project name="device_samsung_a73xq" />
   <project name="device_xiaomi_veux" />
   <project name="device_xiaomi_peridot" />
-  <project namw="device_xiaomi_redwood" />
-  <project namw="device_xiaomi_vermeer" />
+  <project name="device_xiaomi_redwood" />
+  <project name="device_xiaomi_vermeer" />
+  <project name="android_device_oneplus_cheeseburger" />
+  <project name="android_device_oneplus_dumpling" />
 </manifest>
