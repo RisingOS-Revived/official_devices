@@ -1,7 +1,21 @@
+This is Android 15 QPR1 with March 2025 (r15) security patches
+
+Device changelogs
+=============================
+* Updated TetherOffload to version 1.1.
+* Imported only Dirac code for Mi Sound Enhancer.
+* Added MicroG support for the Vanilla build.
+* Removed ViperFX and DynamicSpot.
+
+
 This is Android 15 QPR1 with February 2025 (r14) security patches
 
 Device changes:
 ==============================
 * initial official release
 * Fixed an issue where VOIP routing is misconfigured.
+
+16/3/2025
+
+
 
