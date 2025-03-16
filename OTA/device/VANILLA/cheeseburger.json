@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "SirRGB",
+			"oem": "OnePlus",
+			"device": "cheeseburger",
+			"filename": "RisingOS_Revived-6.3-250316-0013-VANILLA-OFFICIAL-cheeseburger-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/cheeseburger/RisingOS_Revived-6.3-250316-0013-VANILLA-OFFICIAL-cheeseburger-ota-signed.zip/download",
+			"timestamp": 1742080436,
+			"md5": "9c5d1dfbb5d543a2d7de5282c14a9427",
+			"sha256": "4dd6d973dfef27af5cb2ce6badf98626ef768fd812262b1f7c43feccd1091f10",
+			"size": 1270609132,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://dl.twrp.me/cheeseburger_dumpling",
+			"paypal": "https://www.paypal.com/donate/?hosted_button_id=9C79NMF2T3366",
+			"telegram": "https://t.me/theromfactory"
+		}
+	]
+}

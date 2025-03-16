@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "SirRGB",
+			"oem": "OnePlus",
+			"device": "dumpling",
+			"filename": "RisingOS_Revived-6.3-250316-0052-VANILLA-OFFICIAL-dumpling-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/dumpling/RisingOS_Revived-6.3-250316-0052-VANILLA-OFFICIAL-dumpling-ota-signed.zip/download",
+			"timestamp": 1742082764,
+			"md5": "faa405c3ccb7378019dfcb09177d8d29",
+			"sha256": "c67b6865f7905db252edf90ed9eda267da33f8d0cd4eb68659d7846139582218",
+			"size": 1270672918,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://dl.twrp.me/cheeseburger_dumpling",
+			"paypal": "https://www.paypal.com/donate/?hosted_button_id=9C79NMF2T3366",
+			"telegram": "https://t.me/theromfactory"
+		}
+	]
+}
