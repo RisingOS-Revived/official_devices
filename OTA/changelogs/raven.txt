@@ -1,3 +1,13 @@
+March 16th 2025
+
+This is Android 15 QPR1 with March 2025 (r15) security patches
+
+Device changes:
+==============================
+version bump to 6.3
+squashed Google messages not showing up
+squashed Google playstore freezing bug
+
 March 10th 2025
 
 This is Android 15 QPR1 with March 2025 (r15) security patches
