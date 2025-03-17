@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "dpenra",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 10",
+			"filename": "RisingOS_Revived-6.3-250316-0355-GAPPS-OFFICIAL-sunny-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/sunny/RisingOS_Revived-6.3-STABLE/RisingOS_Revived-6.3-250316-0355-GAPPS-OFFICIAL-sunny-ota.zip/download",
+			"timestamp": 1742097166,
+			"md5": "01ac6422dc80ec1414ee3ca87269c62d",
+			"sha256": "ace3cd77ab86c31956b4adc6101f5690a9e3fb800bfe53f8ad1147f8f0137104",
+			"size": 2823553721,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "https://t.me/rn10potato",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/sunny/RisingOS_Revived-6.3-STABLE/boot.img/download",
+			"paypal": "",
+			"telegram": "https://t.me/dpenra"
+		}
+	]
+}
