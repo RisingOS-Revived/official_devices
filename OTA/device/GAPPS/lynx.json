@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Pyrtle93",
+			"oem": "Google",
+			"device": "lynx",
+			"filename": "RisingOS_Revived-6.3-250317-0538-GAPPS-OFFICIAL-lynx-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/lynx/RisingOS_Revived-6.3-250317-0538-GAPPS-OFFICIAL-lynx-ota-signed.zip/download",
+			"timestamp": 1742170107,
+			"md5": "44767973074a0eb5e44a277add9b7980",
+			"sha256": "1aa4ff441ec3ba5556fc92379a3d902a3ad0a41b8b509d823e0a9e71085333bc",
+			"size": 2652367718,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/PyrtlesPixels"
+		}
+	]
+}
