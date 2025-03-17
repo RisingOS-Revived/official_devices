@@ -1,31 +1,63 @@
-Device: Google Pixel 7 (panther)
+# RisingOS Installation Instructions
 
-First Time Install (Note: These releases include firmware)
+**Author:** Pyrtle93
 
-• Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom
-• Reboot to bootloader
-• fastboot flash boot boot.img
-• fastboot flash dtbo dtbo.img
-• fastboot flash vendor_kernel_boot vendor_kernel_boot.img
-• fastboot flash vendor_boot vendor_boot.img
-• fastboot reboot recovery
-• While in recovery, navigate to Factory reset -> Format data/factory reset and confirm to format the device. When done formatting, go back to the main menu and then navigate to Apply update -> Apply from ADB
-• adb sideload rom.zip (replace "rom" with actual filename) 7 (optional). Reboot to recovery (fully) to sideload any add-ons (e.g magisk)
-• Reboot to system
+-------------------------------
 
-Dirty Flash (when updating your RisingOS version)
+## **Instructions**
 
-• Reboot to recovery
-• Apply update -> adb sideload
-• adb sideload romname.zip
-• Reboot
-• Or simply just update via ota updater in settings
+### **ALWAYS Keep in Mind...**
 
-Root Method
+> **Note:** Clean flash involves formatting data, which means you will lose data stored in the internal storage of your device. Data in the SD card should not be affected. I will not be responsible for any loss of data.
 
-• Download and Install Magisk apk
-• Unzip the factory image from here for example (https://developers.google.com/android/images), Extract the IMGs folder, copy the init_boot file to your Pixel device.
-• Patch init_boot.img file, Open Magisk app on your device, tap on install and tap again on “Select and Patch a file” and browse the init_boot.img file you’ve just copied. It will patch the file and save it in the same folder. Now you’ve to transfer patched init_boot.img file to your PC to flash it using an adb command.
-• Reboot the device in Fastboot
-• On your PC, open the plaform tools folder, hold the Windows button and right click in the folder and select open command here. Type the following commands to flash the patch boot file, below is an example; fastboot flash init_boot magisk_patched-25200_xgjAS.img
-• Once complete and no errors are returned type fastboot reboot
+## When do a clean flash? Here you go...**
+- You are coming from any other ROM or MIUI.
+- You are coming from a previous Android version.
+- If you face issues like poor RAM management or storage problems, it indicates that you have not followed the instructions or have changed the kernel/recovery. STRICTLY follow the provided instructions before reporting any issues.
+
+-------------------------------
+ 
+### **Installation Methods**
+
+## **Clean Flash Steps:**
+
+• Backup your Important files
+
+• Boot to Recovery
+
+• Flash **RisingOS Revived** ROM
+
+• Format Data (correct, the place where you need to type in "YES")
+
+• Flash GApps of your choice (if you have Vanilla Build)
+
+• Reboot and enjoy!
+
+---
+
+## Dirty flash:**
+
+• Backup your Important files
+
+• Boot to Recovery
+
+• Flash **RisingOS Revived** ROM
+
+• Flash GApps of your choice (if you have Vanilla Build)
+
+• Reboot and enjoy!
+
+> **Note:** There will be no loss of data if everything goes well. Keep backups in case of any mishap. I will not be responsible for any loss of data.
+
+---
+
+## Flash via adb:**
+
+• Backup your Important files
+
+• Adb reboot recovery
+
+• Flash the ROM via ADB sideload:
+   ```
+   adb sideload <path/to/rom.zip>
+   ```  
