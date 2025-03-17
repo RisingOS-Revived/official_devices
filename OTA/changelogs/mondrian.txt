@@ -1,4 +1,41 @@
-This is Android 15 QPR1 with February 2025 (r14) security patches.
+This is Android 15 QPR1 with March 2025 security patches.
+
+- Credits to Arian16k, ph12nex, Chaitanya, flakeforever, Adrianyyyy.
+- Report issues with logs.
+
+==============================
+17/3/2025
+==============================
+Device changes:
+- Update HyperOS Gallery and Gallery Editor, 
+- Included per app refresh rate,
+- Included High Brightness Mode (HBM),
+- Included custom display saturation slider,
+- Implement torch light control,
+- Import QCOM audio effects from OnePlus 9R,
+- Do not use phase offsets as duration,
+- Added battery props for better batterybackup,
+- Fix Dolby audio codecs,
+- Set VENDOR_SECURITY_PATCH To PLATFORM,
+- Unmount /firmware after fastbootd starts,
+- Dont ship source recovery with Rom,
+- audio: Add LHDC support (If you don't have an LHDC device, just check supported codec on Bluetooth Codec Changer app),
+- audio: use QCOM Implementation for Audio Effects,
+- parts: Add {navigation,video} thermal profiles,
+- parts: Add support for 60Hz in Landscape in Per-App-RR,
+- parts: Automatically determine thermal profile for apps,
+- parts: Fix setting default thermal profile,
+- props: Add missing layer buffer slots cache clear property,
+- props: Disable game_default_frame_rate override,
+- props: Set SF caching property to 0 (enable),
+- rootdir: Drop platform specific setup from init.qcom.early_boot.sh,
+- rootdir: Drop platform specific setup from init.qcom.post_boot.sh,
+- rootdir: Drop platform specific setup from init.qcom.sh,
+- rootdir: Drop useless init.qcom.class_core.sh,
+- kernel: Upstream kernel to 5.10.232,
+- kernel: Update KernelSU-Next and SUSFS4KSU to the latest version,
+- kernel: Add hide scripts from Wild Plus Kernel thanks to @TheWildJames,
+- and more .......... 
 
 ==============================
 16/2/2025
