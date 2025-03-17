@@ -2,20 +2,20 @@
 	"response": [
 		{
 			"maintainer": "tribual",
-			"oem": "",
+			"oem": "Xiaomi",
 			"device": "cepheus",
-			"filename": "RisingOS_Revived-6.2.1-STABLE-25021215-GAPPS-OFFICIAL-cepheus-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/cepheus/RisingOS_Revived-6.2.1-STABLE-25021215-GAPPS-OFFICIAL-cepheus-ota.zip/download",
-			"timestamp": 1739369581,
-			"md5": "f102593d7747f2acc7394fcbfaa666e4",
-			"sha256": "ee74e255651a7e85783bcf0d6f8d0b37e08ecb7a71f2d815c5b48b7f2bd8b67d",
-			"size": 2425214987,
-			"version": "6.2.1-Boundless",
+			"filename": "RisingOS_Revived-6.3-250317-1400-GAPPS-OFFICIAL-cepheus-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/cepheus/RisingOS_Revived-6.3-250317-1400-GAPPS-OFFICIAL-cepheus-ota.zip/download",
+			"timestamp": 1742216253,
+			"md5": "d6c10f55a7b228cb007fd8c4a51856e6",
+			"sha256": "9f1b60f42de21f329f752b88d30a8adc9e028bcf876b477e54f12f0fe2e6bc3d",
+			"size": 2396381097,
+			"version": "6.3-Celestia",
 			"buildtype": "STABLE",
-			"forum": "",
+			"forum": "https://t.me/tribual_mi9",
 			"recovery": "https://sourceforge.net/projects/cepheus/files/recovery/OrangeFox-cepheus-A14RetrofitMetadata-28012024.zip/download",
-			"paypal": "tribual@web.de",
-			"telegram": "@tribual"
+			"paypal": "https://www.paypal.me/tribual",
+			"telegram": "https://t.me/tribual"
 		}
 	]
 }
