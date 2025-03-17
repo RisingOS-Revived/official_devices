@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Pyrtle93",
+			"oem": "Google",
+			"device": "panther",
+			"filename": "RisingOS_Revived-6.3-250316-2331-GAPPS-OFFICIAL-panther-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/panther/RisingOS_Revived-6.3-250316-2331-GAPPS-OFFICIAL-panther-ota-signed.zip/download",
+			"timestamp": 1742148078,
+			"md5": "974c1d92fffa7025143d857ed97493ed",
+			"sha256": "b180e1df9a0bd365b71fd498ea13be1e27f2f309fb7f2f2a7ece1ff4ef777119",
+			"size": 2658825083,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/PyrtlesPixels"
+		}
+	]
+}
