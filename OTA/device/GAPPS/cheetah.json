@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Pyrtle93",
+			"oem": "Google",
+			"device": "cheetah",
+			"filename": "RisingOS_Revived-6.3-250316-2024-GAPPS-OFFICIAL-cheetah-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/cheetah/RisingOS_Revived-6.3-250316-2024-GAPPS-OFFICIAL-cheetah-ota-signed.zip/download",
+			"timestamp": 1742136889,
+			"md5": "6e1ab637237b8bb2a7e30123eef6410d",
+			"sha256": "e14116dfae179cb6a5bd94511612dc2e722e2369284960fafcc4ab364cf08fd9",
+			"size": 2659817607,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/PyrtlesPixels"
+		}
+	]
+}
