@@ -1,7 +1,6 @@
-This is Android 15 QPR1 with February 2025 (r14) security patches
-
-Device changes:
-==============================
+=========03/16/2025===========
+- Welcome to Rising Revived 6.3 (Celestia)
+- Synced with latest Source Changes 
 
 =========02/16/2025===========
 - Synced with latest source changes

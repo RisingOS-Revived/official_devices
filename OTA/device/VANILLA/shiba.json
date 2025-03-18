@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "shiba",
+			"filename": "RisingOS_Revived-6.3-250316-2301-VANILLA-OFFICIAL-shiba-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/shiba/RisingOS_Revived-6.3-250316-2301-VANILLA-OFFICIAL-shiba-ota.zip/download",
+			"timestamp": 1742180400,
+			"md5": "28a1f5909c9d27a59250eae080e809d4",
+			"sha256": "ebd868948ee0641b1ba2773a4e5a74830ab42072e1d3d7b5fda010779de9f410",
+			"size": 1684391258,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}

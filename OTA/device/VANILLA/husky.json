@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "husky",
+			"filename": "RisingOS_Revived-6.3-250316-2314-VANILLA-OFFICIAL-husky-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/husky/RisingOS_Revived-6.3-250316-2314-VANILLA-OFFICIAL-husky-ota.zip/download",
+			"timestamp": 1742181172,
+			"md5": "1f74f1b8bfd2c75da291497137dfa40f",
+			"sha256": "4c8938975eb8cfda9c92b65e40bda8d26f011b51addf6b083ebcac71d20c2a01",
+			"size": 1692768923,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
