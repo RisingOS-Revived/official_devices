@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "akita",
+			"filename": "RisingOS_Revived-6.3-250316-2247-VANILLA-OFFICIAL-akita-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/akita/RisingOS_Revived-6.3-250316-2247-VANILLA-OFFICIAL-akita-ota.zip/download",
+			"timestamp": 1742179564,
+			"md5": "4af96e7dbf1dfb164e91e5785e9c88fb",
+			"sha256": "f804e700d9070ab99fb738a42c17185df02878d4e55f01c4feccde9d779de342",
+			"size": 1646946289,
+			"version": "6.3-Celestia",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
