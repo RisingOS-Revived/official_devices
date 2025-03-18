@@ -32,4 +32,5 @@
   <project name="android_device_oneplus_cheeseburger" />
   <project name="android_device_oneplus_dumpling" />
   <project name="device_xiaomi_toco" />
+  <project name="android_device_xiaomi_pipa" />
 </manifest>
