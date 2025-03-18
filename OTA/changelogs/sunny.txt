@@ -1,3 +1,5 @@
+16/3/2025
+
 This is Android 15 QPR1 with March 2025 (r15) security patches
 
 Device changelogs
@@ -8,6 +10,8 @@ Device changelogs
 * Removed ViperFX and DynamicSpot.
 
 
+14/2/2025
+
 This is Android 15 QPR1 with February 2025 (r14) security patches
 
 Device changes:
@@ -15,7 +19,7 @@ Device changes:
 * initial official release
 * Fixed an issue where VOIP routing is misconfigured.
 
-16/3/2025
+
 
 
 
