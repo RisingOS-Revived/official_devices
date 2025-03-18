@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: Xiaomi Mi Note 10 Lite
+Device codename: toco
+Device maintainer: fwlhh
+TWRP builder: yucellmustafa
+
+===== 18th March 2025 =====
+* Initial Build
