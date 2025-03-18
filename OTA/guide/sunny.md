@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## **Instructions**
 
 ### **Keep in Mind...**
@@ -22,6 +24,17 @@
 **Note:** Formatting with RisingOS Recovery (yes, ONLY RisingOS Recovery) is mandatory during a clean flash.
 
 ---
+
+# **Rom Download**
+- [RisingOS-Revived](https://risingosrevived.tech/downloads.html?codename=sunny)
+
+
+# **Recovery Images Download**
+
+- [Gapps](https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/sunny/recovery_images/)
+- [Core](https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/sunny/recovery_images/)
+- [Vanilla](https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/sunny/recovery_images/)
+
 
 ## **Installation Methods**
 
