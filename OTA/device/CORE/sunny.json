@@ -5,7 +5,7 @@
 			"oem": "Xiaomi",
 			"device": "Redmi Note 10",
 			"filename": "RisingOS_Revived-6.3-250316-1002-CORE-OFFICIAL-sunny-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/sunny/RisingOS_Revived-6.3-STABLE/RisingOS_Revived-6.3-250316-1002-CORE-OFFICIAL-sunny-ota.zip/download",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/sunny/RisingOS_Revived-6.3-250316-1002-CORE-OFFICIAL-sunny-ota.zip/download",
 			"timestamp": 1742119164,
 			"md5": "35a115079dc2738fdf4421e7a2c698b2",
 			"sha256": "274edd013689f2f945476a126b75c0bffac29a408f5a669c92ab29dea9658ea5",
@@ -13,7 +13,7 @@
 			"version": "6.3-Celestia",
 			"buildtype": "STABLE",
 			"forum": "https://t.me/rn10potato",
-			"recovery": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/sunny/RisingOS_Revived-6.3-STABLE/boot.img/download",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/sunny/recovery_images/",
 			"paypal": "",
 			"telegram": "https://t.me/dpenra"
 		}
