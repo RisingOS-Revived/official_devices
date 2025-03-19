@@ -1,4 +1,10 @@
-This is Android 15 QPR1 with February 2025 (r14) security patches
+
+=========02/16/2025===========
+- Synced with RisingOS Revived 6.3 (Calestia)
+- March Security Patch
+- Added Support for KernelSU Next (v1.0.5)
+- Added Support for SUSFS (v1.5.5)
+
 
 Device changes:
 ==============================
