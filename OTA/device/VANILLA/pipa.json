@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Aryan",
+                        "oem": "Xiaomi",
+                        "device": "pipa",
+                        "filename": "RisingOS_Revived-6.3-250318-2019-VANILLA-OFFICIAL-pipa-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/pipa/RisingOS_Revived-6.3-250318-2019-VANILLA-OFFICIAL-pipa-ota.zip/download",
+                        "timestamp": 1742329083,
+                        "md5": "fc7f305491a99502b977e62b543d669e",
+                        "sha256": "c3b79380e243099541649eb8fcdd7d2657b3b59c2597af89450a160d01b583e7",
+                        "size": 1402939694,
+                        "version": "6.3-Celestia",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/CuriousNom"
+                }
+        ]
+}
