@@ -1,6 +1,17 @@
-This is Android 15 QPR1 with February 2025 (r14) security patches
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: Redmi Note 12 4G (topaz/tapas)
+Device codename: topaz/tapas
+Device maintainer: skwel24 x mirabelle1999
 
-Device changes:
-==============================
-initial official release
+=<>=<>= 20 Mar 2025 =<>=<>=
+* March security patches.
+* Added CORE variant (Ships with Pixel Launcher)
+* OTA might not work as the signing keys have been updated.
+* Updated blobs & kernel modules to OS2.0.9.0.VMGMIXM
+* MUST FLASH firmware OS2.0.9.0.VMGMIXM for topaz / OS2.0.9.0.VMTMIXM for tapas
+* Minor performance improvements
 
+=<>=<>= 13 Feb 2025 =<>=<>=
+* Initial Official Release
+* This is Android 15 QPR1 with February 2025 (r14) security patches
