@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Rakhshan (shan_rakh)",
+			"oem": "Motorola",
+			"device": "miami",
+			"filename": "RisingOS_Revived-6.3-250319-1323-CORE-OFFICIAL-miami-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/miami/RisingOS_Revived-6.3-250319-1323-CORE-OFFICIAL-miami-ota.zip/download",
+			"timestamp": 1742364225,
+			"md5": "1596b90769eda3811c1bbffecf92b168",
+			"sha256": "f99b82c067fb422e762c8713eb2d4c288bb813e730079bfea6b46cd8df506baa",
+			"size": 2302535102,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/miami/IMGs/",
+			"paypal": "",
+			"telegram": "https://t.me/ararchive_shan_rakh_discussion"
+		}
+	]
+}

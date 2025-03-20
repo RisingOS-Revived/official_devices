@@ -1,0 +1,8 @@
+Device changes:
+
+=========19/03/2025===========
+- Intial official release ; RisingOS Revived 6.3 (Calestia)
+- March Security Patch
+- Added KernelSU Next v1.0.5 
+- Added SUSFS v1.5.5
+- Added Dolby Atmos
