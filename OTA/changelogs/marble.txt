@@ -4,7 +4,33 @@ Device name: Poco F5/Redmi Note 12 Turbo
 Device codename: marble
 Device maintainer: SharmagRit
 
-=×=×= 25th January 2024 =×=×=
+=×=×= 20th March 2025 =×=×=
+* Synced with Latest RisingOS Revived sources v6.3 (Celestia)
+* sm8450-common: overlay: Disable turbulence noise
+* sm8450-common: properties: Use HintManager for HWUI
+* sm8450-common: Compile HWUI for performance
+* sm8450-common: Apply dex2oat optimizations
+* sm8450-common: properties: Enable support for kernel idle timer
+* sm8450-common: properties: Allow more cached apps in the background
+* sm8450-common: init: rm package cache on early boot
+* sm8450-common: Disable ART debug
+* sm8450-common: Disable frp
+* sm8450-common: overlay: Disable NearbyMessagesService
+* sm8450-common: props: Add missing layer buffer slots cache clear property
+* sm8450-common: props: Disable game_default_frame_rate override
+* sm8450-common: props: Set SF caching property to 0 (enable)
+* sm8450-common: Fix Dolby audio codecs
+* sm8450-common: properties: Set frame rate multiple threshold to 120
+* sm8450-common: Do not use phase offsets as duration
+* sm8450-common: commonize binder_prio
+* sm8450-common: Implement torch light control
+* sm8450-common: Set VENDOR_SECURITY_PATCH To PLATFORM
+* sm8450-common: Add support for 60Hz in Landscape in Per-App-RR
+* sm8450-common: parts: Fix setting default thermal profile
+* sm8450-common: parts: Automatically determine thermal profile for apps
+* sm8450-common: Add Props to improve battery backup
+
+=×=×= 25th January 2025 =×=×=
 * Synced with latest RisingOS-Revived v6.2.1 Boundless source
 * Based on latest blobs 
 * Update CarrierConfig from peridot v816.0.4.0UNPMIXM
