@@ -4,6 +4,11 @@ Device name: Xiaomi Mi Note 10 Lite
 Device codename: toco
 Device maintainer: fwlhh
 TWRP builder: yucellmustafa
+Miuicamera: AndroidHQ254
+
+===== 18th March 2025 =====
+* Import Miuicamera by AndroidHQ254
+* Kernelsu set is as default
 
 ===== 18th March 2025 =====
 * Initial Build
