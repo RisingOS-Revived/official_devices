@@ -33,4 +33,5 @@
   <project name="device_oneplus_dumpling" />
   <project name="device_xiaomi_toco" />
   <project name="android_device_xiaomi_pipa" />
+  <project name="android_device_samsung_a71" />
 </manifest>
