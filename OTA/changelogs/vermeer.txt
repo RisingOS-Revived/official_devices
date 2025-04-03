@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: POCO F6 Pro / Redmi K70
+Device codename: vermeer
+Device maintainer: Lunark :3
+
+===== 03th April 2025 =====
+* Initial Official release
+* Initial OTA support
+* Improved Thermal Mode 
+* Add DC dimming 
+* Improved auto brightness 
+* Add GamebarV2 
+* A15 FPS restriction removed
+* Kernel prebuilt updated from OS1.0.11.0.UNKMIXM

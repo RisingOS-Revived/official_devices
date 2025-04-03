@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Lunark :3",
+			"oem": "Xiaomi",
+			"device": "POCO F6 Pro / Redmi K70",
+			"filename": "RisingOS_Revived-6.3-250403-0409-GAPPS-OFFICIAL-vermeer-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/vermeer/RisingOS_Revived-6.3-250403-0409-GAPPS-OFFICIAL-vermeer-ota.zip/download",
+			"timestamp": 1743645607,
+			"md5": "2c142fdae5f4b17a1e48e9658507c8d3",
+			"sha256": "c61efcf125255e62c1ba12a66d7c61544c5a4c1cfb9123a2fabbeef732ff92e7",
+			"size": 3300719832,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "https://xdaforums.com/t/rom-a15-rising-revived-oss-for-poco-f6-pro-redmi-k70.4728732/",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/vermeer/IMGs/recovery.img/download",
+			"paypal": "https://www.paypal.me/justinVM117",
+			"telegram": "https://t.me/PocoF6ProSupport"
+		}
+	]
+}
