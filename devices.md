@@ -25,6 +25,8 @@
 ## OnePlus
 - **OnePlus 5 (cheeseburger)** - [`@SirRGB`](https://github.com/SirRGB)
 - **OnePlus 5T (dumpling)** - [`@SirRGB`](https://github.com/SirRGB)
+- **OnePlus 7T Pro (hotdog)** - [`@answer35`](https://t.me/answer35)
+- **OnePlus 8 Pro (instantnoodlep)** - [`@answer35`](https://t.me/answer35)
 - **OnePlus 10 pro (wly)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
 
 ## Poco
