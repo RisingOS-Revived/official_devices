@@ -12,6 +12,7 @@
 - **Pixel 8 (shiba)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 8 Pro (husky)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 8a (akita)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
+- **Pixel 9 Pro Xl (komodo)** - [`@Slogar25`](https://t.me/Slogar25)
 
 ## Motorola
 - **Motorola Edge 30 (Dubai)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
