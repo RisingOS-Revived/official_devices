@@ -26,6 +26,8 @@
 ## OnePlus
 - **OnePlus 5 (cheeseburger)** - [`@SirRGB`](https://github.com/SirRGB)
 - **OnePlus 5T (dumpling)** - [`@SirRGB`](https://github.com/SirRGB)
+- **OnePlus 7T Pro (hotdog)** - [`@answer35`](https://t.me/answer35)
+- **OnePlus 8 Pro (instantnoodlep)** - [`@answer35`](https://t.me/answer35)
 - **OnePlus 10 pro (wly)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
 
 ## Poco
@@ -48,6 +50,7 @@
 - **Redmi Note 12 4G (topaz/tapas)** - [`@skwel24`](https://t.me/skwel24) &&  [`@mirabelle1999`](https://t.me/mirabelle1999)
 
 ## Samsung
+- **Samsung A71 4G (a71)** - [`@eun0115`](https://t.me/pa38_112)
 - **Samsung A73 5G (a73xq)** - [`@alqix0`](https://t.me/alqix0)
 
 ## Tecno

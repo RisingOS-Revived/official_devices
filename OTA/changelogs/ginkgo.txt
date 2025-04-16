@@ -1,3 +1,10 @@
+=========03/23/2025===========
+- Welcome to Rising Revived 6.3 (Celestia)
+- Synced with latest Source Changes
+- Implement torch control in xiaomi parts
+- Fix HEVC video recording
+- Fix portrait mode in MIUI camera
+
 This is Android 15 QPR1 with February 2025 (r14) security patches
 
 Device changes:

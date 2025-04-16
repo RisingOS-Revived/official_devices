@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "SharmagRit",
+			"oem": "POCO",
+			"device": "POCO F5",
+			"filename": "RisingOS_Revived-6.3-250319-0124-VANILLA-OFFICIAL-marble-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/marble/RisingOS_Revived-6.3-250319-0124-VANILLA-OFFICIAL-marble-ota.zip/download",
+			"timestamp": 1742343774,
+			"md5": "cf60d72750f05639701dff9b9896efcc",
+			"sha256": "16fcbb2554b3857517f9cee4da0084a8107b1e972877add6096fb0559fded3c9",
+			"size": 2003151408,
+			"version": "6.3-Celestia",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.com/paypalme/RiteshKrSharma",
+			"telegram": "https://t.me/marble_builds"
+		}
+	]
+}

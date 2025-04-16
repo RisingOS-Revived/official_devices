@@ -24,14 +24,18 @@
   <project name="device_xiaomi_surya" />
   <project name="device_xiaomi_sunny" />
   <project name="device_xiaomi_topaz" />
-  <project namw="device_xiaomi_sky" />
+  <project name="device_xiaomi_sky" />
   <project name="device_samsung_a73xq" />
   <project name="device_xiaomi_veux" />
   <project name="device_xiaomi_peridot" />
   <project name="device_xiaomi_redwood" />
   <project name="device_xiaomi_vermeer" />
-  <project name="android_device_oneplus_cheeseburger" />
-  <project name="android_device_oneplus_dumpling" />
+  <project name="device_oneplus_cheeseburger" />
+  <project name="device_oneplus_dumpling" />
   <project name="device_xiaomi_toco" />
   <project name="android_device_xiaomi_pipa" />
+  <project name="android_device_samsung_a71" />
+  <project name="device_oneplus_hotdog" />
+  <project name="device_oneplus_instantnoodlep" />
+
 </manifest>
