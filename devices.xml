@@ -21,6 +21,7 @@
   <project name="device_google_panther" />
   <project name="device_google_komodo" />
   <project name="device_xiaomi_ginkgo" />
+  <project name="device_xiaomi_garnet" />
   <project name="device_xiaomi_surya" />
   <project name="device_xiaomi_sunny" />
   <project name="device_xiaomi_topaz" />
