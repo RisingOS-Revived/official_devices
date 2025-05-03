@@ -38,5 +38,6 @@
   <project name="android_device_samsung_a71" />
   <project name="device_oneplus_hotdog" />
   <project name="device_oneplus_instantnoodlep" />
+  <project name="device_xiaomi_stone" />
 
 </manifest>
