@@ -1,0 +1,21 @@
+{
+    "response": [
+        {
+            "maintainer": "kAiF",
+            "oem": "Xiaomi",
+            "device": "sky",
+            "filename": "RisingOS_Revived-7.0-250508-0813-VANILLA-UNOFFICIAL-sky-ota.zip",
+            "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/VANILLA/sky/RisingOS_Revived-7.0-250508-0813-VANILLA-OFFICIAL-sky-ota.zip/download",
+            "timestamp": 1746691887,
+            "md5": "5a2678fa20138ec4ab5ab4dee06e34f8",
+            "sha256": "1e505e2c885d61b1fa3c07c2306600a9509fdb54782040529660a0e9a438cb5c",
+            "size": 1275449536,
+            "version": "7.0-Persis",
+            "buildtype": "STABLE",
+            "forum": "",
+            "recovery": "https://t.me/roms_sky/12",
+            "paypal": "https://coindrop.to/askthekaif",
+            "telegram": "t.me/kAiF_00z"
+        }
+    ]
+}

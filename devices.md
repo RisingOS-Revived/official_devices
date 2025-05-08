@@ -41,7 +41,7 @@
 - **POCO X5 5G/REDMI NOTE 12 5G (stone)** - [`@bittencourtjulival`](https://t.me/bittencourtjulival)
 - **POCO X5 Pro 5G (redwood)** - [`@Thereache`](https://t.me/thereache)
 - **POCO X6 5G (garnet)** - [`@amrito_kun`](https://t.me/amrito_kun)
-- **POCO M6 Pro 5G (sky)** - [`@kAiF_00z`](https://t.me/kAiF_00z)
+- **POCO M6 Pro 5G/REDMI 12 5G (sky)** - [`@kAiF_00z`](https://t.me/kAiF_00z)
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)

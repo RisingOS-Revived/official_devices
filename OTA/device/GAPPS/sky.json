@@ -1,0 +1,21 @@
+{
+    "response": [
+        {
+            "maintainer": "kAiF",
+            "oem": "Xiaomi",
+            "device": "sky",
+            "filename": "RisingOS_Revived-7.0-250508-0751-GAPPS-OFFICIAL-sky-ota.zip",
+            "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/sky/RisingOS_Revived-7.0-250508-0751-GAPPS-OFFICIAL-sky-ota.zip/download",
+            "timestamp": 1746690561,
+            "md5": "f8c0a81ab15708572ca3c3ee884531f9",
+            "sha256": "be246456a4e979480b02358f303f809276380e277efe9ba407bb8ab0fa435238",
+            "size": 2263424362,
+            "version": "7.0-Persis",
+            "buildtype": "STABLE",
+            "forum": "",
+            "recovery": "https://t.me/roms_sky/12",
+            "paypal": "https://coindrop.to/askthekaif",
+            "telegram": "t.me/kAiF_00z"
+        }
+    ]
+}

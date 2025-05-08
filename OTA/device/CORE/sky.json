@@ -1,22 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "Ashwani",
+			"maintainer": "kAiF",
 			"oem": "Xiaomi",
 			"device": "sky",
-			"filename": "RisingOS_Revived-6.2.1-STABLE-25021313-CORE-OFFICIAL-sky-ota.zip",
-			"download": "",
-			"timestamp": 1739453955,
-			"md5": "ea6400294383273301b598d87cd929f2",
-			"sha256": "7717ab08f53941a3ead9426dc99b370afec3fffff55482362dbc68c9d0f6b416",
-			"size": 1904192168,
-			"version": "6.2.1-Boundless",
-			"buildtype": "",
+			"filename": "RisingOS_Revived-7.0-250508-0722-CORE-OFFICIAL-sky-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/sky/RisingOS_Revived-7.0-250508-0722-CORE-OFFICIAL-sky-ota.zip/download",
+			"timestamp": 1746688858,
+			"md5": "56515f53a5e928a9d8a7fb3bb3dbd191",
+			"sha256": "e1d58fddca4c821ee37efe66f6b1e74c66df32eae2def3e2b360ffc966565053",
+			"size": 2263424055,
+			"version": "7.0-Persis",
+			"buildtype": "STABLE",
 			"forum": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": ""
+			"recovery": "https://t.me/roms_sky/12",
+			"paypal": "https://coindrop.to/askthekaif",
+			"telegram": "t.me/kAiF_00z"
 		}
 	]
 }
-
