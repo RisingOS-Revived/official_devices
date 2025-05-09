@@ -5,16 +5,16 @@
                         "maintainer": "Aryan",
                         "oem": "Xiaomi",
                         "device": "pipa",
-                        "filename": "RisingOS_Revived-6.3-250318-1605-CORE-OFFICIAL-pipa-ota.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/pipa/RisingOS_Revived-6.3-250318-1605-CORE-OFFICIAL-pipa-ota.zip/download",
+                        "filename": "RisingOS_Revived-7.0-250507-1933-CORE-OFFICIAL-pipa-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/pipa/RisingOS_Revived-7.0-250507-1933-CORE-OFFICIAL-pipa-ota.zip/download",
                         "timestamp": 1742329083,
-                        "md5": "60a7c4be29e4844cf5d502cc2933100d",
-                        "sha256": "7174c3807b30500b44831329bdb0098e8bc3e205e63146283643a7467087cec1",
+                        "md5": "05f814c71e2d5223584d8061688a23e3"
+                        "sha256": "2d1b017af3b3ff2b14f27918f319ad70df86e954",
                         "size": 2232179996,
-                        "version": "6.3-Celestia",
+                        "version": "7.0-Persis",
                         "buildtype": "STABLE",
                         "forum": "",
-                        "recovery": "",
+                        "recovery": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/pipa/Recovery%20Images/vendor_boot.img/download",
                         "paypal": "",
                         "telegram": "https://t.me/CuriousNom"
                 }
