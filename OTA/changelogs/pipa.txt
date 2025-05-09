@@ -1,2 +1,43 @@
 =========19/03/2025===========
 * Initial official release for pipa
+
+=========09/05/2025===========
+* Spoof device from s9 ultra
+* Ported Dolby from alioth
+* Upstreamed media codecs
+* Update Boot Control HAL v1.2
+* Dropped los health hal
+* Removed NFC packages
+* Tuned Powerhint
+* Removed FM tuner leftovers
+* Allow more cached apps in the background
+* Disable alpha compositing in WM
+* Downscale task snapshots to 80%
+* Set config_wallpaperMaxScale to 1
+* Configure SQLite to operate in MEMORY mode
+* Offload WM shell to another thread
+* Disable slow blur effect
+* Enable USB and skin temperature warnings
+* Default Refresh Rate Set to 60hz
+* Set higher order for thermal intent
+* Increase BootCompletedReceiver priority
+* Use DirectBootAware
+* Added per app refresh rate setting
+* Introduced GameBar v2.0 (FPS Broken for now)
+* Tuned Wifi configs
+* Removed and cleaned up init
+* Switch hwcomposer to foreground CPU set
+* Disable Chimera.GmsIntentOperationService
+* Disable collective Device administrators GMS components
+* Fix trace error spam
+* Imported Custom Thermals from alioth (good bb & perf) 
+* RIL props for better bb
+* Disable Vsync for cpu rendering
+* Supress all logspams
+* Upstreamed kernel v4.19.331
+* Many more underhood changes!
+
+NOTE:
+* FPS meter broken im gamebar v2, use aosp fps meter for now
+* Device already spoofed to s9u, dont spoof again for gaming
+* Boot time is little slow for optimisation
