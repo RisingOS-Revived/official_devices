@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Julival Bittencourt",
+                        "oem": "Xiaomi",
+                        "device": "stone",
+                        "filename": "RisingOS_Revived-7.0-250508-1521-GAPPS-OFFICIAL-stone-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/stone/RisingOS_Revived-7.0-250508-1521-GAPPS-OFFICIAL-stone-ota.zip/download",
+                        "timestamp": 1746725222,
+                        "md5": "ffd2380c098210afe781e792083ca684",
+                        "sha256": "8fe177753826027afc207af8154c55bb0a124d4ae4fd6db4d66279da92a7a6e2",
+                        "size": 1666799620,
+                        "version": "7.0-Persis",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/stone/IMGs/boot.img/download",
+                        "paypal": "https://telegra.ph/Device-support-05-09",
+                        "telegram": "https://t.me/bittencourtjulival_builds"
+                }
+        ]
+}
