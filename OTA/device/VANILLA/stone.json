@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Julival Bittencourt",
+                        "oem": "Xiaomi",
+                        "device": "stone",
+                        "filename": "RisingOS_Revived-7.0-250513-2139-VANILLA-OFFICIAL-stone-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/VANILLA/stone/RisingOS_Revived-7.0-250513-2139-VANILLA-OFFICIAL-stone-ota.zip/download",
+                        "timestamp": 1747180287,
+                        "md5": "17843022507e9665304fdb50f06d0133",
+                        "sha256": "7050fd9f712798c7f53eabc07d3f1c1ba410cf08bd9e8f3ad2306dd773b87274",
+                        "size": 1294937324,
+                        "version": "7.0-Persis",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/stone/IMGs/boot.img/download",
+                        "paypal": "https://telegra.ph/Device-support-05-09",
+                        "telegram": "https://t.me/bittencourtjulival_builds"
+                }
+        ]
+}

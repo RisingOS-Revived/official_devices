@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Julival Bittencourt",
+                        "oem": "Xiaomi",
+                        "device": "stone",
+                         "filename": "RisingOS_Revived-7.0-250513-1507-CORE-OFFICIAL-stone-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/stone/RisingOS_Revived-7.0-250513-1507-CORE-OFFICIAL-stone-ota.zip/download",
+                        "timestamp": 1747156409,
+                        "md5": "b74e4c3e41805df5283d46f01e2e13a5",
+                        "sha256": "e05b2e805fced69c67d720b656932f319da0cad6c450a3f6689714f9105000ad",
+                        "size": 1718591872,
+                        "version": "7.0-Persis",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/stone/IMGs/boot.img/download",
+                        "paypal": "https://telegra.ph/Device-support-05-09",
+                        "telegram": "https://t.me/bittencourtjulival_builds"
+                }
+        ]
+}
