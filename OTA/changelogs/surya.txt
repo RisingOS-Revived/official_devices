@@ -4,7 +4,12 @@ Device name: Poco X3/NFC
 Device codename: surya
 Device maintainer: shoya0x00
 
-=×=×= 20th February 2024 =×=×=
+=×=×= 15th May 2025 =×=×=
+* Synced with latest source
+* May security patches
+* Misc fixes and optimizations
+
+=×=×= 20th February 2025 =×=×=
 * Synced with latest source
 * February security patches
 * Misc fixes and optimizations
