@@ -4,6 +4,15 @@ Device name: Redmi Note 12 4G (topaz/tapas)
 Device codename: topaz/tapas
 Device maintainer: skwel24 x mirabelle1999
 
+=<>=<>= 17 May 2025 =<>=<>=
+* May security patch.
+* Added MiuiCam and Dolby Atmos
+* VANILLA Build Only
+* OTA might not work as the signing keys have been updated.
+* Updated blobs to OS2.0.10.0.VMGMIXM
+* MUST FLASH firmware OS2.0.10.0.VMGMIXM for topaz / OS2.0.11.0.VMTMIXM for tapas
+* Minor misc and performance improvements
+
 =<>=<>= 20 Mar 2025 =<>=<>=
 * March security patches.
 * Added CORE variant (Ships with Pixel Launcher)

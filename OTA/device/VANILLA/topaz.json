@@ -4,19 +4,18 @@
                         "maintainer": "Haruki x skwel",
                         "oem": "Xiaomi",
                         "device": "topaz",
-                        "filename": "RisingOS_Revived-6.3-250320-0042-VANILLA-OFFICIAL-topaz-ota-signed.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/topaz/RisingOS_Revived-6.3-250320-0042-VANILLA-OFFICIAL-topaz-ota-signed.zip/download",
-                        "timestamp": 1742431360,
-                        "md5": "cdcd18c414ea62fd946782e2114c1d1a",
-                        "sha256": "58fca0446229dc1a30fddaaddb3b2658b61282913c6f69ceba52ea60a81ce038",
-                        "size": 1471135235,
-                        "version": "6.3-Celestia",
+                        "filename": "RisingOS_Revived-7.0-250516-1854-VANILLA-OFFICIAL-topaz-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/VANILLA/topaz/RisingOS_Revived-7.0-250516-1854-VANILLA-OFFICIAL-topaz-ota.zip/download",
+                        "timestamp": 1747421547,
+                        "md5": "21670ae1a552603db3bd770343fd5345",
+                        "sha256": "95a1dfa5ab314c1c83c46c94bc8c6c827130a049a6c636df5d32e8d2a8a77992",
+                        "size": 1498473800,
+                        "version": "7.0-Persis",
                         "buildtype": "STABLE",
                         "forum": "",
                         "recovery": "",
-                        "paypal": "https://t.me/+Rj6G60z07As3OWJl",
-                        "telegram": "https://t.me/CartelPH/52"
+                        "paypal": "paypal.me/skwel",
+                        "telegram": "https://t.me/skwelbuilds"
                 }
         ]
 }
-
