@@ -1,5 +1,13 @@
 Device changes:
 
+=========18/05/2025===========
+- May Security Patch
+- Fixed Hotspot crash
+- Enabled USB and skin temperature warnings
+- Dropped Dolby Atmos (Will be added back later) 
+- Updated KernelSU Next v1.0.6 
+- Fixed bottom text margin
+
 =========19/03/2025===========
 - Intial official release ; RisingOS Revived 6.3 (Calestia)
 - March Security Patch
