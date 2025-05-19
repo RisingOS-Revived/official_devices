@@ -1,0 +1,7 @@
+May 19 2025
+
+This is QPR2 with May 2025 security patches
+
+Device changes:
+==============================
+Initial official release
