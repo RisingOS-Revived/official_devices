@@ -55,6 +55,8 @@
 ## Samsung
 - **Samsung A71 4G (a71)** - [`@eun0115`](https://t.me/pa38_112)
 - **Samsung A73 5G (a73xq)** - [`@alqix0`](https://t.me/alqix0)
+- **Samsung Galaxy Tab S6 Lite LTE (gta4xl)** - [`@objectfigure`](https://t.me/objectfigure)
+
 
 ## Tecno
 

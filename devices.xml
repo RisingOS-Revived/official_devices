@@ -40,4 +40,6 @@
   <project name="device_oneplus_instantnoodlep" />
   <project name="device_xiaomi_stone" />
   <project name="device_google_bluejay" />
+  <project name="android_device_samsung_gta4xl" />
+  <project name="android_device_samsung_gta4xlwifi" />
 </manifest>
