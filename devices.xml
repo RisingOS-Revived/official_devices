@@ -42,4 +42,5 @@
   <project name="device_google_bluejay" />
   <project name="device_samsung_gta4xl" />
   <project name="device_samsung_gta4xlwifi" />
+  <project name="device_xiaomi_apollo" />
 </manifest>
