@@ -16,9 +16,7 @@
   <project name="device_google_akita" />
   <project name="device_google_husky" />
   <project name="device_google_akita" />
-  <project name="device_google_cheetah" />
   <project name="device_google_lynx" />
-  <project name="device_google_panther" />
   <project name="device_google_komodo" />
   <project name="device_xiaomi_ginkgo" />
   <project name="device_xiaomi_garnet" />
@@ -39,7 +37,7 @@
   <project name="device_oneplus_hotdog" />
   <project name="device_oneplus_instantnoodlep" />
   <project name="device_xiaomi_stone" />
-  <project name="device_google_bluejay" />
+  <project name="device_google_bluejay"/>
   <project name="device_samsung_gta4xl" />
-  <project name="device_samsung_gta4xlwifi" />
+  <project name="device_google_pantah />
 </manifest>
