@@ -61,5 +61,6 @@
 
 ## Xiaomi
 - **Mi 9 (cepheus)** - [`@tribual`](https://t.me/tribual)
+- **Mi 10T/Mi 10T pro (apollo)** - [`@MurtazaKolachi`](https://t.me/MurtazaKolachi)
 - **Mi Note 10 Lite (toco)** - [`@fwlhh`](https://t.me/fwlhh)
 - **Xiaomi Pad 6 (pipa)** - [`@CuriousNom`](https://t.me/CuriousNom)
