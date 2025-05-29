@@ -1,0 +1,21 @@
+{
+    "response": [
+        {
+            "maintainer": "objecting_",
+            "oem": "Samsung",
+            "device": "gta4xlwifi",
+            "filename": "RisingOS_Revived-7.0-250527-0924-CORE-OFFICIAL-gta4xlwifi.zip",
+            "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/gta4xlwifi/RisingOS_Revived-7.0-250527-0924-CORE-OFFICIAL-gta4xlwifi.zip/download",
+            "timestamp": 1748337804,
+            "md5": "62ffaf7a9980be2b1241cd7ca0896c0f",
+            "sha256": "6aac2b4598665ef3a47c545f25",
+            "size": 2462154754,
+            "version": "7.0-Persis",
+            "buildtype": "CORE",
+            "forum": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "t.me/gta4xlwifi"
+        }
+    ]
+}
