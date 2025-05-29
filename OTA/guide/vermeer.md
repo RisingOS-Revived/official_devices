@@ -3,11 +3,11 @@
 **Maintainer:** [Lunark :3](https://t.me/PocoF6ProSupport) | @ByteWave1014
 
 # Preparation
-* Flash the Firmware OS1.0.11.0.UNKMIXM
+* Flash the Firmware OS2.0.102.0.VNKMIXM
 
 ### Required Recovery
 
-* Download the needed recovery from [download page](https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/vermeer/IMGs/recovery.img/download)
+* Download the needed recovery from [download page](https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/vermeer/IMGs/recovery.img/download)
 
 * Required device recovery for first-time flash:
   * recovery.img
