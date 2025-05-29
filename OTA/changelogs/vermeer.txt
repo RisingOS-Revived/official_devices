@@ -13,3 +13,27 @@ Device maintainer: Lunark :3
 * Add GamebarV2 
 * A15 FPS restriction removed
 * Kernel prebuilt updated from OS1.0.11.0.UNKMIXM
+
+==== Update 7.0 02th June 2025 ====
+* May security patch
+* Lift to wake gesture
+* Enable ambient mode burn-in protection
+* Introduce GameBar V4.0
+* Switch to armv9-a arch and Kryo785
+* Build DSPVolumenSynchronizer
+* Updated blobs from OS2.0.102.VNKMIXM
+* Globally enable LTE+ icon
+* Migrate to common libqti-perfd-client and power-libperfmgr
+* Enable usage of dex2oat64
+* Introduce Xiaomi HyperCharge Control
+* Switch audio prebuilt and switch audio gms to OSS
+* Fixed Ghost touch when using the "Screen off UFPS" function
+* kernelOss Updated to 5.15.184
+* Includes Firmware OS2.0.102.VNKMIXM
+* Add XiaomiParts icon
+* Added Spanish translation for Xiaomi-parts
+* Import PowerTools V5
+* Enable freeform multi-windows
+* Includes Ksu and susfs
+* Includes Dolby Atmos
+* Includes HyperOS Camera
