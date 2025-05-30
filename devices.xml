@@ -19,6 +19,7 @@
   <project name="device_google_cheetah" />
   <project name="device_google_lynx" />
   <project name="device_google_panther" />
+  <project name="device_google_felix" />
   <project name="device_google_komodo" />
   <project name="device_xiaomi_ginkgo" />
   <project name="device_xiaomi_garnet" />
