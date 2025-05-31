@@ -1,21 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "Pyrtle93",
+			"maintainer": "EliteDarkKaiser",
 			"oem": "Google",
 			"device": "panther",
-			"filename": "RisingOS_Revived-6.3-250316-2331-GAPPS-OFFICIAL-panther-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/panther/RisingOS_Revived-6.3-250316-2331-GAPPS-OFFICIAL-panther-ota-signed.zip/download",
-			"timestamp": 1742148078,
-			"md5": "974c1d92fffa7025143d857ed97493ed",
-			"sha256": "b180e1df9a0bd365b71fd498ea13be1e27f2f309fb7f2f2a7ece1ff4ef777119",
-			"size": 2658825083,
-			"version": "6.3-Celestia",
+			"filename": "RisingOS_Revived-7.0-250530-1841-GAPPS-OFFICIAL-panther-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/panther/RisingOS_Revived-7.0-250530-1841-GAPPS-OFFICIAL-panther-ota.zip/download",
+			"timestamp": 1748644796,
+			"md5": "e7e6dbe7f79251e5898866646ca26557",
+			"sha256": "82451d1163be5fdc212b753fe9fe245d6fa5cf9e7b027952a797e96c22ad4d83",
+			"size": 2774176265,
+			"version": "7.0-Persis",
 			"buildtype": "STABLE",
-			"forum": "",
+			"forum": "https://xdaforums.com/t/rom-official-beta-community-risingos-6-2-a15-jan-spl-pantah.4711870/",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "https://t.me/PyrtlesPixels"
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]
 }

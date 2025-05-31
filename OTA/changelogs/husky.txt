@@ -1,3 +1,9 @@
+=========05/30/2025===========
+- Welcome to RisingOS Revived 7.0 (Persis)
+- Synced with latest Source Changes
+- Device Tree, Kernel, and Vendor updated too MAY 2025
+- MUST BE ON MAY FIRMWARE on Both A&B Partitions
+
 =========03/16/2025===========
 - Welcome to Rising Revived 6.3 (Celestia)
 - Synced with latest Source Changes 

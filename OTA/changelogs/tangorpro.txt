@@ -1,7 +1,7 @@
-This is Android 15 QPR1 with February 2025 (r14) security patches
-
-Device changes:
-==============================
+=========05/30/2025===========
+- Welcome to RisingOS Revived 7.0 (Persis)
+- Synced with latest Source Changes
+- Device Tree, Kernel, and Vendor updated too MAY 2025
 
 =========02/16/2025===========
 - Synced with latest source changes

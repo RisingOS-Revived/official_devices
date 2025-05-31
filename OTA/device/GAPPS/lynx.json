@@ -1,21 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "Pyrtle93",
+			"maintainer": "EliteDarkKaiser",
 			"oem": "Google",
 			"device": "lynx",
-			"filename": "RisingOS_Revived-6.3-250317-0538-GAPPS-OFFICIAL-lynx-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/lynx/RisingOS_Revived-6.3-250317-0538-GAPPS-OFFICIAL-lynx-ota-signed.zip/download",
-			"timestamp": 1742170107,
-			"md5": "44767973074a0eb5e44a277add9b7980",
-			"sha256": "1aa4ff441ec3ba5556fc92379a3d902a3ad0a41b8b509d823e0a9e71085333bc",
-			"size": 2652367718,
-			"version": "6.3-Celestia",
+			"filename": "RisingOS_Revived-7.0-250530-2147-GAPPS-OFFICIAL-lynx-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/lynx/RisingOS_Revived-7.0-250530-2147-GAPPS-OFFICIAL-lynx-ota.zip/download",
+			"timestamp": 1748655988,
+			"md5": "455d6b9d8ff1c96d3963edd1e0b7e7b3",
+			"sha256": "449058b6832e26d0bbf7183072ee16f8ec4175a99289d44c1637ceeb2142c479",
+			"size": 2769601383,
+			"version": "7.0-Persis",
 			"buildtype": "STABLE",
-			"forum": "",
+			"forum": "https://xdaforums.com/t/rom-beta-community-unofficial-risingos-revived-6-2-1-a15-feb-spl-lynx.4597839/",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "https://t.me/PyrtlesPixels"
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]
 }

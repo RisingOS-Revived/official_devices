@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "felix",
+			"filename": "RisingOS_Revived-7.0-250530-1551-GAPPS-OFFICIAL-felix-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/felix/RisingOS_Revived-7.0-250530-1551-GAPPS-OFFICIAL-felix-ota.zip/download",
+			"timestamp": 1748634605,
+			"md5": "69a002cfa78c3b38835fcfd57e9788c7",
+			"sha256": "62902a1aba1a76ba6f9aeb77d07345ad0e28637b776beca25cf5f7a8dbf76ad6",
+			"size": 2731397129,
+			"version": "7.0-Persis",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
+		}
+	]
+}

@@ -4,18 +4,18 @@
 			"maintainer": "EliteDarkKaiser",
 			"oem": "Google",
 			"device": "husky",
-			"filename": "RisingOS_Revived-6.3-250316-2017-GAPPS-OFFICIAL-husky-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/husky/RisingOS_Revived-6.3-250316-2017-GAPPS-OFFICIAL-husky-ota.zip/download",
-			"timestamp": 1742170556,
-			"md5": "746e3d14aa6f99eae8ac40812f1e0ef5",
-			"sha256": "43f834a250b7b1157c5633504896e3684df8034de61f14f1014d8e1310080c7d",
-			"size": 2518990019,
-			"version": "6.3-Celestia",
+			"filename": "RisingOS_Revived-7.0-250530-1325-GAPPS-OFFICIAL-husky-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/husky/RisingOS_Revived-7.0-250530-1325-GAPPS-OFFICIAL-husky-ota.zip/download",
+			"timestamp": 1748625855,
+			"md5": "f107940e15001eeb6c847ea3e7ccc3a5",
+			"sha256": "d30e37e8879efa3e69545745f2f17cd2d0d8d47ecdaeec4de388ae9b74dcf5c7",
+			"size": 2698864664,
+			"version": "7.0-Persis",
 			"buildtype": "STABLE",
-			"forum": "",
+			"forum": "https://xdaforums.com/t/rom-official-risingos-revived-7-0-a15-april-spl-shusky.4670958/",
 			"recovery": "",
 			"paypal": "",
-			"telegram": ""
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]
 }
