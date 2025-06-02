@@ -1,7 +1,15 @@
-This is Android 15 QPR1 with March 2025 security patches.
+This is Android 15 QPR2 with may 2025 security patches.
 
-- Credits to Arian16k, ph12nex, Chaitanya, flakeforever, Adrianyyyy.
+- Credits to Arian16k, ph12nex, MIUI_users_r_GAY, Chaitanya, flakeforever, Adrianyyyy.
 - Report issues with logs.
+
+==============================
+02/06/2025
+==============================
+Device changes:
+- Initial release,
+- Clean Flash,
+- Report only Device side issues with logs.
 
 ==============================
 17/3/2025
