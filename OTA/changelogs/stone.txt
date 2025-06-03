@@ -1,2 +1,12 @@
+=========02/06/2025===========
+* Include Pixel Launcher (Gapps and core)
+* Parameter adjustment for better performance and responsiveness
+* Allowed system apps to access zram nodes
+* Set 60Hz max refresh rate on AOD & Ambient Display
+* Added ViPER4AndroidFX
+* Animation improvements
+* Fixed issues with HDR
+* Other small improvements under the hood
+
 =========13/05/2025===========
 * Initial official release for stone
