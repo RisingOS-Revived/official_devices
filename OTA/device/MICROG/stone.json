@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Julival Bittencourt",
+			"oem": "Xiaomi",
+			"device": "stone",
+			"filename": "RisingOS_Revived-7.0-250602-2342-MICROG-OFFICIAL-stone-ota.zip",
+             "download": "",
+             "timestamp": 1748916398,
+             "md5": "72ffa32a0466557d1a1d797f1962e6e8",
+             "sha256": "458a2083cceb1c603faaceb3e4a4a8268a96b3f6a682ab48569368a4409340fe",
+             "size": 1335685945,
+             "version": "7.0-Persis",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/stone/IMGs/boot.img/download",
+			"paypal": "https://telegra.ph/Device-support-05-09",
+			"telegram": "https://t.me/bittencourtjulival_builds"
+		}
+	]
+}

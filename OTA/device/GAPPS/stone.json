@@ -1,21 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "Julival Bittencourt",
-                        "oem": "Xiaomi",
-                        "device": "stone",
-                        "filename": "RisingOS_Revived-7.0-250513-1840-GAPPS-OFFICIAL-stone-ota.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/stone/RisingOS_Revived-7.0-250513-1840-GAPPS-OFFICIAL-stone-ota.zip/download",
-                        "timestamp": 1747169013,
-                        "md5": "61272c29d047bed842dfb4fe7e777d38",
-                        "sha256": "5f003b1801d35753771247782e23a338bd44e2647ed080f390fa50f205127037",
-                        "size": 2282484795,
-                        "version": "7.0-Persis",
-                        "buildtype": "STABLE",
-                        "forum": "",
-                        "recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/stone/IMGs/boot.img/download",
-                        "paypal": "https://telegra.ph/Device-support-05-09",
-                        "telegram": "https://t.me/bittencourtjulival_builds"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Julival Bittencourt",
+			"oem": "Xiaomi",
+			"device": "stone",
+			"filename": "RisingOS_Revived-7.0-250602-1529-GAPPS-OFFICIAL-stone-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/stone/RisingOS_Revived-7.0-250602-1529-GAPPS-OFFICIAL-stone-ota.zip/download",
+			"timestamp": 1748886733,
+			"md5": "2568e8b75976f2188d99f600ee04ec12",
+			"sha256": "1cd7ec780d2d1d16481a0ac94a5df655f351f5abbac5fa089197c41f290de9a4",
+			"size": 1948551841,
+			"version": "7.0-Persis",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/stone/IMGs/boot.img/download",
+			"paypal": "https://telegra.ph/Device-support-05-09",
+			"telegram": "https://t.me/bittencourtjulival_builds"
+		}
+	]
 }
