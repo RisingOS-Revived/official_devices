@@ -42,7 +42,7 @@
 - **POCO X4 Pro 5G (veux)** - [`@amrito_kun`](https://t.me/amrito_kun)
 - **POCO X5 5G/REDMI NOTE 12 5G (stone)** - [`@bittencourtjulival`](https://t.me/bittencourtjulival)
 - **POCO X5 Pro 5G (redwood)** - [`@Thereache`](https://t.me/thereache)
-- **POCO X6 5G (garnet)** - [`@amrito_kun`](https://t.me/amrito_kun)
+- **POCO X6 5G (garnetp)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
 - **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
 
 ## Realme
@@ -52,6 +52,7 @@
 - **Redmi Note 8/8T (ginkgo)** - [`@k_y_c_i_i_9_1`](https://t.me/k_y_c_i_i_9_1)
 - **Redmi Note 10 (sunny)** - [`@dpenra`](https://t.me/dpenra)
 - **Redmi Note 12 4G (topaz/tapas)** - [`@skwel24`](https://t.me/skwel24) &&  [`@mirabelle1999`](https://t.me/mirabelle1999)
+- **Redmi Note 13 Pro 5G (garnet)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
 
 ## Samsung
 - **Samsung A71 4G (a71)** - [`@eun0115`](https://t.me/pa38_112)
