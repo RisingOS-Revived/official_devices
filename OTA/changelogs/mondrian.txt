@@ -4,6 +4,11 @@ This is Android 15 QPR2 with may 2025 security patches.
 - Report issues with logs.
 
 ==============================
+04/06/2025
+==============================
+- Fix issue that rom stuck on logo for non GL devices.
+
+==============================
 02/06/2025
 ==============================
 Device changes:
