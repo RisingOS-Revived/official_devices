@@ -14,7 +14,7 @@
 
 • Format Data/Wipe Internal, Cache, Dalvik, Metadata, etc.
 
-• Flash the **REQUIRED** Firmware **(topaz - [`2.0.9.0.VMGMIXM`](https://xmfirmwareupdater.com/archive/firmware/topaz/#) / tapas - [`2.0.9.0.VMTMIXM`](https://xmfirmwareupdater.com/archive/firmware/tapas/#))**
+• Flash the **REQUIRED** Firmware **(topaz - [`2.0.10.0.VMGMIXM`](https://xmfirmwareupdater.com/firmware/topaz/stable/OS2.0.10.0.VMGMIXM/) / tapas - [`2.0.11.0.VMTMIXM`](https://xmfirmwareupdater.com/firmware/tapas/stable/OS2.0.11.0.VMTMIXM/))**
 
 • Flash **RisingOS Revived** ROM
 
@@ -36,7 +36,7 @@
 ## **Dirty Flash Steps:**
 
 • Boot to Custom Recovery
-• Flash the **REQUIRED** Firmware **(topaz - [`2.0.9.0.VMGMIXM`](https://xmfirmwareupdater.com/archive/firmware/topaz/#) / tapas - [`2.0.9.0.VMTMIXM`](https://xmfirmwareupdater.com/archive/firmware/tapas/#))** (Optional: Skip if already flashed)
+• Flash the **REQUIRED** Firmware **(topaz - [`2.0.10.0.VMGMIXM`](https://xmfirmwareupdater.com/firmware/topaz/stable/OS2.0.10.0.VMGMIXM/) / tapas - [`2.0.11.0.VMTMIXM`](https://xmfirmwareupdater.com/firmware/tapas/stable/OS2.0.11.0.VMTMIXM/))** (Optional: Skip if already flashed)
 
 • Flash **RisingOS Revived** ROM
 
