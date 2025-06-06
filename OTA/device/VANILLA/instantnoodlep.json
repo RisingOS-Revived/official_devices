@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS_Revived-7.0-250603-0855-VANILLA-OFFICIAL-instantnoodlep-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/VANILLA/instantnoodlep/RisingOS_Revived-7.0-250603-0855-VANILLA-OFFICIAL-instantnoodlep-ota.zip/download",
+			"timestamp": 1748933008,
+			"md5": "32fb64d9dd05006bb18b43c1dab2003f",
+			"sha256": "d4e337d8f67b2994386163554c65da803eb2fe0f493359477d136e628ce0bb7b",
+			"size": 1726782040,
+			"version": "7.0-Persis",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
