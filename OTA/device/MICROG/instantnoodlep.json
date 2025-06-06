@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS_Revived-7.0-250604-0042-MICROG-OFFICIAL-instantnoodlep-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/MICROG/instantnoodlep/RisingOS_Revived-7.0-250604-0042-MICROG-OFFICIAL-instantnoodlep-ota.zip/download",
+			"timestamp": 1748989844,
+			"md5": "de4ac28d48c63f11322b9631653de01a",
+			"sha256": "90a2567aca217f3765d7195c260511e845203f2e784b29d0ffaa970ca805ef76",
+			"size": 1778355445,
+			"version": "7.0-Persis",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
