@@ -1,0 +1,13 @@
+
+=========06/06/2025===========
+- Synced with RisingOS Revived 7.0 (Persis)
+- May Security Patch
+- Added Dolby Atmos
+- Added Support Touch Controls
+- Added PerApp Refresh Rate
+- Enabled High Touch Polling Rate
+
+Device changes:
+==============================
+- initial official release
+ 

@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Murtaza Kolachi",
+			"oem": "Xiaomi",
+			"device": "apollo",
+			"filename": "RisingOS_Revived-7.0-250606-0227-GAPPS-OFFICIAL-apollo-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/apollo/RisingOS_Revived-7.0-250606-0227-GAPPS-OFFICIAL-apollo.zip/download",
+			"timestamp": 1749176688,
+			"md5": "4b832764194c5ad44645b83ffe6d5d9e",
+			"sha256": "6ee0a679f03b410c7ca450e2431311e7d6c7d59ace94982e9bdccaf3486843fb",
+			"size": 3151969507,
+			"version": "7.0-Persis",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/apollo/IMGs/recovery.img/download",
+			"paypal": "https://ko-fi.com/murtazakolachi",
+			"telegram": "https://t.me/murtazasapollocommunity"
+		}
+	]
+}
