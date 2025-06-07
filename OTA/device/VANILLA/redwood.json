@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Mayur_U",
+                        "oem": "xiaomi",
+                        "device": "POCO X5 PRO 5G",
+                        "filename": "RisingOS_Revived-7.0-250607-1600-VANILLA-OFFICIAL-redwood-ota.zip",
+                        "download": "",
+                        "timestamp": 1749311961,
+                        "md5": "164f3c4015017451fa2f230126849a3f",
+                        "sha256": "2f7dff7483ba6a5ed304966b909403ad37fec085cc32721767be07e0a4d73c7a",
+                        "size": 1859823673,
+                        "version": "7.0-Persis",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/VANILLA/redwood/IMGs/",
+                        "paypal": "https://www.paypal.com/paypalme/MayurU779?country.x=IN&locale.x=en_GB",
+                        "telegram": "https://t.me/Mayurbuilds"
+                }
+        ]
+}

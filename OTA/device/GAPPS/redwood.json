@@ -1,21 +1,21 @@
 {
-	"response": [
-		{
-			"maintainer": "Thereache",
-			"oem": "xiaomi",
-			"device": "POCO X5 PRO 5G",
-			"filename": "RisingOS_Revived-6.3-250318-1838-GAPPS-OFFICIAL-redwood-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/redwood/RisingOS_Revived-6.3-250318-1838-GAPPS-OFFICIAL-redwood-ota.zip/download",
-			"timestamp": 1742322489,
-			"md5": "8000a3a56e39c43799254d67e16ac2ec",
-			"sha256": "e7fd07d81b4839af196c3a67265e70db35a80709352f3ea31afe9d2960374eeb",
-			"size": 2424126323,
-			"version": "6.3-Celestia",
-			"buildtype": "STABLE",
-			"forum": "https://xdaforums.com/t/a15-rising-revived-oss-official-v6-x-for-poco-x5-pro-rn-12-pro-se-redwood-redwoodin.4725902/",
-			"recovery": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/redwood/recoveryfiles/",
-			"paypal": "https://www.paypal.me/PrajapatiAbhay917",
-			"telegram": "https://t.me/thereachebuildchat"
-		}
-	]
+        "response": [
+                {
+                        "maintainer": "Mayur_U",
+                        "oem": "xiaomi",
+                        "device": "POCO X5 PRO 5G",
+                        "filename": "RisingOS_Revived-7.0-250607-1516-GAPPS-OFFICIAL-redwood-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/redwood/RisingOS_Revived-7.0-250607-1516-GAPPS-OFFICIAL-redwood-ota.zip/download",
+                        "timestamp": 1749309333,
+                        "md5": "c124e7a962c5e1f1c4e6eade0968ad9f",
+                        "sha256": "7876128e015cc955e3239b2e4e52891a41784bb2d1539e2fd0887a8d33d28b83",
+                        "size": 2824081967,
+                        "version": "7.0-Persis",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/redwood/IMGs/",
+                        "paypal": "https://www.paypal.com/paypalme/MayurU779?country.x=IN&locale.x=en_GB",
+                        "telegram": "https://t.me/Mayurbuilds"
+                }
+        ]
 }
