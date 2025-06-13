@@ -66,3 +66,8 @@
 - **Mi 10T/Mi 10T pro (apollo)** - [`@MurtazaKolachi`](https://t.me/MurtazaKolachi)
 - **Mi Note 10 Lite (toco)** - [`@fwlhh`](https://t.me/fwlhh)
 - **Xiaomi Pad 6 (pipa)** - [`@CuriousNom`](https://t.me/CuriousNom)
+- **Xiaomi 12 (cupid)** - [`@KernelPanix`](https://t.me/KernelPanix)
+- **Xiaomi 12S (mayfly)** - [`@KernelPanix`](https://t.me/KernelPanix)
+- **Xiaomi 12 Pro (zeus)** - [`@KernelPanix`](https://t.me/KernelPanix)
+- **Xiaomi 12S Pro (unicorn)** - [`@KernelPanix`](https://t.me/KernelPanix)
+- **Xiaomi 12T (diting)** - [`@KernelPanix`](https://t.me/KernelPanix)

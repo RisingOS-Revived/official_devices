@@ -44,4 +44,9 @@
   <project name="device_samsung_gta4xl" />
   <project name="device_samsung_gta4xlwifi" />
   <project name="device_xiaomi_apollo" />
+  <project name="device_xiaomi_cupid" />
+  <project name="device_xiaomi_mayfly" />
+  <project name="device_xiaomi_zeus" />
+  <project name="device_xiaomi_unicorn" />
+  <project name="device_xiaomi_diting" />
 </manifest>

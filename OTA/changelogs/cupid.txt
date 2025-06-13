@@ -1,0 +1,34 @@
+Highlights & Device Specific Changes:
+Build type: user
+Device name: Xiaomi 12
+Device codename: cupid
+Device maintainer: KernelPanix
+
+=×=×= 13 / 06 / 2025 =×=×=
+* Synced with Latest RisingOS Revived sources v7.1 (Selene)
+* sm8450-common: overlay: Remove duplicate auto-brightness configurations
+* sm8450-common: Import QCOM audio effects from OnePlus 9R
+* sm8450-common: audio: use QCOM Implementation for Audio Effects
+* sm8450-common: Extend audio offload buffer size to 256kb
+* sm8450-common: Build android.media.audio.common.types-V2-cpp
+* sm8450-common: init: Make less cores available for background tasks
+* sm8450-common: Enable Client Composition Cache
+* sm8450-common: Remove fqname for vendor.qti.hardware.pal@1.0
+* sm8450-common: Enable VoNR Calls support
+* sm8450-common: CarrierConfig: Set LTE+ threshold bandwidth to 0
+* sm8450-common: CarrierConfig: Globally enable LTE+ icon
+* sm8450-common: wlan: Disable FW TWT
+* sm8450-common: rootdir: device: qcom: common: add system permission for power_state
+* sm8450-common: props: Disable Skia tracing by default
+* sm8450-common: properties: Enable support for kernel idle timer
+* sm8450-common: Enable frame pacing for smoother visual performance
+* sm8450-common: properties: Disable continuous transaction tracing on all build types
+* sm8450-common: props: Add missing layer buffer slots cache clear property
+* sm8450-common: prop: Add a property to enable prefetching video
+* sm8450-common: properties: Use HintManager for HWUI
+* sm8450-common: Compile HWUI for performance
+* sm8450-common: Explicitly disable "Enable GL comp backpressure"
+* sm8450-common: rootdir: Kill WALT CPU boosting
+* sm8450-common: Do not ship recovery in a/b ota update
+* Revert "sm8450-common: Add support for Dolby Atmos"
+
