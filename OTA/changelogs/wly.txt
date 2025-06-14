@@ -1,0 +1,6 @@
+***************************************
+- Changelogs for wly
+***************************************
+
+1- initial release
+2- renewed and rebased the device tree
