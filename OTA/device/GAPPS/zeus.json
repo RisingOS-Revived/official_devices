@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "KernelPanix",
+			"oem": "Xiaomi",
+			"device": "zeus",
+			"filename": "RisingOS_Revived-7.1-250614-0256-GAPPS-OFFICIAL-zeus-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/zeus/RisingOS_Revived-7.1-250614-0256-GAPPS-OFFICIAL-zeus-ota.zip/download",
+			"timestamp": 1749869691,
+			"md5": "84858aeecd577bda372b42e712589378",
+			"sha256": "3ea604e7b93ba7c5055daefb9dd6295313f29488c4b3cee1a840a25ab1cadd1f",
+			"size": 3171822080,
+                        "version": "7.1-Selene",
+                        "buildtype": "user",
+                        "forum": "https://t.me/TotoroNK",
+                        "recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/zeus/twrp-3.7.1_12-v9.0_A15-zeus-skkk.img/download",
+                        "paypal": "https://www.paypal.me/dopaemon",
+                        "telegram": "https://t.me/KernelPanix"
+                }
+        ]
+}

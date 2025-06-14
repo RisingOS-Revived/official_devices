@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "KernelPanix",
+			"oem": "Xiaomi",
+			"device": "unicorn",
+			"filename": "RisingOS_Revived-7.1-250614-0155-GAPPS-OFFICIAL-unicorn-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/unicorn/RisingOS_Revived-7.1-250614-0155-GAPPS-OFFICIAL-unicorn-ota.zip/download",
+			"timestamp": 1749866065,
+			"md5": "da2660321dc6444b7577d3ffe062fec7",
+			"sha256": "2e0d5454fa745ab93019f07b6035def530cd9519d8e1510c0fd855fccf2cf1ee",
+			"size": 3310591251,
+                        "version": "7.1-Selene",
+                        "buildtype": "user",
+                        "forum": "https://t.me/TotoroNK",
+                        "recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/unicorn/twrp-3.7.1_12-v9.0_A15-unicorn-skkk.img/download",
+                        "paypal": "https://www.paypal.me/dopaemon",
+                        "telegram": "https://t.me/KernelPanix"
+                }
+        ]
+}
