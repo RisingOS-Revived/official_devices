@@ -39,7 +39,7 @@
 - **POCO F6 (peridot)** - [`@ath1188`](https://t.me/ath1188)
 - **POCO F6 Pro/K70 (vermeer)** - [`@ByteWave1014`](https://t.me/ByteWave1014)
 - **POCO X3/NFC (surya)** - [`@braindead66`](https://t.me/braindead66)
-- **POCO X4 Pro 5G (veux)** - [`@amrito_kun`](https://t.me/amrito_kun)
+- **POCO X4 Pro 5G (veux)** - [`@MrTopia`](https://t.me/mrtopia)
 - **POCO X5 5G/REDMI NOTE 12 5G (stone)** - [`@bittencourtjulival`](https://t.me/bittencourtjulival)
 - **POCO X5 Pro 5G (redwood)** - [`@Mayur_U`](https://t.me/Mayur_U)
 - **POCO X6 5G (garnetp)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
