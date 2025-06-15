@@ -1,3 +1,10 @@
+=========15/06/2025===========
+* Optimize native executables for Cortex-A76 CPU.
+* Enhance audio quality.
+* Animator duration adjustments.
+* AOD glare reduction.
+* Fixed minor visual issues.
+
 =========02/06/2025===========
 * Include Pixel Launcher (Gapps and core)
 * Parameter adjustment for better performance and responsiveness
