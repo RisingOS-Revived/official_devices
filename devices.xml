@@ -49,4 +49,5 @@
   <project name="device_xiaomi_zeus" />
   <project name="device_xiaomi_unicorn" />
   <project name="device_xiaomi_diting" />
+  <project name="device_xiaomi_sweet" />
 </manifest>

@@ -53,6 +53,7 @@
 - **Redmi Note 10 (sunny)** - [`@dpenra`](https://t.me/dpenra)
 - **Redmi Note 12 4G (topaz/tapas)** - [`@skwel24`](https://t.me/skwel24) &&  [`@mirabelle1999`](https://t.me/mirabelle1999)
 - **Redmi Note 13 Pro 5G (garnet)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
+- **Redmi Note 10 Pro (sweet/sweetin)** - [`@Musafir1875`](https://t.me/Musafir1875)
 
 ## Samsung
 - **Samsung A71 4G (a71)** - [`@eun0115`](https://t.me/pa38_112)
