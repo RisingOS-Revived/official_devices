@@ -11,9 +11,9 @@
 - **Pixel 7a (lynx)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel Tablet (tangorpro)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel Fold (felix)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
-- **Pixel 8 (shiba)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
-- **Pixel 8 Pro (husky)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
-- **Pixel 8a (akita)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
+- **Pixel 8 (shiba)** - [`@@Jrcable2`](https://t.me/Jrcable2)
+- **Pixel 8 Pro (husky)** - [`@@Jrcable2`](https://t.me/Jrcable2)
+- **Pixel 8a (akita)** - [`@Jrcable2`](https://t.me/Jrcable2)
 - **Pixel 9 Pro Xl (komodo)** - [`@Slogar25`](https://t.me/Slogar25)
 
 ## Motorola
