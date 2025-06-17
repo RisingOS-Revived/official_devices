@@ -1,21 +1,21 @@
 {
-    "response": [
-        {
-            "maintainer": "objecting_",
-            "oem": "Samsung",
-            "device": "gta4xlwifi",
-            "filename": "RisingOS_Revived-7.0-250527-0924-CORE-OFFICIAL-gta4xlwifi.zip",
-            "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/gta4xlwifi/RisingOS_Revived-7.0-250527-0924-CORE-OFFICIAL-gta4xlwifi.zip/download",
-            "timestamp": 1748337804,
-            "md5": "62ffaf7a9980be2b1241cd7ca0896c0f",
-            "sha256": "6aac2b4598665ef3a47c545f25",
-            "size": 2462154754,
-            "version": "7.0-Persis",
-            "buildtype": "CORE",
-            "forum": "",
-            "recovery": "",
-            "paypal": "",
-            "telegram": "t.me/gta4xlwifi"
-        }
-    ]
+	"response": [
+		{
+			"maintainer": "objecting_",
+			"oem": "Samsung",
+			"device": "Galaxy Tab S6 Lite",
+			"filename": "RisingOS_Revived-7.1-250616-0217-GAPPS-OFFICIAL-gta4xlwifi-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/gta4xlwifi/RisingOS_Revived-7.1-250616-0217-GAPPS-OFFICIAL-gta4xlwifi-ota.zip/download",
+			"timestamp": 1750040123,
+			"md5": "dae9670651734b091cb40cea3fa2aa06",
+			"sha256": "88a090549990d51b3e4463973a6415cdc0fee90bd8dd2fc5a3de0bfcb0323a55",
+			"size": 2443518643,
+			"version": "7.1-Selene",
+			"buildtype": "GAPPS",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "t.me/gta4xlwifi"
+		}
+	]
 }
