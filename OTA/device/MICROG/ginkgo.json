@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS_Revived-7.1-250617-2138-MICROG-OFFICIAL-ginkgo-ota-signed.zip",
+			"download": "",
+			"timestamp": 1750196353,
+			"md5": "bb56aa99ab4f44025970cbe8415531ee",
+			"sha256": "4c2b131228e187de8e6b34b312454faad61020c34ce547d48217ab85d1315147",
+			"size": 1915810878,
+			"version": "7.1-Selene",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
