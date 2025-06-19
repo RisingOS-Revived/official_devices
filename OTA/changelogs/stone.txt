@@ -1,3 +1,9 @@
+=========18/06/2025===========
+* Added Dolby
+* Kernel - Fixes clock lock
+* Kernel - Optimizes file overwriting in ext4
+* Kernel - Improves CPU selection for low-usage tasks
+
 =========15/06/2025===========
 * Optimize native executables for Cortex-A76 CPU.
 * Enhance audio quality.
