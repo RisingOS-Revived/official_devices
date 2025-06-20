@@ -1,0 +1,7 @@
+=========20/06/2025=========
+* Synced with Latest RisingOS Revived sources v7.1 (Selene)
+* Added Dolby
+* By default Ksu (ksu next)
+* Added Xiaomi Parts
+* Added Viper4
+* Added Leica Camera

@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Musafir02",
+			"oem": "Xiaomi",
+			"device": "sweet",
+			"filename": "RisingOS_Revived-7.1-250618-1201-CORE-OFFICIAL-sweet-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/sweet/RisingOS_Revived-7.1-250618-1201-CORE-OFFICIAL-sweet-ota.zip/download",
+			"timestamp": 1750316475,
+			"md5": "b5199bc068623fbbc9fc02add883585b",
+			"sha256": "62bf5a3077078eca62d7a6d1ce66c97a204914f3",
+			"size": 2497763920,
+			"version": "7.1-Selene",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip",
+			"paypal": "https://t.me/musafirstuff/12",
+			"telegram": "https://t.me/RoyalOSsupport"
+		}
+	]
+}
