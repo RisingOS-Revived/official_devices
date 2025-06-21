@@ -1,3 +1,7 @@
+=========06/21/2025===========
+- fixed Google Face Unlock
+- Synced with latest Source Changes
+
 =========06/15/2025===========
 - Welcome to RisingOS Revived 7.1 (Selene)
 - Synced with latest Source Changes
