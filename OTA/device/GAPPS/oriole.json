@@ -4,18 +4,18 @@
 			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "oriole",
-			"filename": "RisingOS_Revived-7.1-250615-0938-GAPPS-OFFICIAL-oriole-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/oriole/RisingOS_Revived-7.1-250615-0938-GAPPS-OFFICIAL-oriole-ota.zip/download",
-			"timestamp": 1749994343,
-			"md5": "ec788d412072b38953120a32954d5291",
-			"sha256": "4d5748868845179bf5f931340614790d4205748099fb811b93bd4a31f5688b08",
-			"size": 2561072272,
+			"filename": "RisingOS_Revived-7.1-250623-1046-GAPPS-OFFICIAL-oriole-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/oriole/RisingOS_Revived-7.1-250623-1046-GAPPS-OFFICIAL-oriole-ota.zip/download",
+			"timestamp": 1750689699,
+			"md5": "7d6e9ef37b9326409d74135c7b4ed209",
+			"sha256": "8ad1030d0ef2d2184d7b239b5fe22931b8e760959a8caf0b5f8385f22ef704e8",
+			"size": 2560241781,
 			"version": "7.1-Selene",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
-			"paypal": "",
-			"telegram": ""
+			"paypal": "https://paypal.me/nadiak1016",
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]
 }
