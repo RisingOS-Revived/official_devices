@@ -47,6 +47,7 @@
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
+- **Realme 7/Narzo 20 Pro/Narzo 30 4G (salaa)** - [`@EvilAnsh`](https://t.me/EvilAnsh)
 
 ## Redmi
 - **Redmi Note 8/8T (ginkgo)** - [`@k_y_c_i_i_9_1`](https://t.me/k_y_c_i_i_9_1)
