@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "EvilAnsh",
+			"oem": "Realme",
+			"device": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
+			"filename": "RisingOS_Revived-7.1-250627-1303-MICROG-OFFICIAL-salaa-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/MICROG/salaa/RisingOS_Revived-7.1-250627-1303-MICROG-OFFICIAL-salaa-ota.zip/download",
+			"timestamp": 1751029193,
+			"md5": "71c40e23df38c5db42129e3ff45fab10",
+			"sha256": "4ffabd9ab3266d9d3e96b85bfd05ff3772f8fceb5a942632996fa164a923b157",
+			"size": 1844191121,
+			"version": "7.1-Selene",
+			"buildtype": "STABLE",
+			"forum": "https://t.me/AnshBuilds",
+			"recovery": "https://t.me/FilesArchieve/262",
+			"paypal": "https://t.me/AnshPrjkt/992",
+			"telegram": "https://t.me/EvilAnsh"
+		}
+	]
+}
