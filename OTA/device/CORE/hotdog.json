@@ -1,21 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "RisingOS_Revived-7.0-250606-1747-CORE-OFFICIAL-hotdog-ota.zip",
-			"download": "",
-			"timestamp": 1749224143,
-			"md5": "dd850bcc65e51b50678c0ee10dc75133",
-			"sha256": "b76d43c1227540eed97637a7d95c05488d6956515a97b58aebd964651ffe86bb",
-			"size": 1890759430,
-			"version": "7.0-Persis",
-			"buildtype": "",
+			"maintainer": "answer35",
+			"oem": "oneplus",
+			"device": "hotdog",
+			"filename": "RisingOS_Revived-7.1-250626-0847-CORE-OFFICIAL-hotdog-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/hotdog/RisingOS_Revived-7.1-250626-0847-CORE-OFFICIAL-hotdog-ota.zip/download",
+			"timestamp": 1750919492,
+			"md5": "fc1200ae8f331dcc5528fc392c97aee8",
+			"sha256": "948cd30914f72db821ca4c9ada9d47206f4ff19f964d512515c5536b05d03550",
+			"size": 1882567081,
+			"version": "7.1-Selene",
+			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": ""
+			"telegram": "https://t.me/answer35"
 		}
 	]
 }
