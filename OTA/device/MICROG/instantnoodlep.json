@@ -1,21 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "RisingOS_Revived-7.0-250604-0042-MICROG-OFFICIAL-instantnoodlep-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/MICROG/instantnoodlep/RisingOS_Revived-7.0-250604-0042-MICROG-OFFICIAL-instantnoodlep-ota.zip/download",
-			"timestamp": 1748989844,
-			"md5": "de4ac28d48c63f11322b9631653de01a",
-			"sha256": "90a2567aca217f3765d7195c260511e845203f2e784b29d0ffaa970ca805ef76",
-			"size": 1778355445,
-			"version": "7.0-Persis",
+			"maintainer": "answer35",
+			"oem": "oneplus",
+			"device": "instantnoodlep",
+			"filename": "RisingOS_Revived-7.1-250622-2251-MICROG-OFFICIAL-instantnoodlep-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/MICROG/instantnoodlep/RisingOS_Revived-7.1-250622-2251-MICROG-OFFICIAL-instantnoodlep-ota.zip/download",
+			"timestamp": 1750623545,
+			"md5": "b45396f167e854365324797c4ac8a486",
+			"sha256": "95d62d97810cf5d02557a1092f37bb0d82c709ba93cfac38b9701e91441198ab",
+			"size": 1831315084,
+			"version": "7.1-Selene",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": ""
+			"telegram": "https://t.me/answer35"
 		}
 	]
 }

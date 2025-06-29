@@ -1,21 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "RisingOS_Revived-7.0-250602-1915-GAPPS-OFFICIAL-instantnoodlep-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/instantnoodlep/RisingOS_Revived-7.0-250602-1915-GAPPS-OFFICIAL-instantnoodlep-ota.zip/download",
-			"timestamp": 1748883629,
-			"md5": "a2bb913f6edb6973df1254eef3d5d480",
-			"sha256": "88dcb18b1965002879dd21a545c75c3acacb1ffe479f84162a483cd54779f463",
-			"size": 2712240107,
-			"version": "7.0-Persis",
+			"maintainer": "answer35",
+			"oem": "oneplus",
+			"device": "instantnoodlep",
+			"filename": "RisingOS_Revived-7.1-250625-0848-GAPPS-OFFICIAL-instantnoodlep-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/instantnoodlep/RisingOS_Revived-7.1-250625-0848-GAPPS-OFFICIAL-instantnoodlep-ota.zip/download",
+			"timestamp": 1750833239,
+			"md5": "0cc106d86704cc980616a1e6f2b3e28a",
+			"sha256": "dfe879427008d4207faaaed9e9ea86874c548c07ead6becca4ba7759000ba585",
+			"size": 2705086554,
+			"version": "7.1-Selene",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": ""
+			"telegram": "https://t.me/answer35"
 		}
 	]
 }

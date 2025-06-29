@@ -1,21 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "RisingOS_Revived-7.0-250603-0806-CORE-OFFICIAL-instantnoodlep-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/instantnoodlep/RisingOS_Revived-7.0-250603-0806-CORE-OFFICIAL-instantnoodlep-ota.zip/download",
-			"timestamp": 1748930195,
-			"md5": "cdd2db02459fb1011a276e5b622306ba",
-			"sha256": "2cd5bab89b72ca7cf9205d31e7233a5525ece29c7b8dd924ab1a925163c17402",
-			"size": 2148556827,
-			"version": "7.0-Persis",
+			"maintainer": "answer35",
+			"oem": "oneplus",
+			"device": "instantnoodlep",
+			"filename": "RisingOS_Revived-7.1-250624-0848-CORE-OFFICIAL-instantnoodlep-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/instantnoodlep/RisingOS_Revived-7.1-250624-0848-CORE-OFFICIAL-instantnoodlep-ota.zip/download",
+			"timestamp": 1750746936,
+			"md5": "d9813e8658706c958cfd1bfeb51ce53c",
+			"sha256": "c9e7aa6605c0a0e76fa38a0ad795970d5ae3ea0963ff9990d5c39af318f9be6d",
+			"size": 2134171721,
+			"version": "7.1-Selene",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": ""
+			"telegram": "https://t.me/answer35"
 		}
 	]
 }
