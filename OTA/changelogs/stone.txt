@@ -1,3 +1,12 @@
+=========30/06/2025===========
+**FINAL BUILD FOR ANDROID 15.
+
+* Updated Thermal Profiles.
+* Volume Adjustments.
+* Color Issues Fixed.
+* Qs Lag Fixed
+* Removed PixelLauncher
+
 =========18/06/2025===========
 * Added Dolby
 * Kernel - Fixes clock lock
