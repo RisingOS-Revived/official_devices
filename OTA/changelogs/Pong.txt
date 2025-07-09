@@ -1,4 +1,10 @@
+==============================10/07/2025==============================
+
+Initial A16 release for Gapps
+
+
 ==============================25/06/2025==============================
+
 Synced with Rising 7.1 
 Inherit nothing camera - install apk 
 https://shorturl.at/OaVJl
