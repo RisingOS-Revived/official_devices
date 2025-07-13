@@ -4,18 +4,19 @@
 			"maintainer": "tribual",
 			"oem": "Xiaomi",
 			"device": "cepheus",
-			"filename": "RisingOS_Revived-6.3-250317-1400-GAPPS-OFFICIAL-cepheus-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/cepheus/RisingOS_Revived-6.3-250317-1400-GAPPS-OFFICIAL-cepheus-ota.zip/download",
-			"timestamp": 1742216253,
-			"md5": "d6c10f55a7b228cb007fd8c4a51856e6",
-			"sha256": "9f1b60f42de21f329f752b88d30a8adc9e028bcf876b477e54f12f0fe2e6bc3d",
-			"size": 2396381097,
-			"version": "6.3-Celestia",
+			"filename": "RisingOS_Revived-8.0-250713-2019-GAPPS-OFFICIAL-cepheus-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/cepheus/RisingOS_Revived-8.0-250713-2019-GAPPS-OFFICIAL-cepheus-ota.zip/download",
+			"timestamp": 1752430788,
+			"md5": "4b4d7a3bb606bb6a6b0e7cdbce2122c3",
+			"sha256": "8b7cb7729fd973c89f1d8870287516c85f2f33319e5a06b5cf3b748e3e503b79",
+			"size": 2980103868,
+			"version": "8.0-Zorya",
 			"buildtype": "STABLE",
-			"forum": "https://t.me/tribual_mi9",
-			"recovery": "https://sourceforge.net/projects/cepheus/files/recovery/OrangeFox-cepheus-A14RetrofitMetadata-28012024.zip/download",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/cepheus-tribual/files/RisingOS/TWRP_erofs_10.07.2025.img/download",
 			"paypal": "https://www.paypal.me/tribual",
-			"telegram": "https://t.me/tribual"
+			"telegram": "https://t.me/tribual_mi9"
 		}
 	]
 }
+
