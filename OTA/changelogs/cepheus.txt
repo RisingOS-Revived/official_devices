@@ -1,3 +1,8 @@
+=========13/07/2025===========
+* Initial A16 release
+
+
+
 17. March 2025
 This is Android 15 QPR1 with March 2025 (r15) security patches
  
