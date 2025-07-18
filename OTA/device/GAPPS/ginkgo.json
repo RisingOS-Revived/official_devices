@@ -1,21 +1,21 @@
 {
-	"response": [
-		{
-			"maintainer": "Yeab",
-			"oem": "Xiaomi",
-			"device": "ginkgo",
-			"filename": "RisingOS_Revived-7.1-250617-1801-GAPPS-OFFICIAL-ginkgo-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/ginkgo/RisingOS_Revived-7.1-250617-1801-GAPPS-OFFICIAL-ginkgo-ota-signed.zip/download",
-			"timestamp": 1750183292,
-			"md5": "404fb5c2ddab93041bb36e7602d7c54f",
-			"sha256": "c2f0b727277477f7ff8276099849974abee642fa8da241d32df9aa4d47987498",
-			"size": 2925390308,
-			"version": "7.1-Selene",
-			"buildtype": "STABLE",
-			"forum": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/yeabsbin"
-		}
-	]
+  "response": [
+    {
+      "maintainer": "Yeab",
+      "oem": "Xiaomi",
+      "device": "ginkgo",
+      "filename": "RisingOS_Revived-8.0-250718-1120-GAPPS-OFFICIAL-ginkgo-ota.zip",
+      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/ginkgo/RisingOS_Revived-8.0-250718-1120-GAPPS-OFFICIAL-ginkgo-ota.zip/download",
+      "timestamp": 1752843184,
+      "md5": "0e9f5e5969b658677212d6de2b23980c",
+      "sha256": "535368d8c85e552efad1e73cd7c774024f441d061fb8b8de276c56c4fdac7ad9",
+      "size": 2879052817,
+      "version": "8.0-Zorya",
+      "buildtype": "STABLE",
+      "forum": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/yeabsbin"
+    }
+  ]
 }

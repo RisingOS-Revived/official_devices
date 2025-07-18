@@ -1,3 +1,7 @@
+=========18/07/2025===========
+- Initial Android 16 Release (8.0 Zorya)
+- Switched to Floppy Kernel
+- Dropped Dolby for this build
 =========17/06/2025===========
 - Rising Revived 7.1 (Selene)
 - Synced with latest Source Changes
