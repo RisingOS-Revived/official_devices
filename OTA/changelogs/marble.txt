@@ -4,6 +4,10 @@ Device name: Poco F5/Redmi Note 12 Turbo
 Device codename: marble
 Device maintainer: SharmagRit
 
+=×=×= 18th July 2025 =×=×=
+* Synced with Latest RisingOS Revived sources v8.0-Zorya
+* Initial A16 rising build
+
 =×=×= 07th June 2025 =×=×=
 * Synced with Latest RisingOS Revived sources v7.0 (Persis)
 * sm8450-common: audio: use QCOM Implementation for Audio Effects

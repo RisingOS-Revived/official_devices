@@ -1,3 +1,33 @@
+=========16/07/2025===========
+* Synced with latest Source Changes.
+* Some bugs fixed.
+* July security patches.
+
+=========10/07/2025===========
+* Initial A16 release
+
+=========30/06/2025===========
+**FINAL BUILD FOR ANDROID 15.
+
+* Updated Thermal Profiles.
+* Volume Adjustments.
+* Color Issues Fixed.
+* Qs Lag Fixed
+* Removed PixelLauncher
+
+=========18/06/2025===========
+* Added Dolby
+* Kernel - Fixes clock lock
+* Kernel - Optimizes file overwriting in ext4
+* Kernel - Improves CPU selection for low-usage tasks
+
+=========15/06/2025===========
+* Optimize native executables for Cortex-A76 CPU.
+* Enhance audio quality.
+* Animator duration adjustments.
+* AOD glare reduction.
+* Fixed minor visual issues.
+
 =========02/06/2025===========
 * Include Pixel Launcher (Gapps and core)
 * Parameter adjustment for better performance and responsiveness

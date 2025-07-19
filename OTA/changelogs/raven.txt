@@ -1,3 +1,12 @@
+=========06/23/2025===========
+- Synced with latest Source Changes
+
+=========06/13/2025===========
+- Welcome to RisingOS Revived 7.1 (Selene)
+- Synced with latest Source Changes
+- Device Tree, Kernel, and Vendor updated too MAY 2025
+- MUST BE ON MAY FIRMWARE on Both A&B Partitions
+
 March 16th 2025
 
 This is Android 15 QPR1 with March 2025 (r15) security patches

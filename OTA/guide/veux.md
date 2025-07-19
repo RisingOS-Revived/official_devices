@@ -1,8 +1,13 @@
 # ROM Flashing Instructions
+=======
+# RisingOS Installation Instructions
 
 **Author:** @MrTopia
 
 -------------------------------
+
+=======
+## **Instructions**
 
 ### **ALWAYS Keep in Mind...**
 
@@ -23,6 +28,7 @@
 • Backup your Important files ( cloud / pc )
 
 • Flash Important .img files via Bootloader
+
 ```
 fastboot flash boot boot.img
 ```
@@ -43,6 +49,20 @@ fastboot flash vendor_boot vendor_boot.img
 | 4️⃣  | Flash ROM zip                            | Flash ROM zip             |
 | 5️⃣  | **Flash GApps package (e.g., NikGApps, MindTheGApps)** | *(Skip – GApps included)* |
 | 6️⃣  | Reboot to system                         | Reboot to system          |
+=======
+    - fastboot flash boot boot.img
+    - fastboot flash dtbo dtbo.img
+    - fastboot flash vendor_boot vendor_boot.img
+
+• Boot to Recovery
+
+• Select **Apply Update**
+
+• Flash **RisingOS Revived** ROM
+
+• Format Data (correct, the place where you need to type in "YES")
+
+• Reboot and enjoy!
 
 ---
 
@@ -56,19 +76,27 @@ fastboot flash vendor_boot vendor_boot.img
 | 2️⃣  | Select **Apply Update** & Flash ROM zip                              | Select **Apply Update** & Flash ROM zip                     |
 | 3️⃣  | **Flash a GApps package (e.g., NikGApps, MindTheGApps)** | *(Skip – GApps already included)* |
 | 4️⃣  | Reboot to system                           | Reboot to system                  |
+=======
+• Boot to Recovery
+
+• Flash **RisingOS Revived** ROM
+
+• Reboot and enjoy!
 
 > **Note:** There will be no loss of data if everything goes well. Keep backups in case of any mishap. I will not be responsible for any loss of data.
 
 ---
 
 ## OTA: (IF Supported)**
+=======
+## OTA:**
 
 • Go to Settings -> System -> Updater and download latest build
 • Choose install and let it finish
 • Reboot
-
 ###  NOTE - Even if you're using a vanilla build u don't need to flash any gapps package again if you're updating via OTA method
 
+=======
 ---
 
 ## Flash via adb:**

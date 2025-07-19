@@ -1,7 +1,7 @@
-May 19 2025
+June 24 2025
 
-This is QPR2 with May 2025 security patches
-
+This is QPR2 with June 2025 security patches On May Bootloader
 Device changes:
 ==============================
-Initial official release
+RisingOS revived 7.1-Selene release
+

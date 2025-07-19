@@ -2,6 +2,7 @@
 <manifest>
   <project name="device_oneplus_wly" />
   <project name="device_realme_ferrari" />
+  <project name="device_realme_salaa" />
   <project name="device_xiaomi_mondrian" />
   <project name="device_nothing_Pong" />
   <project name="device_motorola_dubai" />
@@ -49,4 +50,5 @@
   <project name="device_xiaomi_zeus" />
   <project name="device_xiaomi_unicorn" />
   <project name="device_xiaomi_diting" />
+  <project name="device_xiaomi_sweet" />
 </manifest>

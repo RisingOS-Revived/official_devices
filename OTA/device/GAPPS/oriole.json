@@ -4,18 +4,18 @@
 			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "oriole",
-			"filename": "RisingOS_Revived-6.3-250316-1241-GAPPS-OFFICIAL-oriole-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/oriole/RisingOS_Revived-6.3-250316-1241-GAPPS-OFFICIAL-oriole.zip/download",
-			"timestamp": 1742143149,
-			"md5": "cf8586ae0e94799c8e5e84e7920b621b",
-			"sha256": "3501a3b719e40d87d5f5df733d0e1887bbff0725ab2052ee91d936ae034f5e6e",
-			"size": 2550296460,
-			"version": "6.3-Celestia",
-			"buildtype": "",
+			"filename": "RisingOS_Revived-7.1-250623-1046-GAPPS-OFFICIAL-oriole-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/oriole/RisingOS_Revived-7.1-250623-1046-GAPPS-OFFICIAL-oriole-ota.zip/download",
+			"timestamp": 1750689699,
+			"md5": "7d6e9ef37b9326409d74135c7b4ed209",
+			"sha256": "8ad1030d0ef2d2184d7b239b5fe22931b8e760959a8caf0b5f8385f22ef704e8",
+			"size": 2560241781,
+			"version": "7.1-Selene",
+			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
-			"paypal": "",
-			"telegram": ""
+			"paypal": "https://paypal.me/nadiak1016",
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]
 }

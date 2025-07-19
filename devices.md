@@ -11,15 +11,15 @@
 - **Pixel 7a (lynx)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel Tablet (tangorpro)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel Fold (felix)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
-- **Pixel 8 (shiba)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
-- **Pixel 8 Pro (husky)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
-- **Pixel 8a (akita)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
+- **Pixel 8 (shiba)** - [`@@Jrcable2`](https://t.me/Jrcable2)
+- **Pixel 8 Pro (husky)** - [`@@Jrcable2`](https://t.me/Jrcable2)
+- **Pixel 8a (akita)** - [`@Jrcable2`](https://t.me/Jrcable2)
 - **Pixel 9 Pro Xl (komodo)** - [`@Slogar25`](https://t.me/Slogar25)
 
 ## Motorola
 - **Motorola Edge 30 (Dubai)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
 - **Motorola Edge 30 Neo (Miami)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
-- **Motorola Edge 30 Ultra / X30 Pro (eqs))** - [`@davigamer987`](https://t.me/davigamer987)
+- **Motorola Edge 30 Ultra / X30 Pro (eqs))** - [`@davigamer987`](https://t.me/davigamer987) &&  [`@chettoy`](https://t.me/chettoy)
 
 
 ## Nothing
@@ -47,12 +47,14 @@
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
+- **Realme 7/Narzo 20 Pro/Narzo 30 4G (salaa)** - [`@EvilAnsh`](https://t.me/EvilAnsh)
 
 ## Redmi
 - **Redmi Note 8/8T (ginkgo)** - [`@k_y_c_i_i_9_1`](https://t.me/k_y_c_i_i_9_1)
 - **Redmi Note 10 (sunny)** - [`@dpenra`](https://t.me/dpenra)
 - **Redmi Note 12 4G (topaz/tapas)** - [`@skwel24`](https://t.me/skwel24) &&  [`@mirabelle1999`](https://t.me/mirabelle1999)
 - **Redmi Note 13 Pro 5G (garnet)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
+- **Redmi Note 10 Pro (sweet/sweetin)** - [`@Musafir1875`](https://t.me/Musafir1875)
 
 ## Samsung
 - **Samsung A71 4G (a71)** - [`@eun0115`](https://t.me/pa38_112)

@@ -4,18 +4,18 @@
 			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "raven",
-			"filename": "RisingOS_Revived-6.3-250316-1224-GAPPS-OFFICIAL-raven-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/raven/RisingOS_Revived-6.3-250316-1224-GAPPS-OFFICIAL-raven.zip/download",
-			"timestamp": 1742142120,
-			"md5": "8a594623c95f640591d8dbf5ba563ead",
-			"sha256": "d9aebcce4228b1e629dd581cc8ed382d0f45a19da502cf36e7eccd0728467901",
-			"size": 2551384104,
-			"version": "6.3-Celestia",
-			"buildtype": "",
+			"filename": "RisingOS_Revived-7.1-250623-0814-GAPPS-OFFICIAL-raven-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/raven/RisingOS_Revived-7.1-250623-0814-GAPPS-OFFICIAL-raven-ota.zip/download",
+			"timestamp": 1750680693,
+			"md5": "1e0c6824b35880bdef97efe6e8503ddb",
+			"sha256": "91abdd1ccdc99a2ed985031b60a76915d67fe4b067aaf7a11778b4e948cd5a4c",
+			"size": 2561698478,
+			"version": "7.1-Selene",
+			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
-			"paypal": "",
-			"telegram": ""
+			"paypal": "https://paypal.me/nadiak1016",
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]
 }
