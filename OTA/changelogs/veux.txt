@@ -1,5 +1,8 @@
 Device Changelogs
 
+Date - 19-07-2025
+- Initial Android 16 Release
+
 Date - 15-06-2025
 - Initial OTA Support
 

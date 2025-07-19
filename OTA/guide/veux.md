@@ -1,10 +1,8 @@
-# RisingOS Installation Instructions
+# ROM Flashing Instructions
 
 **Author:** @MrTopia
 
 -------------------------------
-
-## **Instructions**
 
 ### **ALWAYS Keep in Mind...**
 
@@ -25,19 +23,26 @@
 • Backup your Important files ( cloud / pc )
 
 • Flash Important .img files via Bootloader
-    - fastboot flash boot boot.img
-    - fastboot flash dtbo dtbo.img
-    - fastboot flash vendor_boot vendor_boot.img
+```
+fastboot flash boot boot.img
+```
 
-• Boot to Recovery
+```
+fastboot flash dtbo dtbo.img
+```
 
-• Select **Apply Update**
+```
+fastboot flash vendor_boot vendor_boot.img
+```
 
-• Flash **RisingOS Revived** ROM
-
-• Format Data (correct, the place where you need to type in "YES")
-
-• Reboot and enjoy!
+| Step | Vanilla ROM                              | GApps ROM                 |
+| ---- | ---------------------------------------- | ------------------------- |
+| 1️⃣  | Boot to recovery                         | Boot to recovery          |
+| 2️⃣  | Format data (`yes`)                      | Format data (`yes`)       |
+| 3️⃣  | Select **Apply Update**                  | Select **Apply Update**   |
+| 4️⃣  | Flash ROM zip                            | Flash ROM zip             |
+| 5️⃣  | **Flash GApps package (e.g., NikGApps, MindTheGApps)** | *(Skip – GApps included)* |
+| 6️⃣  | Reboot to system                         | Reboot to system          |
 
 ---
 
@@ -45,21 +50,24 @@
 
 • Backup your Important files
 
-• Boot to Recovery
-
-• Flash **RisingOS Revived** ROM
-
-• Reboot and enjoy!
+| Step | Vanilla ROM                                | GApps ROM                         |
+| ---- | ------------------------------------------ | --------------------------------- |
+| 1️⃣  | Boot to recovery                           | Boot to recovery                  |
+| 2️⃣  | Select **Apply Update** & Flash ROM zip                              | Select **Apply Update** & Flash ROM zip                     |
+| 3️⃣  | **Flash a GApps package (e.g., NikGApps, MindTheGApps)** | *(Skip – GApps already included)* |
+| 4️⃣  | Reboot to system                           | Reboot to system                  |
 
 > **Note:** There will be no loss of data if everything goes well. Keep backups in case of any mishap. I will not be responsible for any loss of data.
 
 ---
 
-## OTA:**
+## OTA: (IF Supported)**
 
 • Go to Settings -> System -> Updater and download latest build
 • Choose install and let it finish
 • Reboot
+
+###  NOTE - Even if you're using a vanilla build u don't need to flash any gapps package again if you're updating via OTA method
 
 ---
 
