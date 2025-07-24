@@ -1,13 +1,15 @@
+=×=×= 24/07/2025 =×=×=
+- Initial Android 16 Release (8.0 Zorya)
+- Dropped Dolby for this build
+- Dropped ViPER for this build
+- Added Leica Camera
 
-=========06/06/2025===========
+=×=×= 06/06/2025 =×=×=
+- Initial Official Release
 - Synced with RisingOS Revived 7.0 (Persis)
 - May Security Patch
 - Added Dolby Atmos
 - Added Support Touch Controls
 - Added PerApp Refresh Rate
 - Enabled High Touch Polling Rate
-
-Device changes:
-==============================
-- initial official release
  
