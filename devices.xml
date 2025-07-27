@@ -51,4 +51,6 @@
   <project name="device_xiaomi_unicorn" />
   <project name="device_xiaomi_diting" />
   <project name="device_xiaomi_sweet" />
+  <project name="device_google_caiman" />
+  <project name="device_google_tokay" />
 </manifest>
