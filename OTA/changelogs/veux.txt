@@ -1,5 +1,10 @@
 Device Changelogs
 
+Date - 02-08-2025
+- Synced to **Latest 8.0 Source Changes**
+- Synced to Latest Kernel Changes
+- Miscellaneous Improvements
+
 Date - 19-07-2025
 - Initial Android 16 Release
 
