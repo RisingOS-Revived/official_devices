@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "mysellysenpai",
+			"oem": "Xiaomi",
+			"device": "garnet",
+			"filename": "RisingOS_Revived-8.0-250807-0505-VANILLA-OFFICIAL-garnet-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/garnet/RisingOS_Revived-8.0-250807-0505-VANILLA-OFFICIAL-garnet-ota.zip/download",
+			"timestamp": 1754543026,
+			"md5": "d7e55c20b1a7cff4b52af202aeb3aa25",
+			"sha256": "a074e65b04410937f81baa5846cc22316c906663c16b81295f1cc02e9bec3091",
+			"size": 1940466856,
+			"version": "8.0-Zorya",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/garnetglobalchat"
+		}
+	]
+}
