@@ -1,3 +1,9 @@
+=========08/08/2025===========
+- Welcome to RisingOS Revived 8.0 
+- Synced with latest Source Changes
+- Device Tree, Kernel, and Vendor updated too July 2025
+- 
+
 =========06/21/2025===========
 - fixed Google Face Unlock
 - Synced with latest Source Changes
