@@ -1,3 +1,8 @@
+=========08/09/2025===========
+- Initial Release of RisingOS Revived 8.0 ( Zorya ) Android 16 
+- Synced with latest Source Changes
+- Device Tree, Kernel, and Vendor updated too July 2025
+
 =========05/30/2025===========
 - Initial official release
 - Welcome to RisingOS Revived 7.0 (Persis)
