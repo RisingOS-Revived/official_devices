@@ -4,12 +4,12 @@
 			"maintainer": "tribual",
 			"oem": "Xiaomi",
 			"device": "cepheus",
-			"filename": "RisingOS_Revived-8.0-250713-2019-GAPPS-OFFICIAL-cepheus-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/cepheus/RisingOS_Revived-8.0-250713-2019-GAPPS-OFFICIAL-cepheus-ota.zip/download",
-			"timestamp": 1752430788,
-			"md5": "4b4d7a3bb606bb6a6b0e7cdbce2122c3",
-			"sha256": "8b7cb7729fd973c89f1d8870287516c85f2f33319e5a06b5cf3b748e3e503b79",
-			"size": 2980103868,
+			"filename": "RisingOS_Revived-8.0-250809-1602-GAPPS-OFFICIAL-cepheus-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/cepheus/RisingOS_Revived-8.0-250809-1602-GAPPS-OFFICIAL-cepheus-ota.zip/download",
+			"timestamp": 1754748129,
+			"md5": "101c79ca8fae5bb805378021f4e03f1f",
+			"sha256": "30e492f4024ed691b492beaabbece32a029b6bb8967c58208eeca10abb2a20c4",
+			"size": 3232697250,
 			"version": "8.0-Zorya",
 			"buildtype": "STABLE",
 			"forum": "",
@@ -19,4 +19,3 @@
 		}
 	]
 }
-
