@@ -1,3 +1,11 @@
+=========10/08/2025=========
+* Synced with Latest RisingOS Revived sources v8.0
+* Added Viper4
+* Added Leica Camera
+* Tobrut kernel ksu
+* Added Dolby
+* Added Xiaomi Parts
+
 =========20/06/2025=========
 * Synced with Latest RisingOS Revived sources v7.1 (Selene)
 * Added Dolby
