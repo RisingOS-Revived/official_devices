@@ -1,3 +1,8 @@
+=========08/10/2025===========
+- Welcome to RisingOS Revived 8.0 
+- Synced with latest Source Changes
+- Device Tree, Kernel, and Vendor updated to current (June 2025)
+
 =========06/23/2025===========
 - Synced with latest Source Changes
 
