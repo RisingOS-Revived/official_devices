@@ -1,3 +1,10 @@
+=========20/08/2025===========
+* Fixed audio noise.
+* Improved memory management.
+* Returned the standard QS from Android 16.
+* Synchronized source changes.
+* August Security Patch.
+
 =========16/07/2025===========
 * Synced with latest Source Changes.
 * Some bugs fixed.
