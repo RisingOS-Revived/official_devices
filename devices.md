@@ -36,7 +36,7 @@
 - **POCO F4 (munch)** - [`@rik_x290`](https://t.me/rik_x290)
 - **POCO F5 (marble)** - [`@SharmagRit`](https://t.me/SharmagRit)
 - **POCO F5 Pro/K60 (mondrian)** - [`@Keosh1`](https://t.me/Keosh1)
-- **POCO F6 (peridot)** - [`@ath1188`](https://t.me/ath1188)
+- **POCO F6 (peridot)** - [`@Farrukh2002`](https://t.me/farrukh2002) && [`@ath1188`](https://t.me/ath1188)
 - **POCO F6 Pro/K70 (vermeer)** - [`@ByteWave1014`](https://t.me/ByteWave1014)
 - **POCO X3/NFC (surya)** - [`@braindead66`](https://t.me/braindead66)
 - **POCO X4 Pro 5G (veux)** - [`@MrTopia`](https://t.me/mrtopia)
