@@ -1,0 +1,6 @@
+Device changelogs:
+
+=========22/08/2025===========
+- Intial official GAPPS release.
+- MIUI Camera Added.
+- Non-Root Stock kernel build.
