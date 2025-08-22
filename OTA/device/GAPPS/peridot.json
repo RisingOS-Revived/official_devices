@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Farrukh2002xAtharvaSwamy",
+                        "oem": "Xiaomi",
+                        "device": "peridot",
+                        "filename": "RisingOS_Revived-8.1-GAPPS-OFFICIAL-peridot-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/peridot/RisingOS_Revived-8.1-GAPPS-OFFICIAL-peridot-ota.zip/download",
+                        "timestamp": 1755816942,
+                        "md5": "c40bc8ad89f2dba34cd4a2f40e297ba9",
+                        "sha256": "13fa34147c4c27bd53679d815de866ca12b74c689c8eb9b133f28f552c399695",
+                        "size": 3474459360,
+                        "version": "8.1-Arete",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "https://www.paypal.me/prakharluv",
+                        "telegram": "https://t.me/peridotxkernel/15833"
+                }
+        ]
+}
