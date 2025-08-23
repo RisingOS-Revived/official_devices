@@ -9,7 +9,7 @@
 - **Pixel 7 (panther)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 7 Pro (cheetah)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 7a (lynx)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
-- **Pixel Tablet (tangorpro)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
+- **Pixel Tablet (tangorpro)** - [`@Jrcable2`](https://t.me/Jrcable2)
 - **Pixel Fold (felix)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 8 (shiba)** - [`@@Jrcable2`](https://t.me/Jrcable2)
 - **Pixel 8 Pro (husky)** - [`@@Jrcable2`](https://t.me/Jrcable2)

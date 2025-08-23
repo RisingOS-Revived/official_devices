@@ -1,3 +1,6 @@
+=========08/23/2025===========
+- source updates
+
 =========08/16/2025===========
 - Welcome to RisingOS Revived 8.1
 - Device Tree and Vendor updated too August 2025
