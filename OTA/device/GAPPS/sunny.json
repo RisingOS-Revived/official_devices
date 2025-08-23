@@ -4,18 +4,18 @@
 			"maintainer": "dpenra",
 			"oem": "Xiaomi",
 			"device": "Redmi Note 10",
-			"filename": "RisingOS_Revived-8.0-250802-0436-GAPPS-OFFICIAL-sunny-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/sunny/RisingOS_Revived-8.0-250802-0436-GAPPS-OFFICIAL-sunny-ota.zip/download",
-			"timestamp": 1754109271,
-			"md5": "40efc33ff57ada2fa44f0f5357278098",
-			"sha256": "be046d8d7cbb6f0133585ef9a96b9260026bc181d99e1a56b8cabf2ebedfbc03",
-			"size": 2660416343,
-			"version": "8.0-Zorya",
+			"filename": "RisingOS_Revived-8.1-GAPPS-OFFICIAL-sunny-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/sunny/RisingOS_Revived-8.1-GAPPS-OFFICIAL-sunny-ota.zip/download",
+			"timestamp": 1755891518,
+			"md5": "e8e71ba356106a018c8980605b07a8ea",
+			"sha256": "b2bd8eee90c1e9e32653aed7132dc038bff52598a47e8a8ba31a89c214951d0b",
+			"size": 2713891578,
+			"version": "8.1-Arete",
 			"buildtype": "STABLE",
-			"forum": "https://t.me/rn10potato",
+			"forum": "https://t.me/dpenra",
 			"recovery": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/sunny/recovery_images/",
 			"paypal": "",
-			"telegram": "https://t.me/dpenra"
+			"telegram": "https://t.me/rn10potato"
 		}
 	]
 }

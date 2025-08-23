@@ -4,18 +4,18 @@
 			"maintainer": "dpenra",
 			"oem": "Xiaomi",
 			"device": "Redmi Note 10",
-			"filename": "RisingOS_Revived-8.0-250802-0455-MICROG-OFFICIAL-sunny-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/sunny/RisingOS_Revived-8.0-250802-0455-MICROG-OFFICIAL-sunny-ota.zip/download",
-			"timestamp": 1754110389,
-			"md5": "28d96a9a6e17eb4880f26511802bca5c",
-			"sha256": "cd57c798ff2a56a2f863bf919c7cfffa3f4f5d0192e27e89689d06ce2e4611a7",
-			"size": 2063208985,
-			"version": "8.0-Zorya",
+			"filename": "RisingOS_Revived-8.1-MICROG-OFFICIAL-sunny-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/sunny/RisingOS_Revived-8.1-MICROG-OFFICIAL-sunny-ota.zip/download",
+			"timestamp": 1755886881,
+			"md5": "4f9ae0247bbbb4d74bda4ae15b09ef36",
+			"sha256": "72fa212cdf8ff63fe4341619590f3cf0dd6abb634af41dfbfb08662702087bfe",
+			"size": 2090275462,
+			"version": "8.1-Arete",
 			"buildtype": "STABLE",
-			"forum": "https://t.me/rn10potato",
+			"forum": "https://t.me/dpenra",
 			"recovery": "https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/sunny/recovery_images/",
 			"paypal": "",
-			"telegram": "https://t.me/dpenra"
+			"telegram": "https://t.me/rn10potato"
 		}
 	]
 }
