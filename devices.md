@@ -31,6 +31,7 @@
 - **OnePlus 7T Pro (hotdog)** - [`@answer35`](https://t.me/answer35)
 - **OnePlus 8 Pro (instantnoodlep)** - [`@answer35`](https://t.me/answer35)
 - **OnePlus 10 pro (wly)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
+- **OnePlus 12 (waffle)** [`@RedLintu`](https://t.me/RedLintu16NestTwo)
 
 ## Poco
 - **POCO F4 (munch)** - [`@rik_x290`](https://t.me/rik_x290)
