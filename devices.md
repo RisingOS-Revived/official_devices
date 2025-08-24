@@ -4,7 +4,7 @@
 
 ## Google
 - **Pixel 6 (oriole)** - [`@Jrcable2`](https://t.me/Jrcable2)
-- **Pixel 6a (bluejay)** - [`@objectfigure`](https://t.me/objectfigure)
+- **Pixel 6a (bluejay)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 6 Pro (raven)** - [`@Jrcable2`](https://t.me/Jrcable2)
 - **Pixel 7 (panther)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 7 Pro (cheetah)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
