@@ -37,3 +37,12 @@ Device maintainer: Lunark :3
 * Includes Ksu and susfs
 * Includes Dolby Atmos
 * Includes HyperOS Camera
+
+==== Update 8.1 24th August 2025 ====
+* Initial A16 Update
+* Downgrade to ARMv8.2-A
+* Switch audio OSS
+* KernelOSS Updated to 5.15.189
+* Update blobs and Firmware 2.0.201.0.VNKMIXM
+* Includes Ksu-next 1.0.9
+* Support Wifi 6
