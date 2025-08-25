@@ -1,0 +1,15 @@
+Changelog: 
+
+8-25-2025:
+First official release
+
+Notes:
+
+-This build uses OpenEUICC. This might not be the case in a newer build.
+
+The Sourceforge page has two options per flashing method.
+
+OTA: With Accord and BCR or Without Accord and BCR
+Fastboot: With Accord and BCR or Without Accord and BCR
+
+If you want to be able to get updates VIA the updater application, select the one called "Without Accord and BCR"
