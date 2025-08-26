@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Slogar25xOscarM",
+			"oem": "Google",
+			"device": "caiman",
+			"filename": "RisingOS_Revived-8.1-250825-1456-GAPPS-OFFICIAL-caiman-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/caiman/RisingOS_Revived-8.1-250825-1456-GAPPS-OFFICIAL-caiman-ota-signed.zip/download",
+			"timestamp": 1756133801,
+			"md5": "51741d03b78e946523486597d838da55",
+			"sha256": "4559575cd67216175d61da245e7508880d918c4b1f1b107b34b6d18d799fecfa",
+			"size": 3242996523,
+			"version": "8.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/caiman/IMGs/",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}

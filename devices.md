@@ -14,7 +14,9 @@
 - **Pixel 8 (shiba)** - [`@@Jrcable2`](https://t.me/Jrcable2)
 - **Pixel 8 Pro (husky)** - [`@@Jrcable2`](https://t.me/Jrcable2)
 - **Pixel 8a (akita)** - [`@Jrcable2`](https://t.me/Jrcable2)
-- **Pixel 9 Pro Xl (komodo)** - [`@Slogar25`](https://t.me/Slogar25)
+- **Pixel 9 (tokay)** - [`@Slogar25`](https://t.me/Slogar25) && ['@OscarM'](https://t.me/OscarM)
+- **Pixel 9 Pro (caiman)** - [`@Slogar25`](https://t.me/Slogar25) && ['@OscarM'](https://t.me/OscarM)
+- **Pixel 9 Pro Xl (komodo)** - [`@Slogar25`](https://t.me/Slogar25) && ['@OscarM'](https://t.me/OscarM)
 
 ## Motorola
 - **Motorola Edge 30 (Dubai)** - [`@Rakhshan7070`](https://t.me/shan_rakh)
