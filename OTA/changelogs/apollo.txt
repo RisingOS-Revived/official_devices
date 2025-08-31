@@ -1,3 +1,10 @@
+=×=×= 30/08/2025 =×=×=
+- Initial Android 16 Release (8.1 Arete)
+- Added back Dolby
+- Added back ViPER
+- Removed Leica Camera
+- Updated powerhint
+
 =×=×= 24/07/2025 =×=×=
 - Initial Android 16 Release (8.0 Zorya)
 - Dropped Dolby for this build
