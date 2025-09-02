@@ -1,80 +1,18 @@
-This is Android 15 QPR2 with may 2025 security patches.
+This is Android 16 QPR1.
 
+Notes:
+==============================
+- Rising Revived based source. Signed build.
+- For Recovery and KsuN check Device TG Group.
+- Clean flash is required if coming from another rom.
+- Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
+- Includes Dolby Atmos, POCO camera.
 - Credits to Arian16k, ph12nex, MIUI_users_r_GAY, Chaitanya, flakeforever, Adrianyyyy.
 - Report issues with logs.
 
 ==============================
-04/06/2025
+03/08/2025
 ==============================
-- Fix issue that rom stuck on logo for non GL devices.
-
-==============================
-02/06/2025
-==============================
-Device changes:
 - Initial release,
-- Clean Flash,
-- Report only Device side issues with logs.
-
-==============================
-17/3/2025
-==============================
-Device changes:
-- Update HyperOS Gallery and Gallery Editor, 
-- Included per app refresh rate,
-- Included High Brightness Mode (HBM),
-- Included custom display saturation slider,
-- Implement torch light control,
-- Import QCOM audio effects from OnePlus 9R,
-- Do not use phase offsets as duration,
-- Added battery props for better batterybackup,
-- Fix Dolby audio codecs,
-- Set VENDOR_SECURITY_PATCH To PLATFORM,
-- Unmount /firmware after fastbootd starts,
-- Dont ship source recovery with Rom,
-- audio: Add LHDC support (If you don't have an LHDC device, just check supported codec on Bluetooth Codec Changer app),
-- audio: use QCOM Implementation for Audio Effects,
-- parts: Add {navigation,video} thermal profiles,
-- parts: Add support for 60Hz in Landscape in Per-App-RR,
-- parts: Automatically determine thermal profile for apps,
-- parts: Fix setting default thermal profile,
-- props: Add missing layer buffer slots cache clear property,
-- props: Disable game_default_frame_rate override,
-- props: Set SF caching property to 0 (enable),
-- rootdir: Drop platform specific setup from init.qcom.early_boot.sh,
-- rootdir: Drop platform specific setup from init.qcom.post_boot.sh,
-- rootdir: Drop platform specific setup from init.qcom.sh,
-- rootdir: Drop useless init.qcom.class_core.sh,
-- kernel: Upstream kernel to 5.10.232,
-- kernel: Update KernelSU-Next and SUSFS4KSU to the latest version,
-- kernel: Add hide scripts from Wild Plus Kernel thanks to @TheWildJames,
-- and more .......... 
-
-==============================
-16/2/2025
-==============================
-Device changes:
-- Testing Fix for SMS/USSD issues, 
-- Remove AOSP Dailer,(users have issues with it).
-
-Source changes:
-- Minor improvements.
-
-==============================
-14/2/2025
-==============================
-Device changes:
-- Add KernelSU Next with susfs4ksu,Check (https://github.com/rifsxd/KernelSU-Next/releases) to download KSU Manager,
-- Add AOSP Dailer with Google Choose what you want,
-- Some users cant use USSD Codes use Airplane mode once after every restart should fix it (partial fix), Thanks to Arian for this partial fix.
-
-Source changes:
-- Add back island notifications,
-- Update Basic Call Recorder |Version 1.76|,
-- Update lawnchair/lawnicons to the latest version.
-
-==============================
-8/2/2025
-==============================
-Device changes:
-- initial official release.
+- Switch from pixel launcher if you face any crashing via quick switch should be fixed on the next builds,
+- Clean Flash Recommended if you not on one of my a16 test builds.
