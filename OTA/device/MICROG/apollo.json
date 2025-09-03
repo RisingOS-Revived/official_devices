@@ -1,17 +1,17 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
+			"maintainer": "Murtaza Kolachi",
+			"oem": "Xiaomi",
+			"device": "Apollo",
 			"filename": "RisingOS_Revived-8.1-250831-0049-MICROG-OFFICIAL-apollo-ota.zip",
-			"download": "",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/apollo/RisingOS_Revived-8.1-250831-0049-MICROG-OFFICIAL-apollo-ota.zip/download",
 			"timestamp": 1756583247,
 			"md5": "4c7194a3dc86602811f8921b408aca42",
 			"sha256": "64146ab48fd461421c690041654c4e2b696ee06d7f6b83afb2f52833fcef7d99",
 			"size": 2008631635,
 			"version": "8.1-Arete",
-			"buildtype": "",
+			"buildtype": "User",
 			"forum": "",
 			"recovery": "https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/apollo/ofox.img/download",
 			"paypal": "https://www.patreon.com/c/MurtazaKolachi",
