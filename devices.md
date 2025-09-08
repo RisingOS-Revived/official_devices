@@ -76,3 +76,4 @@
 - **Xiaomi 12 Pro (zeus)** - [`@KernelPanix`](https://t.me/KernelPanix)
 - **Xiaomi 12S Pro (unicorn)** - [`@KernelPanix`](https://t.me/KernelPanix)
 - **Xiaomi 12T (diting)** - [`@KernelPanix`](https://t.me/KernelPanix)
+- **Xiaomi 12 Lite (taoyao)** - [`@ammarbahtiarasli`](https://t.me/ammarbahtiarasli)
