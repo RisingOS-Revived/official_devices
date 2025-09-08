@@ -54,4 +54,5 @@
   <project name="device_google_caiman" />
   <project name="device_google_tokay" />
   <project name="device_oneplus_waffle" />
+  <project name="device_xiaomi_taoyao" />
 </manifest>
