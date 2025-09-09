@@ -10,7 +10,7 @@
   * boot.img
   * dtbo.img
   * vendor_boot.img
-  * ...and then the latest OTA zip for taoyao (RisingOS_Revived-x.x.x-xxxxxxxx-CORE-OFFICIAL-taoyao-ota.zip)
+  * ...and then the latest OTA zip for taoyao (RisingOS_Revived-x.x.x-xxxxxxxx-GAPPS-OFFICIAL-taoyao-ota.zip)
 
 *Do ***NOT*** substitute ***any*** of these files with files that you've downloaded elsewhere if you want support for your installation.*
 
@@ -53,7 +53,7 @@ fastboot flash vendor_boot vendor_boot.img
 * Use the adb sideload command with the ROM file:
 
 ``` 
-adb sideload RisingOS_Revived-x.x.x-xxxxxxxx-CORE-OFFICIAL-taoyao-ota.zip
+adb sideload RisingOS_Revived-x.x.x-xxxxxxxx-GAPPS-OFFICIAL-taoyao-ota.zip
 ```
 
 ### Update installation:
@@ -64,7 +64,7 @@ adb sideload RisingOS_Revived-x.x.x-xxxxxxxx-CORE-OFFICIAL-taoyao-ota.zip
   * Use the adb sideload command to flash the update file:
 
 ```
-adb sideload RisingOS_Revived-x.x.x-xxxxxxxx-CORE-OFFICIAL-taoyao-ota.zip
+adb sideload RisingOS_Revived-x.x.x-xxxxxxxx-GAPPS-OFFICIAL-taoyao-ota.zip
 ```
 
 * Reboot the device:
