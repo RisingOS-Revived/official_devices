@@ -1,3 +1,9 @@
+=========10/09/2025===========
+* source update
+* fixed notification led
+* fixed DT2W
+
+
 =========09/08/2025===========
 * updates Kernel, added KSU
 * some minor device side changes and fixes
