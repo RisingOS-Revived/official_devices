@@ -1,3 +1,12 @@
+=========15/09/2025===========
+* Use ADPF to improve the experience during heavy animations.
+* Optimized network services to save battery life on 5G.
+* New hybrid task profile, for better performance and energy efficiency balance.
+* Optimized power hints to improve battery efficiency.
+* Fixed WFD.
+* Synchronized source changes.
+* September Security Patch.
+
 =========20/08/2025===========
 * Fixed audio noise.
 * Improved memory management.
