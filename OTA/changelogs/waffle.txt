@@ -13,3 +13,17 @@ OTA: With Accord and BCR or Without Accord and BCR
 Fastboot: With Accord and BCR or Without Accord and BCR
 
 If you want to be able to get updates VIA the updater application, select the one called "Without Accord and BCR"
+
+
+9/15/2025:
+
+I don't know...
+
+Updated it to one of the latest versions of RisingOS-Revived (they keep updating things like crazy)
+Added Dolby Atmos
+No more OpenEUICC as I don't think that LineageOS thing is crashing anymore? I don't know.
+
+
+Lemme know if this has BCR or Accord. I'll fix it. If it does and you want that shit, don't updater
+
+Other than that, that's all I know for now
