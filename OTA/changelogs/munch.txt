@@ -1,19 +1,11 @@
-Highlights & Device Specific Changes:
+Device Specific Changes:
 Build type: Stable/Monthly
 Device name: POCO F4
 Device codename: munch
-Device maintainer: Rik
+Device maintainer: SenX
 
-=×=×= 16th  March 2025 =×=×=
-* March securtiy patches.
-* Dirty Flash is fine from 6.2-1. Updating via OTA is recommended.
-* Implemented Dolby Atmos from Oneplus 9RT.
-* Add 48MP rear camera sensor from miui A13.
-* And a few more minor changes.
+=========16/09/2025===========
+- September security patch
+- Initial Android 16 Release (8.1 Arete)
 
-=×=×= 20th February 2025 =×=×=
-* Initial Build
-* Dirty Flash is okay from Rising 6.2
-* Synced with latest source
-* February security patches
-* Misc fixes and optimizations
+

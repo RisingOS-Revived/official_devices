@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "SenX",
+      "oem": "Xiaomi",
+      "device": "Poco F4/Redmi K40s",
+      "filename": "RisingOS_Revived-8.1-250916-0718-CORE-OFFICIAL-munch-ota.zip",
+      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/CORE/munch/RisingOS_Revived-8.1-250916-0718-CORE-OFFICIAL-munch-ota.zip/download",
+      "timestamp": 1758006912,
+      "md5": "8295cac82dc302bacc7057cd74f5089b",
+      "sha256": "29abf2cbceb57294278289936ee711f9e5a111a70b5e37e970f63f3dd78b56c4",
+      "size": 2265911069,
+      "version": "8.1-Arete",
+      "buildtype": "STABLE",
+      "forum": "t.me/senseixhub",
+      "recovery": "https://orangefox.download/device/634a91f53c05f43c193c2c3e",
+      "paypal": "https://paypal.me/senxkarl",
+      "telegram": "https://t.me/WazzupSensei911"
+    }
+  ]
+}
