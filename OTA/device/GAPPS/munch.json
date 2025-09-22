@@ -4,18 +4,18 @@
       "maintainer": "SenX",
       "oem": "Xiaomi",
       "device": "Poco F4/Redmi K40s",
-      "filename": "RisingOS_Revived-8.1-250916-0651-GAPPS-OFFICIAL-munch-ota.zip",
-      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/munch/RisingOS_Revived-8.1-250916-0651-GAPPS-OFFICIAL-munch-ota.zip/download",
-      "timestamp": 1758005039,
-      "md5": "b20a3a25d5c68da684bfc5b4fa50191f",
-      "sha256": "a54d824fe287cf12b278ad267f33629ca90da3638c49046062dc8e84f6f31212",
-      "size": 2805533745,
-      "version": "8.1-Arete",
+      "filename": "RisingOS_Revived-8.1.1-250922-1400-GAPPS-OFFICIAL-munch-ota.zip",
+      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/munch/RisingOS_Revived-8.1.1-250922-1400-GAPPS-OFFICIAL-munch-ota.zip/download",
+      "timestamp": 1758549525,
+      "md5": "d2ac00b692948f32715d6841395daf2f",
+      "sha256": "526d163d04f5bb46f9d796df8115172470af7fc79543433bece3c613fa5df2d2",
+      "size": 2910363603,
+      "version": "8.1.1-Arete",
       "buildtype": "STABLE",
-      "forum": "t.me/senseixhub",
+      "forum": "",
       "recovery": "https://orangefox.download/device/634a91f53c05f43c193c2c3e",
       "paypal": "https://paypal.me/senxkarl",
-      "telegram": "https://t.me/WazzupSensei911"
+      "telegram": "https://t.me/senseixhub"
     }
   ]
 }
