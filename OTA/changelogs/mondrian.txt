@@ -10,6 +10,15 @@ Notes:
 - Credits to Arian16k, ph12nex, MIUI_users_r_GAY, Chaitanya, flakeforever, Adrianyyyy.
 - Report issues with logs.
 
+===== 22/09/2025 =====
+- Bump to version 8.1.1 Arete
+- sm8450-common: overlay: Update pixel pitch.
+- sm8450-common: overlay: Turn on display before resuming AOD.
+- kernel: update to linux 5.10.240
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
 ===== 21/09/2025 =====
 - mondrian: Spoof BuildFingerprint as Pixel Beta.
 - sm8450-common: Update blobs from diting OS2.0.203.0.VLFMIXM.
