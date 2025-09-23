@@ -4,18 +4,18 @@
       "maintainer": "SenX",
       "oem": "Xiaomi",
       "device": "Poco F4/Redmi K40s",
-      "filename": "RisingOS_Revived-8.1-250916-0718-CORE-OFFICIAL-munch-ota.zip",
-      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/CORE/munch/RisingOS_Revived-8.1-250916-0718-CORE-OFFICIAL-munch-ota.zip/download",
-      "timestamp": 1758006912,
-      "md5": "8295cac82dc302bacc7057cd74f5089b",
-      "sha256": "29abf2cbceb57294278289936ee711f9e5a111a70b5e37e970f63f3dd78b56c4",
-      "size": 2265911069,
-      "version": "8.1-Arete",
+      "filename": "RisingOS_Revived-8.1.1-250922-1426-CORE-OFFICIAL-munch-ota.zip",
+      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/CORE/munch/RisingOS_Revived-8.1.1-250922-1426-CORE-OFFICIAL-munch-ota.zip/download",
+      "timestamp": 1758551045,
+      "md5": "a204465b885a38b73c10bf4e63e79187",
+      "sha256": "8d6b9a9836824965ab672272ff94e6199fd129224b70282a577c4d4518598e16",
+      "size": 2261940454,
+      "version": "8.1.1-Arete",
       "buildtype": "STABLE",
-      "forum": "t.me/senseixhub",
+      "forum": "",
       "recovery": "https://orangefox.download/device/634a91f53c05f43c193c2c3e",
       "paypal": "https://paypal.me/senxkarl",
-      "telegram": "https://t.me/WazzupSensei911"
+      "telegram": "https://t.me/senseixhub"
     }
   ]
 }

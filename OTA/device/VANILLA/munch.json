@@ -4,18 +4,18 @@
       "maintainer": "SenX",
       "oem": "Xiaomi",
       "device": "Poco F4/Redmi K40s",
-      "filename": "RisingOS_Revived-8.1-250916-0334-VANILLA-OFFICIAL-munch-ota.zip",
-      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/munch/RisingOS_Revived-8.1-250916-0334-VANILLA-OFFICIAL-munch-ota.zip/download",
-      "timestamp": 1757993516,
-      "md5": "7c477dea3ae30a6b43f744ffa70e25e0",
-      "sha256": "4ace1471c456b2fef76960b98d48f7da9da12cbaefba0e091b76230055d5070a",
-      "size": 1792424418,
-      "version": "8.1-Arete",
+      "filename": "RisingOS_Revived-8.1.1-250922-1310-VANILLA-OFFICIAL-munch-ota.zip",
+      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/munch/RisingOS_Revived-8.1.1-250922-1310-VANILLA-OFFICIAL-munch-ota.zip/download",
+      "timestamp": 1758546601,
+      "md5": "78b868ea9e0ca0bb952af42ea2f191b5",
+      "sha256": "e63f68088009818e2d4cb9859918834ecdeb5ea0942e5eeddd2217fdf6e90ebe",
+      "size": 1791857476,
+      "version": "8.1.1-Arete",
       "buildtype": "STABLE",
-      "forum": "t.me/senseixhub",
+      "forum": "",
       "recovery": "https://orangefox.download/device/634a91f53c05f43c193c2c3e",
       "paypal": "https://paypal.me/senxkarl",
-      "telegram": "https://t.me/WazzupSensei911"
+      "telegram": "https://t.me/senseixhub"
     }
   ]
 }

@@ -4,6 +4,14 @@ Device name: POCO F4
 Device codename: munch
 Device maintainer: SenX
 
+=========23/09/2025===========
+- Bump to version 8.1.1 Arete
+- Switch to AOSP wfd
+- kernel: Upstream to linux 4.19.335
+- kerenel: Added WildKSU support
+- Synced with latest sources.
+- Some other fixes and improvements.
+
 =========16/09/2025===========
 - September security patch
 - Initial Android 16 Release (8.1 Arete)
