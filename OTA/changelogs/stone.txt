@@ -1,3 +1,7 @@
+=========24/09/2025===========
+* Fixed charging info on lock screen .
+* Synchronized source changes.
+
 =========15/09/2025===========
 * Use ADPF to improve the experience during heavy animations.
 * Optimized network services to save battery life on 5G.
