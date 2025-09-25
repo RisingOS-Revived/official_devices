@@ -1,3 +1,8 @@
+25/09/2025
+
+* Make ortus launcher as default launcher
+* Some minor changes and improvements
+
 23/08/2025
 
 * Kernel state at r17b15
