@@ -1,3 +1,7 @@
+=========09/25/2025===========
+- Welcome to RisingOS Revived 8.1.1
+- some bug fixes and source updates
+
 =========09/05/2025===========
 - source updates
 
