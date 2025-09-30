@@ -37,7 +37,7 @@
 
 ## Poco
 - **POCO F4 (munch)** - [`@WazzupSensei911`](https://t.me/WazzupSensei911)
-- **POCO F5 (marble)** - [`@SharmagRit`](https://t.me/SharmagRit)
+- **POCO F5 (marble)** - [`@Dhanush`](https://t.me/solocaptainblaze)
 - **POCO F5 Pro/K60 (mondrian)** - [`@Keosh1`](https://t.me/Keosh1)
 - **POCO F6 (peridot)** - [`@Farrukh2002`](https://t.me/farrukh2002) && [`@ath1188`](https://t.me/ath1188)
 - **POCO F6 Pro/K70 (vermeer)** - [`@ByteWave1014`](https://t.me/ByteWave1014)
