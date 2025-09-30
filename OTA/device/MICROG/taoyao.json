@@ -3,19 +3,19 @@
 		{
 			"maintainer": "ammarbahtiarasli",
 			"oem": "Xiaomi",
-			"device": "Xiaomi 12 Lite",
-			"filename": "RisingOS_Revived-8.1-250909-0616-MICROG-OFFICIAL-taoyao-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/taoyao/RisingOS_Revived-8.1-250909-0616-MICROG-OFFICIAL-taoyao-ota.zip/download",
-			"timestamp": 1757378674,
-			"md5": "0abf2720f77ae78d60c5b1240d81fbbf",
-			"sha256": "2301ffe019939d556c4372d9a05e0d1705290f4cc67c53bb272de760ea51510d",
-			"size": 2252373832,
-			"version": "8.1-Arete",
+			"device": "12 Lite",
+			"filename": "RisingOS_Revived-8.1.1-250930-0158-MICROG-OFFICIAL-taoyao-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/taoyao/RisingOS_Revived-8.1.1-250930-0158-MICROG-OFFICIAL-taoyao-ota.zip/download",
+			"timestamp": 1759200241,
+			"md5": "5c798913e7a9fc449f2116127c9a69eb",
+			"sha256": "72c5f72cd46853e4e23c67328b16b63e3ae41c11341174ff2136c44edcab7891",
+			"size": 2281320564,
+			"version": "8.1.1-Arete",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "https://sourceforge.net/projects/ammarbahtiarasli/files/recovery/RisingOS-Revived/",
 			"paypal": "https://paypal.me/ammarbahtiarasli",
-			"telegram": "https://t.me/taoyaoaosp"
+			"telegram": "https://t.me/ammarbahtiarasli"
 		}
 	]
 }

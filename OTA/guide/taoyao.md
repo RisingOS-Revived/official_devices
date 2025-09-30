@@ -1,6 +1,6 @@
 # RisingOS Installation Instructions for taoyao
 
-**Maintainer:** [ammarbahtiarasli](https://t.me/taoyao-aosp) | @ammarbahtiarasli
+**Maintainer:** [ammarbahtiarasli](https://t.me/ammarbahtiarasli) | @ammarbahtiarasli
 
 ### Required Files
 

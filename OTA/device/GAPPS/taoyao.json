@@ -3,19 +3,19 @@
 		{
 			"maintainer": "ammarbahtiarasli",
 			"oem": "Xiaomi",
-			"device": "Xiaomi 12 Lite",
-			"filename": "RisingOS_Revived-8.1-250909-0521-GAPPS-OFFICIAL-taoyao-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/taoyao/RisingOS_Revived-8.1-250909-0521-GAPPS-OFFICIAL-taoyao-ota.zip/download",
-			"timestamp": 1757375467,
-			"md5": "2838eca00f69285725e820ba4adafcdb",
-			"sha256": "e08494a247730dd5a9ae3896d100ce085a81bd9733daecd58d15d3b3164d6fda",
-			"size": 3152879357,
-			"version": "8.1-Arete",
+			"device": "12 Lite",
+			"filename": "RisingOS_Revived-8.1.1-250930-0158-GAPPS-OFFICIAL-taoyao-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/taoyao/RisingOS_Revived-8.1.1-250930-0158-GAPPS-OFFICIAL-taoyao-ota.zip/download",
+			"timestamp": 1759197388,
+			"md5": "c89aa2e549e53ace79ae907c47085eaf",
+			"sha256": "7918d04b78888647585c8bd8fa4060ccadf8a5eb2c30bd777a6cb5a90e69fce4",
+			"size": 3324675034,
+			"version": "8.1.1-Arete",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "https://sourceforge.net/projects/ammarbahtiarasli/files/recovery/RisingOS-Revived/",
 			"paypal": "https://paypal.me/ammarbahtiarasli",
-			"telegram": "https://t.me/taoyaoaosp"
+			"telegram": "https://t.me/ammarbahtiarasli"
 		}
 	]
 }
