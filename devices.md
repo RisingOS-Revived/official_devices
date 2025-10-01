@@ -37,6 +37,7 @@
 - **OnePlus Ace 3/12R (aston)** - [`@uwu-gl`](https://github.com/uwu-gl)
 
 ## Poco
+- **POCO F3 (alioth)** - [`zenzer0s`](https://t.me/zenzer0s)
 - **POCO F4 (munch)** - [`@WazzupSensei911`](https://t.me/WazzupSensei911)
 - **POCO F5 (marble)** - [`@Dhanush`](https://t.me/solocaptainblaze)
 - **POCO F5 Pro/K60 (mondrian)** - [`@Keosh1`](https://t.me/Keosh1)
