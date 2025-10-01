@@ -36,6 +36,7 @@
 - **OnePlus 12 (waffle)** - RedLintu16 [`Telegram Group`](https://t.me/RedLintu16NestTwo)
 
 ## Poco
+- **POCO F3 (alioth)** - [`zenzer0s`](https://t.me/zenzer0s)
 - **POCO F4 (munch)** - [`@WazzupSensei911`](https://t.me/WazzupSensei911)
 - **POCO F5 (marble)** - [`@Dhanush`](https://t.me/solocaptainblaze)
 - **POCO F5 Pro/K60 (mondrian)** - [`@Keosh1`](https://t.me/Keosh1)
