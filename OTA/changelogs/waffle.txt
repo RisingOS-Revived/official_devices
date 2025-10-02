@@ -27,3 +27,11 @@ No more OpenEUICC as I don't think that LineageOS thing is crashing anymore? I d
 Lemme know if this has BCR or Accord. I'll fix it. If it does and you want that shit, don't updater
 
 Other than that, that's all I know for now
+
+10/2/2025:
+Fucking hell... This one took a lot fucking longer than I wanted it to...
+
+Changes:
+Updated RisingOS Revived sources
+Hopefully the random back to bootanimation thing is fixed
+I don't know... That's probably fucking it...
