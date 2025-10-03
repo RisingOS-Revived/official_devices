@@ -34,7 +34,6 @@
 - **OnePlus 8 Pro (instantnoodlep)** - [`@answer35`](https://t.me/answer35)
 - **OnePlus 10 pro (wly)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
 - **OnePlus 12 (waffle)** - RedLintu16 [`Telegram Group`](https://t.me/RedLintu16NestTwo)
-- **OnePlus Ace 3/12R (aston)** - [`@uwu-gl`](https://github.com/uwu-gl)
 
 ## Poco
 - **POCO F3 (alioth)** - [`zenzer0s`](https://t.me/zenzer0s)
