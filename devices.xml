@@ -56,5 +56,4 @@
   <project name="device_oneplus_waffle" />
   <project name="device_xiaomi_taoyao" />
   <project name="device_xiaomi_alioth" />
-  <project name="device_oneplus_aston" />
 </manifest>
