@@ -35,3 +35,8 @@ Changes:
 Updated RisingOS Revived sources
 Hopefully the random back to bootanimation thing is fixed
 I don't know... That's probably fucking it...
+
+10/6/2025:
+Added more camera stuff
+Removed the stupid Google Gemini application
+Some more changes I'm probably forgetting
