@@ -4,8 +4,14 @@ Device name: Poco F5/Redmi Note 12 Turbo
 Device codename: marble
 Device maintainer: Dhanush
 
+=×=×= 6 Oct 2025 =×=×=
+* Enable ADPF CPU hints for improved UI performance
+* props: Enable QTI Memory Optimization
+* Disable Zygote gl preload
+* Enable full ART optimizations with VDEX/ODEX
+
 =×=×= 4 Oct 2025 =×=×=
-* ixed auto brightness fluctuations in white screen unnecessarily.
+* fixed auto brightness fluctuations in white screen unnecessarily.
 * Adapted Bluetooth LE audio stuff from lineageOS changes.
 * Fixed the microphone cracking issue.
 * Fixed the bluetooth connect/disconnect happens after some usage.
