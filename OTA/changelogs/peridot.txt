@@ -1,5 +1,13 @@
 Device changelogs:
 
+=========08/10/2025===========
+- September Security Patch
+- 819 GPU Drivers Added
+- Switched to OSS device and kernel trees
+- FS19xx fixed (Thanks Grewal).
+- Kernel: Upstream to linux 6.1.148
+- Non-Root Stock kernel build.
+
 =========22/08/2025===========
 - Intial official GAPPS release.
 - MIUI Camera Added.
