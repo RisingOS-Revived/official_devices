@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Murtaza Kolachi",
+			"oem": "Xiaomi",
+			"device": "Apollo",
+			"filename": "RisingOS_Revived-8.1.1-251017-1917-CORE-OFFICIAL-apollo-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/CORE/apollo/RisingOS_Revived-8.1.1-251017-1917-CORE-OFFICIAL-apollo-ota.zip/download",
+			"timestamp": 1760728578,
+			"md5": "42cf8270714d181d2c780a4ccac76ec5",
+			"sha256": "7a53ae2dc03145ca66902c5d2588482c573ea784af7b293b69f50acfc83639ba",
+			"size": 2438095781,
+			"version": "8.1.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/apollo/ofox.img/download",
+			"paypal": "https://www.patreon.com/c/MurtazaKolachi",
+			"telegram": "https://t.me/murtazasapollocommunity"
+		}
+	]
+}
