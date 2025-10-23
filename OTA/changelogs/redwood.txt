@@ -4,6 +4,13 @@ Device name: POCO X5 PRO
 Device codename: redwood
 Device maintainer: Mayur_U
 
+=×=×= 23rd Oct 2025 =×=×=
+* MIUI Cam Included
+* Sony Dolby Included
+* Scarlet as default kernel(latest)
+* Updated blobs to latest global
+* fixed dt2w
+
 =×=×= 07th June 2025 =×=×=
 * Synced with Latest RisingOS Revived sources v7.0 (Persis)
 * Initial Build
