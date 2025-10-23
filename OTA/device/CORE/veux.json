@@ -1,21 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "アムリタ",
-                        "oem": "Xiaomi",
-                        "device": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
-                        "filename": "RisingOS_Revived-6.2.1-STABLE-25021419-CORE-OFFICIAL-veux-ota.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/veux/RisingOS_Revived-6.2.1-STABLE-25021419-CORE-OFFICIAL-veux-ota.zip/download",
-                        "timestamp": 1739541170,
-                        "md5": "4d44ae8f7d5e6869a50c96e202b59abb",
-                        "sha256": "37ae156a42c6d8821e349f38590b8d2a83c8673c0fb951a21d88cab0676a3bcb",
-                        "size": 2201145726,
-                        "version": "6.2.1-Boundless",
-                        "buildtype": "STABLE",
-                        "forum": "",
-                        "recovery": "https://t.me/veuxplayground/2950",
-                        "paypal": "https://PayPal.Me/takixamru",
-                        "telegram": "https://t.me/amrito_kun"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "tranQuila",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
+			"filename": "RisingOS_Revived-8.0-250802-0340-CORE-OFFICIAL-veux-ota.zip",
+			"download": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/RisingOs-8.0-020825/RisingOS_Revived-8.0-250802-0340-CORE-OFFICIAL-veux-ota.zip",
+			"timestamp": 1754105936,
+			"md5": "b9133c620055ed81bc4849c268e18e4f",
+			"sha256": "b65b445deef92a7a6d6c1925c0871f99f0b39bdaa475ea7854d7e90b3db89865",
+			"size": 1937063917,
+			"version": "8.0-Zorya",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://github.com/MrTopia/device_xiaomi_veux/releases/tag/RisingOs-8.0-190725",
+			"paypal": "https://telegra.ph/MrTopiAs-Donation-Info-12-29",
+			"telegram": "https://t.me/mrtopia"
+		}
+	]
 }

@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "KernelPanix",
+      "oem": "Xiaomi",
+      "device": "cupid",
+      "filename": "RisingOS_Revived-8.1-250919-1431-GAPPS-OFFICIAL-cupid-ota.zip",
+      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/cupid/RisingOS_Revived-8.1-250919-1431-GAPPS-OFFICIAL-cupid-ota.zip/download",
+      "timestamp": 1758292155,
+      "md5": "9810104e6e053d870b847693e48a55e5",
+      "sha256": "1d606199782e1da1e0eb5bf4841b43aca759243bd63d52d70a029728816fcbcc",
+      "size": 3236261227,
+      "version": "8.1-Arete",
+      "buildtype": "STABLE",
+      "forum": "https://t.me/TotoroNK",
+      "recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/cupid/twrp-3.7.1_12-v9.0_A15-cupid-skkk.img/download",
+      "paypal": "https://www.paypal.me/dopaemon",
+      "telegram": "https://t.me/KernelPanix"
+    }
+  ]
+}

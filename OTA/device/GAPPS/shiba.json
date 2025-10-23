@@ -1,20 +1,20 @@
 {
 	"response": [
 		{
-			"maintainer": "EliteDarkKaiser",
+			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "shiba",
-			"filename": "RisingOS_Revived-7.0-250605-1339-GAPPS-OFFICIAL-shiba-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/shiba/RisingOS_Revived-7.0-250605-1339-GAPPS-OFFICIAL-shiba-ota.zip/download",
-			"timestamp": 1749145077,
-			"md5": "03461da8256a33b9b2189f29b0c891ed",
-			"sha256": "e237c93e849fc5dc37702e3d35820b7ef2d8a91503bff501f87685d6cbb5c9eb",
-			"size": 2682144159,
-			"version": "7.0-Persis",
+			"filename": "RisingOS_Revived-8.1.1-251012-1324-GAPPS-OFFICIAL-shiba-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/shiba/RisingOS_Revived-8.1.1-251012-1324-GAPPS-OFFICIAL-shiba-ota.zip/download",
+			"timestamp": 1760289715,
+			"md5": "c30839ad5fa9f049f43cff47bee1575f",
+			"sha256": "4863d0217942aedee4278a6a53e6fd3b755611520e8fb84d17e6adc316207b72",
+			"size": 3106404936,
+			"version": "8.1.1-Arete",
 			"buildtype": "STABLE",
 			"forum": "https://xdaforums.com/t/rom-official-risingos-revived-7-0-a15-april-spl-shusky.4670958/",
 			"recovery": "",
-			"paypal": "",
+			"paypal": "https://paypal.me/nadiak1016",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]

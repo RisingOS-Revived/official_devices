@@ -1,80 +1,112 @@
-This is Android 15 QPR2 with may 2025 security patches.
+This is Android 16.
 
+Notes:
+==============================
+- Rising Revived based source. Signed build.
+- For Recovery and KsuN check Device TG Group.
+- Clean flash is required if coming from another rom.
+- Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
+- Includes Dolby Atmos, POCO camera.
 - Credits to Arian16k, ph12nex, MIUI_users_r_GAY, Chaitanya, flakeforever, Adrianyyyy.
 - Report issues with logs.
 
-==============================
-04/06/2025
-==============================
-- Fix issue that rom stuck on logo for non GL devices.
+===== 08/10/2025 =====
+- [RESTRUCTURE] sm8450-common: powerhint: restructure the json (Thanks to Phoenix (kenway) and beingashwani).
+- [OPT] sm8450-common: powerhint: balance boosts for smoothness and improved battery backup.
+- [BOOST] sm8450-common: powerhint: tune scheduler & interaction for smoother UI.
+- [OPT] sm8450-common: powerhint: Refine UI interaction boosts for smoother experience.
+- [OPT] sm8450-common: powerhint: Add uclamp boost for display wakeup.
+- sm8450-common: Fix some dolby atmos hal denial.
+- Revert "sm8450-common: hal: support new BLE devices".
+- sm8450-common: Use 8Gb dalvik heap size config.
+- sm8450-common: Set product shipping API level to 33.
+- sm8450-common: Reorder Soong namespace includes.
+- sm8450-common: build libstagefright_softomx_plugin.
+- sm8450-common: Dynamically set IRQ affinity for KGSL and MSM_DRM.
+- sm8450-common: Force disable iorapd.
+- sm8450-common: enable display.enable_optimize_refresh.
+- sm8450-common: props: Set blobcache.multifile_limit.
+- sm8450-common: props: Disable Zygote gl preload.
+- sm8450-common: props: Enable QTI Memory Optimization.
+- sm8450-common: Fix typo for android.hardware.se.omapi.ese directory.
+- [REAPPLY] sm8450-common: Fix the auto brightness.
+- Revert "sm8450-common: props: Disable debug.sf.latch_unsignaled".
+- sm8450-common: Parts: Add automatic screen-based touch sampling control with immediate response.
+- sm8450-common Parts: Rewrite touch sampling to Kotlin with AIDL integration.
+- sm8450: parts: Update chinese Translations.
+- Revert "sm8450-common: Make sure to enable 64bit fingerprint HAL".
+- sm8450: parts: Import Translations.
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
 
-==============================
-02/06/2025
-==============================
-Device changes:
+===== 22/09/2025 =====
+- Bump to version 8.1.1 Arete
+- sm8450-common: overlay: Update pixel pitch.
+- sm8450-common: overlay: Turn on display before resuming AOD.
+- kernel: update to linux 5.10.240
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
+===== 21/09/2025 =====
+- mondrian: Spoof BuildFingerprint as Pixel Beta.
+- sm8450-common: Update blobs from diting OS2.0.203.0.VLFMIXM.
+- sm8450-common: BLE: Max GATT connections as a central are increased to 10.
+- sm8450-common: Bluetooth: Disable HID Device Profile.
+- sm8450-common: BT: Enable Battery Service profile (BAS).
+- sm8450-common: HFP: AG: Enable AptX voice power management prop.
+- sm8450-common: Bluetooth: Changing vendor ID as QTI for Device ID Profile.
+- sm8450-common: Le-Audio: Enable C-I-S->SCO sync for Android-V targets.
+- sm8450-common: BT-Intf: Enable LEAudio swb bydefault for all Android-V upgrades.
+- sm8450-common: Set Class of device from property.
+- sm8450-common: BT-Intf: Enable LEAudio bydefault for all Android-V upgrades.
+- sm8450-common: Enable AptX voice property.
+- sm8450-common: BT: Enable PBAP SIM feature.
+- sm8450-common: Enable LE audio offload support property.
+- sm8450-common: overlay: set 60hz refresh rate for AOD.
+- sm8450-common: Implement torch light control. (use old QS)
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
+===== 16/09/2025 =====
+- vintf: Add more hals to fcm
+- aidl: sensors: Update a misleading error log.
+- aidl: sensors: Set dynamic_sensor_timeout to 1600 during boot
+- vinf: Add {vendor.dolby_sp.hardware.dmssp, vendor.dolby_v3_6.hardware.dms360} to FCM
+- Drop megvii stubs
+- mondrian: enable necessary overlays.
+- mondrian: Move libQnnHtpV69{,Skel} to adsp rfsa dir for dsp postprocessing.
+- dolby: update dax-default.xml.
+- dolby: fixup voice profile.
+- dolby: Fix switch widget IDs in preference layouts for proper binding.
+- Fix Camera crash when zoon in/out.
+- dolby: translate.
+- dolby: Match hyperos dax-default.xml (OS2.0.203.0.VMNMIXM).
+- dolby: Implement Material 3 Expressive Design.
+- sm8450-common: powerhint Changes :-
+1: Align THERMAL_EVENT handling with Thermal Hal.
+2: Optimise DISPLAY_UPDATE_IMMINENT boosts.
+3: Reset uclamp after gaming.
+4: Refine touch boost logic.
+5: Set duration for INTERACTION CPUBW boost.
+6: Add CAMERA LAUNCH & CAMERA SHOT boosts.
+7: Add GPU Boost for DISPLAY_UPDATE_IMMINENT.
+8: Add ROTATION boost for smoother screen orientation changes.
+9: Tune ROTATION hint for efficiency.
+10: Tune DEVICE_IDLE to reduce wakeup stutters.
+11: Make ThermalProfile safe by default/add gaming override.
+12: Configure gaming power hints for CPU/GPU clusters.
+13: Tune powerhint to match mondrian sys nodes and values.
+- props: Do not use phase offsets as duration.
+- sepolicy: Allow fingerprint hal to read rootfs.
+- sepolicy: Allow fingerprint hal grant SYS_NICE capability to set SCHED_FIFO.
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
+===== 03/09/2025 =====
 - Initial release,
-- Clean Flash,
-- Report only Device side issues with logs.
-
-==============================
-17/3/2025
-==============================
-Device changes:
-- Update HyperOS Gallery and Gallery Editor, 
-- Included per app refresh rate,
-- Included High Brightness Mode (HBM),
-- Included custom display saturation slider,
-- Implement torch light control,
-- Import QCOM audio effects from OnePlus 9R,
-- Do not use phase offsets as duration,
-- Added battery props for better batterybackup,
-- Fix Dolby audio codecs,
-- Set VENDOR_SECURITY_PATCH To PLATFORM,
-- Unmount /firmware after fastbootd starts,
-- Dont ship source recovery with Rom,
-- audio: Add LHDC support (If you don't have an LHDC device, just check supported codec on Bluetooth Codec Changer app),
-- audio: use QCOM Implementation for Audio Effects,
-- parts: Add {navigation,video} thermal profiles,
-- parts: Add support for 60Hz in Landscape in Per-App-RR,
-- parts: Automatically determine thermal profile for apps,
-- parts: Fix setting default thermal profile,
-- props: Add missing layer buffer slots cache clear property,
-- props: Disable game_default_frame_rate override,
-- props: Set SF caching property to 0 (enable),
-- rootdir: Drop platform specific setup from init.qcom.early_boot.sh,
-- rootdir: Drop platform specific setup from init.qcom.post_boot.sh,
-- rootdir: Drop platform specific setup from init.qcom.sh,
-- rootdir: Drop useless init.qcom.class_core.sh,
-- kernel: Upstream kernel to 5.10.232,
-- kernel: Update KernelSU-Next and SUSFS4KSU to the latest version,
-- kernel: Add hide scripts from Wild Plus Kernel thanks to @TheWildJames,
-- and more .......... 
-
-==============================
-16/2/2025
-==============================
-Device changes:
-- Testing Fix for SMS/USSD issues, 
-- Remove AOSP Dailer,(users have issues with it).
-
-Source changes:
-- Minor improvements.
-
-==============================
-14/2/2025
-==============================
-Device changes:
-- Add KernelSU Next with susfs4ksu,Check (https://github.com/rifsxd/KernelSU-Next/releases) to download KSU Manager,
-- Add AOSP Dailer with Google Choose what you want,
-- Some users cant use USSD Codes use Airplane mode once after every restart should fix it (partial fix), Thanks to Arian for this partial fix.
-
-Source changes:
-- Add back island notifications,
-- Update Basic Call Recorder |Version 1.76|,
-- Update lawnchair/lawnicons to the latest version.
-
-==============================
-8/2/2025
-==============================
-Device changes:
-- initial official release.
+- Switch from pixel launcher if you face any crashing via quick switch should be fixed on the next builds,
+- Clean Flash Recommended if you not on one of my a16 test builds.

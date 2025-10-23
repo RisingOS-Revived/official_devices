@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "mysellysenpai",
+			"oem": "Xiaomi",
+			"device": "garnet",
+			"filename": "RisingOS_Revived-8.1.1-251003-1809-MICROG-OFFICIAL-garnet-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/garnet/RisingOS_Revived-8.1.1-251003-1809-MICROG-OFFICIAL-garnet-ota.zip/download",
+			"timestamp": 1759514899,
+			"md5": "5141d5099d4a117aa3ad09afd7fbe560",
+			"sha256": "9f1474421415b8e38d8a0f6ef7050254e10dae811564b7cab1cb001d5e80cd83",
+			"size": 2080596303,
+			"version": "8.1.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/garnetglobalchat"
+		}
+	]
+}

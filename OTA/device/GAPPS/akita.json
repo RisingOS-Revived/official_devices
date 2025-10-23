@@ -1,20 +1,20 @@
 {
 	"response": [
 		{
-			"maintainer": "EliteDarkKaiser",
+			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "akita",
-			"filename": "RisingOS_Revived-7.0-250605-1726-GAPPS-OFFICIAL-akita-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/akita/RisingOS_Revived-7.0-250605-1726-GAPPS-OFFICIAL-akita-ota.zip/download",
-			"timestamp": 1749158699,
-			"md5": "5ee2fa78038cd5b9e1f1f7ee50f68ee1",
-			"sha256": "744706175ce86b65cee5e66d10b727a90ed10bbb9728d172500017a5d45ced90",
-			"size": 2673257576,
-			"version": "7.0-Persis",
+			"filename": "RisingOS_Revived-8.1.1-251012-1356-GAPPS-OFFICIAL-akita-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/akita/RisingOS_Revived-8.1.1-251012-1356-GAPPS-OFFICIAL-akita-ota.zip/download",
+			"timestamp": 1760291650,
+			"md5": "0ab43bd256a36786ec81d8a520908ffe",
+			"sha256": "895f82b9c8a5dabcf9d34a97216800cc424869e60516bb18e60e19d182bbd16d",
+			"size": 3095749440,
+			"version": "8.1.1-Arete",
 			"buildtype": "STABLE",
 			"forum": "https://xdaforums.com/t/rom-official-risingos-revived-7-0-a15-april-spl-akita.4690280/",
 			"recovery": "",
-			"paypal": "",
+			"paypal": "https://paypal.me/nadiak1016",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]

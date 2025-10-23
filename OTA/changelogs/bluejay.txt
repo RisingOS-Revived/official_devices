@@ -1,7 +1,12 @@
-May 19 2025
+=========08/09/2025===========
+- Initial Release of RisingOS Revived 8.0 ( Zorya ) Android 16 
+- Synced with latest Source Changes
+- Device Tree, Kernel, and Vendor updated too July 2025
 
-This is QPR2 with May 2025 security patches
+June 24 2025
 
+This is QPR2 with June 2025 security patches On May Bootloader
 Device changes:
 ==============================
-Initial official release
+RisingOS revived 7.1-Selene release
+

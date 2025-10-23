@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "ammarbahtiarasli",
+			"oem": "Xiaomi",
+			"device": "Xiaomi 12 Lite",
+			"filename": "RisingOS_Revived-8.1-250909-0521-GAPPS-OFFICIAL-taoyao-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/taoyao/RisingOS_Revived-8.1-250909-0521-GAPPS-OFFICIAL-taoyao-ota.zip/download",
+			"timestamp": 1757375467,
+			"md5": "2838eca00f69285725e820ba4adafcdb",
+			"sha256": "e08494a247730dd5a9ae3896d100ce085a81bd9733daecd58d15d3b3164d6fda",
+			"size": 3152879357,
+			"version": "8.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/ammarbahtiarasli/files/recovery/RisingOS-Revived/",
+			"paypal": "https://paypal.me/ammarbahtiarasli",
+			"telegram": "https://t.me/taoyaoaosp"
+		}
+	]
+}

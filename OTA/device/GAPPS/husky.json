@@ -1,20 +1,20 @@
 {
 	"response": [
 		{
-			"maintainer": "EliteDarkKaiser",
+			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "husky",
-			"filename": "RisingOS_Revived-7.0-250605-1312-GAPPS-OFFICIAL-husky-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/husky/RisingOS_Revived-7.0-250605-1312-GAPPS-OFFICIAL-husky-ota.zip/download",
-			"timestamp": 1749143499,
-			"md5": "7463fd206a2d280f5ba68b207fe4edf3",
-			"sha256": "a2caa25f880d6049c32308044ddb18825cccc94cc1234086b39349b471376d11",
-			"size": 2698853594,
-			"version": "7.0-Persis",
+			"filename": "RisingOS_Revived-8.1.1-251012-1206-GAPPS-OFFICIAL-husky-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/husky/RisingOS_Revived-8.1.1-251012-1206-GAPPS-OFFICIAL-husky-ota.zip/download",
+			"timestamp": 1760285059,
+			"md5": "052c884af2987ed850badb9392ab6150",
+			"sha256": "c6b9b9ad6ea3faced750f1e451008343ccfa58e12583af6cec7085df00b36e2f",
+			"size": 3073925085,
+			"version": "8.1.1-Arete",
 			"buildtype": "STABLE",
 			"forum": "https://xdaforums.com/t/rom-official-risingos-revived-7-0-a15-april-spl-shusky.4670958/",
 			"recovery": "",
-			"paypal": "",
+			"paypal": "https://paypal.me/nadiak1016",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]

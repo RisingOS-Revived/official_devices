@@ -1,0 +1,70 @@
+Highlights & Device Specific Changes:
+Build type: user
+Device name: Xiaomi 12S
+Device codename: mayfly
+Device maintainer: KernelPanix
+
+=×=×= 13 / 06 / 2025 =×=×=
+* Synced with Latest RisingOS Revived sources v7.1 (Selene)
+* sm8450-common: overlay: Remove duplicate auto-brightness configurations
+* sm8450-common: Import QCOM audio effects from OnePlus 9R
+* sm8450-common: audio: use QCOM Implementation for Audio Effects
+* sm8450-common: Extend audio offload buffer size to 256kb
+* sm8450-common: Build android.media.audio.common.types-V2-cpp
+* sm8450-common: init: Make less cores available for background tasks
+* sm8450-common: Enable Client Composition Cache
+* sm8450-common: Remove fqname for vendor.qti.hardware.pal@1.0
+* sm8450-common: Enable VoNR Calls support
+* sm8450-common: CarrierConfig: Set LTE+ threshold bandwidth to 0
+* sm8450-common: CarrierConfig: Globally enable LTE+ icon
+* sm8450-common: wlan: Disable FW TWT
+* sm8450-common: rootdir: device: qcom: common: add system permission for power_state
+* sm8450-common: props: Disable Skia tracing by default
+* sm8450-common: properties: Enable support for kernel idle timer
+* sm8450-common: Enable frame pacing for smoother visual performance
+* sm8450-common: properties: Disable continuous transaction tracing on all build types
+* sm8450-common: props: Add missing layer buffer slots cache clear property
+* sm8450-common: prop: Add a property to enable prefetching video
+* sm8450-common: properties: Use HintManager for HWUI
+* sm8450-common: Compile HWUI for performance
+* sm8450-common: Explicitly disable "Enable GL comp backpressure"
+* sm8450-common: rootdir: Kill WALT CPU boosting
+* sm8450-common: Do not ship recovery in a/b ota update
+* Revert "sm8450-common: Add support for Dolby Atmos"
+
+=×=×= 20 / 09 / 2025 =×=×=
+* sm8450-common: Shim libwfdservice with libaudioclient_shim
+* sm8450-common: props: Add missing layer buffer slots cache clear property
+* sm8450-common: properties: Use HintManager for HWUI
+* sm8450-common: Set manufacturer soc property
+* sm8450-common: Import missing permissions for QCC app
+* sm8450-common: configs: audio: Fix mic issues in apps like WhatsApp
+* sm8450-common: Tone down CamX and CHIUSECASE logging
+* sm8450-common: sepolicy: Neverallow app open access to /dev/ashmem
+* sm8450-common: sepolicy: Label disp_feature and allow composer to r/w it
+* sm8450-common: init: Move RLIMIT_MEMLOCK to system/core init.
+* sm8450-common: overlay: configure SQLite to operate in MEMORY mode
+* sm8450-common: pin libops.so to fix L3 issue
+* sm8450-common: init: Register and enable qcrild & data services on boot
+* sm8450-common: CarrierConfig: Set LTE+ threshold bandwidth to 0
+* sm8450-common: Extend audio offload buffer size to 256kb
+* sm8450-common: Enable VoNR Calls support
+* sm8450-common: overlay: Remove duplicate auto-brightness configurations
+* sm8450-common: Compile HWUI for performance
+* sm8450-common: Fixing connecting BLE (bt 5.x) devices (smart watches, etc.)
+* sm8450-common: Include Sign Key
+* sm8450-common: rootdir: Restrict apps access to /proc/net/unix
+* sm8450-common: Enable support for IEEE80211AC
+* sm8450-common: init: Rm package cache on early boot
+* fixup! sm8450-common: sepolicy: Address a cameraserver neverallow
+* sm8450-common: sepolicy: Allow hal_camera_default to access sys_thermal_flash_state
+* sm8450-common: sepolicy: Allow cameraserver to search directories in sysfs_leds
+* sm8450-common: camera: Cap max_brightness
+* sm8450-common: rootdir: Label brightness node correctly
+* sm8450-common: sepolicy: Address a cameraserver neverallow
+* sm8450-common: camera: Add enabled bool for finished workarounds
+* sm8450-common: camera: Implement setTorchModeExt
+* sm8450-common: camera: Implement supportsSetTorchModeExt
+* sm8450-common: Implement torch light control
+* sm8450-common: Add Props to improve battery backup
+* sm8450: sepolicy: Silence selinux logspam

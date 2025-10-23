@@ -2,6 +2,7 @@
 <manifest>
   <project name="device_oneplus_wly" />
   <project name="device_realme_ferrari" />
+  <project name="device_realme_salaa" />
   <project name="device_xiaomi_mondrian" />
   <project name="device_nothing_Pong" />
   <project name="device_motorola_dubai" />
@@ -44,4 +45,15 @@
   <project name="device_samsung_gta4xl" />
   <project name="device_samsung_gta4xlwifi" />
   <project name="device_xiaomi_apollo" />
+  <project name="device_xiaomi_cupid" />
+  <project name="device_xiaomi_mayfly" />
+  <project name="device_xiaomi_zeus" />
+  <project name="device_xiaomi_unicorn" />
+  <project name="device_xiaomi_diting" />
+  <project name="device_xiaomi_sweet" />
+  <project name="device_google_caiman" />
+  <project name="device_google_tokay" />
+  <project name="device_oneplus_waffle" />
+  <project name="device_xiaomi_taoyao" />
+  <project name="device_xiaomi_alioth" />
 </manifest>

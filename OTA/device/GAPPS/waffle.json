@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "RedLintu16",
+                        "oem": "OnePlus",
+                        "device": "12",
+                        "filename": "RisingOS_Revived-8.1-250915-0819-GAPPS-OFFICIAL-waffle-ota.zip",
+                        "download": "https://roms-api.redlintu16.com/ROMs/waffle/RisingOS-Revived-Official/OTA/RisingOS-Revived-Official-Google_Applications-No_BCR_or_Accord-OTA.zip",
+                        "timestamp": 1760224020,
+                        "md5": "ea784bd83aa97422ef2f61fd372ce5ad",
+                        "sha256": "c056fd92df74d33d71312706c91922df47a4fac97d647cb292456a2ddfb666e1",
+                        "size": 3186004220,
+                        "version": "8.1-Arete",
+                        "buildtype": "STABLE",
+                        "forum": "redlintu16.com",
+                        "recovery": "https://roms-api.redlintu16.com/ROMs/waffle/RisingOS-Revived-Official/recovery.img",
+                        "paypal": "https://redlintu16.com",
+                        "telegram": "https://t.me/RedLintu16NestTwo"
+                }
+        ]
+}

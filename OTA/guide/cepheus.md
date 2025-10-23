@@ -23,7 +23,7 @@
 
 • Backup your Important files
 
-• Boot to Custom Recovery (OrangeFox or TWRP)
+• Boot to Custom Recovery (TWRP)
 
 • Flash **RisingOS Revived** ROM
 
@@ -39,7 +39,7 @@
 
 • Backup your Important files
 
-• Boot to Custom Recovery (OrangeFox or TWRP)
+• Boot to Custom Recovery (TWRP)
 
 • Flash **RisingOS Revived** ROM
 
@@ -55,7 +55,7 @@
 
 • Backup your Important files
 
-• Boot to Custom Recovery (OrangeFox or TWRP)
+• Boot to Custom Recovery (TWRP)
 
 • start ADB
 

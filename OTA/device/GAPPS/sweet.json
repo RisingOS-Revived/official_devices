@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "Musafir02",
+                        "oem": "Xiaomi",
+                        "device": "sweet",
+                        "filename": "RisingOS_Revived-7.1-250620-0911-GAPPS-OFFICIAL-sweet-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/sweet/RisingOS_Revived-7.1-250620-0911-GAPPS-OFFICIAL-sweet-ota.zip/download",
+                        "timestamp": 1750410551,
+                        "md5": "30e4891d9588133bc099afc9131ea1d9",
+                        "sha256": "493588e6f585c403c2e1695bcd56859483e16c1b8d923d2f51872c158b000d13",
+                        "size": 3206088923,
+                        "version": "7.1-Selene",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip",
+                        "paypal": "https://t.me/musafirstuff/12",
+                        "telegram": "https://t.me/RoyalOSsupport"
+                }
+        ]
+}

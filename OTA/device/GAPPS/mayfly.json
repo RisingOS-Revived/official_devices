@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "KernelPanix",
+      "oem": "Xiaomi",
+      "device": "mayfly",
+      "filename": "RisingOS_Revived-8.1-250919-1225-GAPPS-OFFICIAL-mayfly-ota.zip",
+      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/mayfly/RisingOS_Revived-8.1-250919-1225-GAPPS-OFFICIAL-mayfly-ota.zip/download",
+      "timestamp": 1758284593,
+      "md5": "7ff4c8f514a4d8d8b7bc9d68fcae4ae4",
+      "sha256": "a4687301969b65a857206ae7340794567014bd42a7706828f5a9c16cd56b0dd6",
+      "size": 3364536900,
+      "version": "8.1-Arete",
+      "buildtype": "STABLE",
+      "forum": "https://t.me/TotoroNK",
+      "recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/mayfly/twrp-3.7.1_12-v9.0_A15-mayfly-skkk.img/download",
+      "paypal": "https://www.paypal.me/dopaemon",
+      "telegram": "https://t.me/KernelPanix"
+    }
+  ]
+}

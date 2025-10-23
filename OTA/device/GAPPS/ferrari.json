@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Arman-ATI",
+			"oem": "Realme",
+			"device": "ferrari",
+			"filename": "RisingOS_Revived-8.1-250910-1732-GAPPS-OFFICIAL-ferrari-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/ferrari/RisingOS_Revived-8.1-250910-1732-GAPPS-OFFICIAL-ferrari-ota.zip/download",
+			"timestamp": 1757525422,
+			"md5": "8831a17aab603cad7ecc98f2e8752b21",
+			"sha256": "8335221e38af090508aaa401fa3c86a2a31fb3e07ca55280aec2250b390eb82b",
+			"size": 3478955169,
+			"version": "8.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://github.com/sponsors/RisingOS-Revived",
+			"telegram": "https://t.me/Machad3xROMS"
+		}
+	]
+}

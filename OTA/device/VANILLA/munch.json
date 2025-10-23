@@ -1,21 +1,21 @@
 {
-	"response": [
-		{
-			"maintainer": "Rik",
-			"oem": "Xiaomi",
-			"device": "POCO F4",
-			"filename": "RisingOS_Revived-6.3-250316-1106-VANILLA-OFFICIAL-munch-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/munch/RisingOS_Revived-6.3-250316-1106-VANILLA-OFFICIAL-munch-ota.zip/download",
-			"timestamp": 1742123031,
-			"md5": "5a3486cf681ffdb16659306da08e6cea",
-			"sha256": "c0b51189ac235c3db035273dbacd8f8d989132847b84d8d5689bb463a1537914",
-			"size": 1846654131,
-			"version": "6.3-Celestia",
-			"buildtype": "STABLE",
-			"forum": "https://t.me/munch_chat",
-			"recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/munch/twrp-3.7.1_12-v9.0_A15-munch-skkk.img/download",
-			"paypal": "https://paypal.me/rikx290",
-			"telegram": "https://t.me/rik_x290"
-		}
-	]
+  "response": [
+    {
+      "maintainer": "SenX",
+      "oem": "Xiaomi",
+      "device": "Poco F4/Redmi K40s",
+      "filename": "RisingOS_Revived-8.1.1-250922-1310-VANILLA-OFFICIAL-munch-ota.zip",
+      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/munch/RisingOS_Revived-8.1.1-250922-1310-VANILLA-OFFICIAL-munch-ota.zip/download",
+      "timestamp": 1758546601,
+      "md5": "78b868ea9e0ca0bb952af42ea2f191b5",
+      "sha256": "e63f68088009818e2d4cb9859918834ecdeb5ea0942e5eeddd2217fdf6e90ebe",
+      "size": 1791857476,
+      "version": "8.1.1-Arete",
+      "buildtype": "STABLE",
+      "forum": "",
+      "recovery": "https://orangefox.download/device/634a91f53c05f43c193c2c3e",
+      "paypal": "https://paypal.me/senxkarl",
+      "telegram": "https://t.me/senseixhub"
+    }
+  ]
 }

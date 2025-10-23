@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Arman ATI",
+			"oem": "OnePlus",
+			"device": "wly",
+			"filename": "RisingOS_Revived-7.1-250614-1840-VANILLA-OFFICIAL-wly-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/VANILLA/wly/RisingOS_Revived-7.1-250614-1840-VANILLA-OFFICIAL-wly-ota.zip/download",
+			"timestamp": 1749926394,
+			"md5": "717ae5f97d3e743a249679388fcbb513",
+			"sha256": "ba3579f42ac392cdf8418146bd51a01720efad4210e70f35617968f243d7f762",
+			"size": 2124810593,
+			"version": "7.1-Selene",
+			"buildtype": "STABLE",
+			"forum": "https://t.me/Machad3xROMS",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/VANILLA/wly/recovery.img/download",
+			"paypal": "https://github.com/sponsors/RisingOS-Revived",
+			"telegram": "https://t.me/Machad3xROMS"
+		}
+	]
+}

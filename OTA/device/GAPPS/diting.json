@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "KernelPanix",
+      "oem": "Xiaomi",
+      "device": "diting",
+      "filename": "RisingOS_Revived-8.1-250919-1823-GAPPS-OFFICIAL-diting-ota.zip",
+      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/diting/RisingOS_Revived-8.1-250919-1823-GAPPS-OFFICIAL-diting-ota.zip/download",
+      "timestamp": 1758306100,
+      "md5": "c683228fd3aed3dc76d72068cdfcfba1",
+      "sha256": "3c1025af38e623f1189430d64ad790de5253bba31d4d322c879d39ed630ee1be",
+      "size": 3344030276,
+      "version": "8.1-Arete",
+      "buildtype": "STABLE",
+      "forum": "https://t.me/TotoroNK",
+      "recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/diting/twrp-3.7.1_12-v9.0_A15-diting-skkk.img/download",
+      "paypal": "https://www.paypal.me/dopaemon",
+      "telegram": "https://t.me/KernelPanix"
+    }
+  ]
+}

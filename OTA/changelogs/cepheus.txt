@@ -1,3 +1,20 @@
+=========10/09/2025===========
+* source update
+* fixed notification led
+* fixed DT2W
+
+
+=========09/08/2025===========
+* updates Kernel, added KSU
+* some minor device side changes and fixes
+* Synced with latest Source Changes
+
+
+=========13/07/2025===========
+* Initial A16 release
+
+
+
 17. March 2025
 This is Android 15 QPR1 with March 2025 (r15) security patches
  

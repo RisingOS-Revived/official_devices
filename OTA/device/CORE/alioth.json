@@ -1,0 +1,23 @@
+{
+        "response": [
+                {
+                        "maintainer": "zenzer0s",
+                        "oem": "Xiaomi",
+                        "device": "POCO F3 | Redmi K40 | Mi 11X",
+                        "filename": "RisingOS_Revived-8.1.1-251002-0435-CORE-OFFICIAL-alioth-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/CORE/alioth/RisingOS_Revived-8.1.1-251002-0435-CORE-OFFICIAL-alioth-ota.zip/download",
+                        "timestamp": 1759379578,
+                        "md5": "93bc46d1b75aec187da4eed5d1db022d",
+                        "sha256": "0e5fa3ab5390f5292a186375d8592d9f4ae519e6c7917f594a676dadb3d5f420",
+                        "size": 2201709370,
+                        "version": "8.1.1-Arete",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://orangefox.download/device/alioth",
+                        "paypal": "https://buymeacoffee.com/zenzer0s",                       
+                        "telegram": "https://t.me/zenzer0s"
+                }
+        ]
+}
+
+

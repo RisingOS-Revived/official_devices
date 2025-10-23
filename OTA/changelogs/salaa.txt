@@ -1,0 +1,14 @@
+# 27-07-2025
+- Initial A16 OFFICIA-BETA Build
+- Synced with latest v8.0 source
+- July 2025 security patch
+- Compiled with  Stormbreaker v4.14.336 kernel
+- Misc. Fixes and Improvements
+
+# 27-06-2025
+- Initial OFFICIAL Build
+- Likely to be EOL release for a15
+- Synced with latest v7.1 source
+- June 2025 security patch
+- Compiled with  Stormbreaker v4.14.336 kernel
+- Misc. Fixes and Improvements

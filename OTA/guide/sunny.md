@@ -31,10 +31,10 @@
 
 # **Recovery Images Download**
 
-- [Gapps](https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/sunny/recovery_images/)
-- [Core](https://sourceforge.net/projects/risingos-revived/files/7.x/CORE/sunny/recovery_images/)
-- [Vanilla](https://sourceforge.net/projects/risingos-revived/files/6.x/VANILLA/sunny/recovery_images/)
-- [MICROG VANILLA](https://sourceforge.net/projects/risingos-revived/files/7.x/MICROG/sunny/recovery_images/)
+- [Gapps](https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/sunny/recovery_images/)
+- [Core](https://sourceforge.net/projects/risingos-revived/files/8.x/CORE/sunny/recovery_images/)
+- [Vanilla](https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/sunny/recovery_images/)
+- [MICROG VANILLA](https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/sunny/recovery_images/)
 
 
 ## **Installation Methods**
