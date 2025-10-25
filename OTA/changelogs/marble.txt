@@ -4,6 +4,11 @@ Device name: Poco F5/Redmi Note 12 Turbo
 Device codename: marble
 Device maintainer: Dhanush
 
+=×=×= 24th October 2025 =×=×=
+* Synced with Latest RisingOS Revived sources v8.1.1-Arete
+* Update blobs to OS2.0.209.0.VMRMIXM
+* Many improvement for stability
+
 =×=×= 4 Oct 2025 =×=×=
 * ixed auto brightness fluctuations in white screen unnecessarily.
 * Adapted Bluetooth LE audio stuff from lineageOS changes.
