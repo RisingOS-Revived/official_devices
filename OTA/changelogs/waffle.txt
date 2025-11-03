@@ -37,6 +37,9 @@ Updated to the latest RisingOS-Revived version.
 For some reason, there's no indicator on the left side when you use the Alert Slider, but it works and you can see what's what by the clock in the Notification Center area. 
 Hopefully, the black screen issue other users of other ROMs have been experiencing is fixed here, but no promises that it's complteley fixed. 
 
+11/2/2025
+Updated to the latest RisingOS-Revived release
+Started to include KernelSU Next
 
 Stay updated by joining my Telegram group. That's where I'll post tests, and patched Magisk stuff.
 https://t.me/RedLintu16NestTwo
