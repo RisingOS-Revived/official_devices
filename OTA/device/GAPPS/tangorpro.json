@@ -1,20 +1,20 @@
 {
 	"response": [
 		{
-			"maintainer": "EliteDarkKaiser",
+			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "tangorpro",
-			"filename": "RisingOS_Revived-8.1.1-251012-1134-GAPPS-OFFICIAL-tangorpro-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/tangorpro/RisingOS_Revived-8.1.1-251012-1134-GAPPS-OFFICIAL-tangorpro-ota.zip/download",
-			"timestamp": 1760283027,
-			"md5": "03478dcc939cfba168fc5e73ab556fef",
-			"sha256": "e3734c5ca9500af3b4f108197b2c6af94cf5d6a1ff75e6a242abd1480f0ba883",
-			"size": 2973330909,
+			"filename": "RisingOS_Revived-8.1.1-251103-1351-GAPPS-OFFICIAL-tangorpro-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/tangorpro/RisingOS_Revived-8.1.1-251103-1351-GAPPS-OFFICIAL-tangorpro-ota.zip/download",
+			"timestamp": 1762195570,
+			"md5": "700a2ce6c19ede40522667f869c97a67",
+			"sha256": "b80e7680f86aa6aafc72f6d4d4fcfdb442819310fe5ab49cb5ed3775be7c485c",
+			"size": 2967306110,
 			"version": "8.1.1-Arete",
 			"buildtype": "STABLE",
 			"forum": "https://xdaforums.com/t/rom-official-risingos-revived-7-0-gapps-april-spl-a15.4708507/",
 			"recovery": "",
-			"paypal": "",
+			"paypal": "https://paypal.me/nadiak1016",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]
