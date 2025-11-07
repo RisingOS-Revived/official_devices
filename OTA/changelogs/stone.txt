@@ -1,3 +1,14 @@
+=========07/11/2025===========
+* parts: add core control
+* parts: add minimal CPU Manager
+* parts: add minimal GPU Manager
+* Parts: Add StoneParts
+* Parts: Moved resources to StoneParts and made minor adjustments.
+* Parts: Added battery status with notifications.
+* Kernel: Upstrem to 5.4.300
+* Other small improvements under the hood
+* Synchronized source changes.
+
 =========24/09/2025===========
 * Fixed charging info on lock screen .
 * Synchronized source changes.
