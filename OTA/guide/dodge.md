@@ -3,6 +3,8 @@
  
 ### **Installation Methods**
 
+***Oneplus 13 Dodge***
+
 ## **Clean Flash Steps:**
 
 • Flash Important .img files via Bootloader
@@ -10,35 +12,33 @@
     - fastboot flash dtbo dtbo.img
     - fastboot flash recovery recovery.img
     - fastboot flash vendor_boot vendor_boot.img
+    
+•Reboot To Recovery
 
-• Boot to Recovery
+## Flash via adb:**
 
-• Flash **RisingOS Revived** ROM
+•Wipe data
 
-• Format Data (correct, the place where you need to type in "YES")
+•Flash the ROM via ADB sideload:
+   ```
+ adb sideload <path/to/rom.zip>
 
-• Reboot and enjoy!
+• Reboot to System
+
+"Profit"
 
 ---
 
 ## Dirty flash:**
-
-
-• Boot to Recovery
-
-• Flash **RisingOS Revived** ROM
-
-
-• Reboot and enjoy!
-
----
-
-## Flash via adb:**
-
-• Backup your Important files
 
 • Adb reboot recovery
 
 • Flash the ROM via ADB sideload:
    ```
    adb sideload <path/to/rom.zip>
+
+• Reboot to system
+
+---
+
+
