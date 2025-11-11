@@ -1,21 +1,21 @@
 {
-  "response": [
-    {
-      "maintainer": "SenX",
-      "oem": "Xiaomi",
-      "device": "Poco F4/Redmi K40s",
-      "filename": "RisingOS_Revived-8.1.1-250922-1400-GAPPS-OFFICIAL-munch-ota.zip",
-      "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/munch/RisingOS_Revived-8.1.1-250922-1400-GAPPS-OFFICIAL-munch-ota.zip/download",
-      "timestamp": 1758549525,
-      "md5": "d2ac00b692948f32715d6841395daf2f",
-      "sha256": "526d163d04f5bb46f9d796df8115172470af7fc79543433bece3c613fa5df2d2",
-      "size": 2910363603,
-      "version": "8.1.1-Arete",
-      "buildtype": "STABLE",
-      "forum": "",
-      "recovery": "https://orangefox.download/device/634a91f53c05f43c193c2c3e",
-      "paypal": "https://paypal.me/senxkarl",
-      "telegram": "https://t.me/senseixhub"
-    }
-  ]
+        "response": [
+                {
+                        "maintainer": "SenX & efeisot",
+                        "oem": "Xiaomi",
+                        "device": "Poco F4/Redmi K40s",
+                        "filename": "RisingOS_Revived-8.1.1-251111-1522-GAPPS-OFFICIAL-munch-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/munch/RisingOS_Revived-8.1.1-251111-1522-GAPPS-OFFICIAL-munch-ota.zip/download",
+                        "timestamp": 1762874557,
+                        "md5": "d20afe5aeb7389fe326551ef6740c97d",
+                        "sha256": "7f2dc2c6970343c78724c60fae452c383d81c54cfd9149ba78828e1fc316ff2f",
+                        "size": 2898934146,
+                        "version": "8.1.1-Arete",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://orangefox.download/device/634a91f53c05f43c193c2c3e",
+                        "paypal": "https://paypal.me/senxkarl",
+                        "telegram": "https://t.me/senseixhub"
+                }
+        ]
 }
