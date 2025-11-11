@@ -1,5 +1,10 @@
 =×= 03/10/2025 =×=
 
+   * source
+sync to latest for new features
+
+=×= 03/10/2025 =×=
+
    * device tree
 fstab: set readahead_size_kb=128 to data
 audio: Drop ultrasound-handset profile to fix route transitions
