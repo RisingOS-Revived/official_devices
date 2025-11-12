@@ -57,4 +57,5 @@
   <project name="device_xiaomi_taoyao" />
   <project name="device_xiaomi_alioth" />
   <project name="device_oneplus_dodge" />
+  <project name="device_xiaomi_onyx" />
 </manifest>
