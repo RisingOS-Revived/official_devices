@@ -1,21 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "Mayur_U",
-                        "oem": "xiaomi",
-                        "device": "POCO X5 PRO 5G",
-                        "filename": "RisingOS_Revived-8.1.1-251023-0450-GAPPS-OFFICIAL-redwood-ota.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/redwood/RisingOS_Revived-8.1.1-251023-0450-GAPPS-OFFICIAL-redwood-ota.zip/download",
-                        "timestamp": 1761194991,
-                        "md5": "99db6927dcf5468e2c8acfcd988c66fc",
-                        "sha256": "c44aa5ceec574f5ba44a9f25fb65cff1da302c80e03020e4c9ac4f1f9434649a",
-                        "size": 2907963289,
-                        "version": "8.1.1-Arete",
-                        "buildtype": "STABLE",
-                        "forum": "",
-                        "recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/redwood/IMGs/",
-                        "paypal": "https://www.paypal.com/paypalme/MayurU779?country.x=IN&locale.x=en_GB",
-                        "telegram": "https://t.me/Mayurbuilds"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Blueheart016|SaYaN",
+			"oem": "xiaomi",
+			"device": "POCO X5 PRO 5G",
+			"filename": "RisingOS_Revived-8.1.1-251112-0109-GAPPS-OFFICIAL-redwood-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/redwood/RisingOS_Revived-8.1.1-251112-0109-GAPPS-OFFICIAL-redwood-ota.zip/download",
+			"timestamp": 1762909318,
+			"md5": "1380d7218ee3a9e616604b22427421e0",
+			"sha256": "44360dd9d5ce8d3b4c32d465964a03d58cdfc036ef63c38e55d6c2e6ecfa30d1",
+			"size": 2941095846,
+			"version": "8.1.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/redwood/IMGs/",
+			"paypal": "https://paypal.me/blueheart016",
+			"telegram": "https://t.me/ToxicOS_OfficalSupport"
+		}
+	]
 }
