@@ -49,6 +49,7 @@
 - **POCO X5 Pro 5G (redwood)** - [`@Blueheart016|SaYaN`](https://t.me/@BlueHeart016)
 - **POCO X6 5G (garnetp)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
 - **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
+- **POCO F7 (onyx)** - [`@K4LCHAKRA`](https://t.me/K4LCHAKRA) && ['@Romgharti'](https://t.me/Romgharti)
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
