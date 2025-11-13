@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "K4LCHAKRA x ROMGHARTI",
+			"oem": "Xiaomi",
+			"device": "POCO F7",
+			"filename": "RisingOS_Revived-8.1.1-251112-1452-GAPPS-OFFICIAL-onyx-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/onyx/RisingOS_Revived-8.1.1-251112-1452-GAPPS-OFFICIAL-onyx-ota.zip/download",
+			"timestamp": 1762938204,
+			"md5": "c96527fb5a2c25f418dd710341cb76a4",
+			"sha256": "d82686df7ea95928f67f80c12db5eb49107db0c93322b287c9996cfe0ce87a9f",
+			"size": 4226377006,
+			"version": "8.1.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/onyx/recovery_images/",
+			"paypal": "",
+			"telegram": "https://t.me/onyx_odyssey"
+		}
+	]
+}
