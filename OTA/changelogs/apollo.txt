@@ -1,3 +1,15 @@
+=========15/11/2025===========
+- Added Eclipse Kernel (Nokernel)
+- Source updates
+- Improved performance
+- Addressed many sepolicy denials
+- Enabled avoid_gfx_accel for more ram
+- Implemented Torch strength Control
+- Added RmNet Data props for Improved internet speeds
+- Refined LED mappings
+- Moved IMS props to system
+- Moved some Audio props to system
+
 =×=×= 30/08/2025 =×=×=
 - Initial Android 16 Release (8.1 Arete)
 - Added back Dolby
