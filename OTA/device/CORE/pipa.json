@@ -2,7 +2,7 @@
 {
         "response": [
                 {
-                        "maintainer": "Aryan",
+                        "maintainer": "YuvarajAF",
                         "oem": "Xiaomi",
                         "device": "pipa",
                         "filename": "RisingOS_Revived-7.0-250507-1933-CORE-OFFICIAL-pipa-ota.zip",
@@ -16,7 +16,7 @@
                         "forum": "",
                         "recovery": "https://sourceforge.net/projects/risingos-revived/files/6.x/CORE/pipa/Recovery%20Images/vendor_boot.img/download",
                         "paypal": "",
-                        "telegram": "https://t.me/CuriousNom"
+                        "telegram": ""
                 }
         ]
 }
