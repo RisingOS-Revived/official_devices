@@ -1,3 +1,8 @@
+=========23/11/2025===========
+- Sync with latest source
+- Updated all XiaomiParts [Thermal Profiles,hbm,dc dim etc..] UI to MD3 Expressive 
+- Added Revanced 
+
 =========02/10/2025===========
 
 - Initial Official Android 16 Release (8.1.1 Arete)

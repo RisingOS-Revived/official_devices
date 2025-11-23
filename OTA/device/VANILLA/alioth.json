@@ -1,21 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "zenzer0s",
-                        "oem": "Xiaomi",
-                        "device": " POCO F3 | Redmi K40 | Mi 11X",
-                        "filename": "RisingOS_Revived-8.1.1-251002-0406-VANILLA-OFFICIAL-alioth-ota.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/alioth/RisingOS_Revived-8.1.1-251002-0406-VANILLA-OFFICIAL-alioth-ota.zip/download",
-                        "timestamp": 1759377916,
-                        "md5": "beb219c59e3ca1a69b75659511c29f48",
-                        "sha256": "2ea05fecdbec739cdaf55e2a1019b817b47ff00271f035d068b7e273b9ca629d",
-                        "size": 1696766712,
-                        "version": "8.1.1-Arete",
-                        "buildtype": "STABLE",
-                        "forum": "",
-                        "recovery": "https://orangefox.download/device/alioth",
-                        "paypal": "https://buymeacoffee.com/zenzer0s",
-                        "telegram": "https://t.me/zenzer0s"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "zenzer0s",
+			"oem": "Xiaomi",
+			"device": "POCO F3 | Redmi K40 | Mi 11X",
+			"filename": "RisingOS_Revived-8.1.1-251123-1025-VANILLA-OFFICIAL-alioth-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/alioth/RisingOS_Revived-8.1.1-251123-1025-VANILLA-OFFICIAL-alioth-ota.zip/download",
+			"timestamp": 1763893347,
+			"md5": "cba80d67f59d8d3bbdd65838608a5e11",
+			"sha256": "52fb9e406860a35279a61c91af00904ef550d01f6e9434981498399071313763",
+			"size": 1996158097,
+			"version": "8.1.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://orangefox.download/device/alioth",
+			"paypal": "https://buymeacoffee.com/zenzer0s",
+			"telegram": "https://t.me/zenzer0s"
+		}
+	]
 }
