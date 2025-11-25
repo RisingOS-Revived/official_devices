@@ -3,7 +3,7 @@
 **Maintainer:** [Lunark :3](https://t.me/PocoF6ProSupport) | @ByteWave1014
 
 # Preparation
-* Flash the Firmware OS2.0.201.0.VNKMIXM
+* Flash the Firmware OS2.0.207.0.VNKMIXM
 
 ### Required Recovery
 

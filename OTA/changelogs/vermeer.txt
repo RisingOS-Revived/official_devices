@@ -46,3 +46,20 @@ Device maintainer: Lunark :3
 * Update blobs and Firmware 2.0.201.0.VNKMIXM
 * Includes Ksu-next 1.0.9
 * Support Wifi 6
+
+==== Update 8.1.1 24th November 2025 ====
+* November Security Patch
+* Switch device tree to lineageOS official
+* Update blobs from OS2.0.211.0.VMKCNXM(socrates) and OS2.0.207.0.VNKMIXM(vermeer)
+* Udfps 60hz Fixed
+* Automatic brightness fixed
+* Import GameBar
+* Includes Ksu-next 1.1.1
+* KernelOSS Updated to 5.15.194
+* Enable battery cycle count 
+* Set 120Hz frame rate multiple threshold
+* Enable haptic text cursor
+* Enable multiple vibration strength levels support
+* Includes Dolby Atmos
+* Includes HyperOS Camera
+* Clean Flash Required!!!
