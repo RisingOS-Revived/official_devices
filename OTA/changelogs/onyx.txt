@@ -1,3 +1,29 @@
+Source Changelog: https://github.com/RisingOS-Revived/risingOS_changelogs
+
+29/11/2025
+- Updated blobs from OS2.0.204.0.VOLMIXM.
+- Fixed double tap to wake.
+- Improved charging speed.
+- Added charging control aka lineage health.
+- Switched to BBR tcp with fq.
+- Adjust cpuset.
+- Adjust cpu frequency change rate limit
+- Used 12GB dalvik-heap configs
+- Switched to armv9-a ARCH variant
+- Removed unused tethering overlays.
+- Removed unused debug services.
+- Used HintManager for HWUI.
+- Tuned SF work durations.
+- Introduced displayfeature color service and use MIUI color modes.
+- Set 60hz RR on the lock screen.
+- Extend audio offload buffer size to 256kb.
+- Disabled sf EGL image tracking.
+- Set default pin amount for home app.
+- Set debug.sf.latch_unsignaled to 1.
+- EGL: Configure multi-file cache.
+- Switched to NCM USB tethering
+- Other more changes and improvements.
+
 12/11/2025
 - Initial official build
 - Include Gcam
