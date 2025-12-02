@@ -1,5 +1,10 @@
 Device Changelogs
 
+Date - 02-12-2025
+- Synced to **Latest 8.1.1 Source Changes**
+- Synced to Latest Kernel Changes
+- Miscellaneous Improvements
+
 Date - 02-08-2025
 - Synced to **Latest 8.0 Source Changes**
 - Synced to Latest Kernel Changes
