@@ -1,19 +1,43 @@
-Highlights & Device Specific Changes:
+Device Specific Changes:
 Build type: Stable/Monthly
 Device name: POCO F4
 Device codename: munch
-Device maintainer: Rik
+Device maintainer: SenX
 
-=×=×= 16th  March 2025 =×=×=
-* March securtiy patches.
-* Dirty Flash is fine from 6.2-1. Updating via OTA is recommended.
-* Implemented Dolby Atmos from Oneplus 9RT.
-* Add 48MP rear camera sensor from miui A13.
-* And a few more minor changes.
+=========11/11/2025===========
+• Sync to latest source with new features and fixes
+• Introduced torch light control (with proper selinux fix)
+• Removed quad mic (fixes in-game mic for various games)
+• Switched wfd system blobs from dada 
+• Tune audio for better sound quality 
+• Import display config from HyperOS
+• Disable phantom process killing 
+• Disable verbose camera logs
+• Removed deprecated configs
+• Enable QTI memory Opt
+• Enable system wide scroll optimizer
+• Import pocket detection service the same usage as stock miui
+• Disable slow blur sluggish effect 
+• Dropped oem fast charge
+• Clean up unused manifest entries and more unused flags
+• Removed obsolete sf properties 
+• Set dex2oat thread count and cpuset
+• Enable support for wifi 6 hotspot 
+• Add PUBGM, BGMI and CODM GLOBAL & GARENA to sched_lib_name (fixes full gpu utilization) 
+• Nuked Gamebar (causes mem leak)
+• Added some patches from lineage 
+• More minor improvements
 
-=×=×= 20th February 2025 =×=×=
-* Initial Build
-* Dirty Flash is okay from Rising 6.2
-* Synced with latest source
-* February security patches
-* Misc fixes and optimizations
+=========23/09/2025===========
+- Bump to version 8.1.1 Arete
+- Switch to AOSP wfd
+- kernel: Upstream to linux 4.19.335
+- kerenel: Added WildKSU support
+- Synced with latest sources.
+- Some other fixes and improvements.
+
+=========16/09/2025===========
+- September security patch
+- Initial Android 16 Release (8.1 Arete)
+
+

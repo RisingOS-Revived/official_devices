@@ -1,3 +1,56 @@
+=========23/11/2025===========
+
+* Enable recovery ramdisk in vendor boot
+* Bump BOARD_BOOT_HEADER_VERSION to 4
+* Offload WM shell to another thread
+* Enable LZ4 compression for ramdisks
+* sepolicy: remove commonized ST NFC label
+* Move recovery resources to vendo_boot"
+* set correct API shipping level
+* properties: remove hwui properties
+* properties: enable hwc_vds
+* properties: clean up bringup props
+* Update blobs to OS2.0.5.0.UMQMIXM
+* Parts: Rework ZRAM implementing dynamic size options based on device RAM
+* rootdir: cleanup post boot script
+* set TARGET_PREBUILT_LAWNCHAIR_LAUNCHER := true
+* Stop using Pixel Launcher as default
+* Compile HWUI for performance
+* Enable the appropriate dynamic VRR refresh rate (60 ↔ 120Hz)
+* Enable full ART optimizations with VDEX/ODEX
+* Enable ScrollOptimizer
+
+=========07/11/2025===========
+* parts: add core control
+* parts: add minimal CPU Manager
+* parts: add minimal GPU Manager
+* Parts: Add StoneParts
+* Parts: Moved resources to StoneParts and made minor adjustments.
+* Parts: Added battery status with notifications.
+* Kernel: Upstrem to 5.4.300
+* Other small improvements under the hood
+* Synchronized source changes.
+
+=========24/09/2025===========
+* Fixed charging info on lock screen .
+* Synchronized source changes.
+
+=========15/09/2025===========
+* Use ADPF to improve the experience during heavy animations.
+* Optimized network services to save battery life on 5G.
+* New hybrid task profile, for better performance and energy efficiency balance.
+* Optimized power hints to improve battery efficiency.
+* Fixed WFD.
+* Synchronized source changes.
+* September Security Patch.
+
+=========20/08/2025===========
+* Fixed audio noise.
+* Improved memory management.
+* Returned the standard QS from Android 16.
+* Synchronized source changes.
+* August Security Patch.
+
 =========16/07/2025===========
 * Synced with latest Source Changes.
 * Some bugs fixed.

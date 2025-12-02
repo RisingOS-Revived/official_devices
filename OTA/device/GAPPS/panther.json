@@ -1,20 +1,20 @@
 {
 	"response": [
 		{
-			"maintainer": "EliteDarkKaiser",
+			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "panther",
-			"filename": "RisingOS_Revived-7.1-250623-2040-GAPPS-OFFICIAL-panther-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/panther/RisingOS_Revived-7.1-250623-2040-GAPPS-OFFICIAL-panther-ota.zip/download",
-			"timestamp": 1750725548,
-			"md5": "cf2763625baef2e5ec4af0ddeed4477b",
-			"sha256": "4d4dd35fc633fbc8cb1d1e634cb56e001b14549e59408030c1c132a47cb69b4b",
-			"size": 2736991160,
-			"version": "7.1-Selene",
+			"filename": "RisingOS_Revived-8.1.1-251102-1850-GAPPS-OFFICIAL-panther-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/panther/RisingOS_Revived-8.1.1-251102-1850-GAPPS-OFFICIAL-panther-ota.zip/download",
+			"timestamp": 1762127092,
+			"md5": "fadaf8106258d512097e3fcdafb5ae6b",
+			"sha256": "4e00067c0299ba79cea9a1a70c036b5d3fb1a157577d7e574a5c77912f5720fd",
+			"size": 2946272008,
+			"version": "8.1.1-Arete",
 			"buildtype": "STABLE",
 			"forum": "https://xdaforums.com/t/rom-official-beta-community-risingos-6-2-a15-jan-spl-pantah.4711870/",
 			"recovery": "",
-			"paypal": "",
+			"paypal": "https://paypal.me/nadiak1016",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]

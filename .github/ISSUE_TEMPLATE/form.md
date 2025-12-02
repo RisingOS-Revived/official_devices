@@ -2,7 +2,7 @@
 name: Device maintainership form
 about: Apply for official maintainership
 title: New maintainer
-assignees: [Arman-ATI, mvimal2607, ByteWave1014]
+assignees: [Arman-ATI, ByteWave1014, grepfox]
 ---
 
 

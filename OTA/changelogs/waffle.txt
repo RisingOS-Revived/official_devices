@@ -1,0 +1,45 @@
+Changelog: 
+
+8-25-2025:
+First official release
+
+Notes:
+
+-This build uses OpenEUICC. This might not be the case in a newer build.
+
+The Sourceforge page has two options per flashing method.
+
+OTA: With Accord and BCR or Without Accord and BCR
+Fastboot: With Accord and BCR or Without Accord and BCR
+
+If you want to be able to get updates VIA the updater application, select the one called "Without Accord and BCR"
+
+
+9/15/2025:
+
+I don't know...
+
+Updated it to one of the latest versions of RisingOS-Revived (they keep updating things like crazy)
+Added Dolby Atmos
+No more OpenEUICC as I don't think that LineageOS thing is crashing anymore? I don't know.
+
+
+Lemme know if this has BCR or Accord. I'll fix it. If it does and you want that shit, don't updater
+
+Other than that, that's all I know for now
+
+
+10/11/2025
+
+Started to use everything from LineageOS
+Removed everything related to Google Applications, but the base neccessities. Preinstalled is Google Chrome, Google Messages, Google Dialer, the Google Application (Might remove), and the Google Play Store. Everything else can be installed VIA the Google Play Store. There's no Gallery, or Files either.
+Updated to the latest RisingOS-Revived version.
+For some reason, there's no indicator on the left side when you use the Alert Slider, but it works and you can see what's what by the clock in the Notification Center area. 
+Hopefully, the black screen issue other users of other ROMs have been experiencing is fixed here, but no promises that it's complteley fixed. 
+
+11/2/2025
+Updated to the latest RisingOS-Revived release
+Started to include KernelSU Next
+
+Stay updated by joining my Telegram group. That's where I'll post tests, and patched Magisk stuff.
+https://t.me/RedLintu16NestTwo

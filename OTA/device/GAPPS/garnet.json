@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "mysellysenpai",
+			"oem": "Xiaomi",
+			"device": "garnet",
+			"filename": "RisingOS_Revived-8.1.1-251116-0118-GAPPS-OFFICIAL-garnet-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/garnet/RisingOS_Revived-8.1.1-251116-0118-GAPPS-OFFICIAL-garnet-ota.zip/download",
+			"timestamp": 1763243983,
+			"md5": "3d8fa3e7607efef12e0ca49fe418d956",
+			"sha256": "7d746d8a78d25f43354292defb9afab35ffca7d5de67737717ecb8ac65e25de3",
+			"size": 3160925383,
+			"version": "8.1.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/garnetglobalchat"
+		}
+	]
+}

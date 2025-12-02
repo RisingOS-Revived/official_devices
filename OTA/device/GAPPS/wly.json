@@ -1,21 +1,21 @@
 {
-        "response": [
-                {
-                        "maintainer": "Arman-ATI",
-                        "oem": "OnePlus",
-                        "device": "wly",
-                        "filename": "RisingOS_Revived-6.2.1-STABLE-25020612-GAPPS-OFFICIAL-wly-ota.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/wly/RisingOS_Revived-6.2.1-STABLE-25020612-GAPPS-OFFICIAL-wly-ota.zip/download",
-                        "timestamp": 1738845843,
-                        "md5": "68d13e7b2e8ccb738502b36fc76bd912",
-                        "sha256": "083be0ca5a52a76f3c7af1d9ffbd0843426bc77146e3e0f852eb0e7c2e2532cd",
-                        "size": 3257354287,
-                        "version": "6.2.1-Boundless",
-                        "buildtype": "STABLE",
-                        "forum": "",
-                        "recovery": "",
-                        "paypal": "https://telegra.ph/Builds-Support-05-01",
-                        "telegram": "https://t.me/Machad3xROMS"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Arman-ATI",
+			"oem": "OnePlus",
+			"device": "wly",
+			"filename": "RisingOS_Revived-8.1-250910-1529-GAPPS-OFFICIAL-wly-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/wly/RisingOS_Revived-8.1-250910-1529-GAPPS-OFFICIAL-wly-ota.zip/download",
+			"timestamp": 1757518067,
+			"md5": "7968b4751ba4bfc0cdcab3dc6d63df89",
+			"sha256": "ffe94b085f281846ef7c47c03ab35fa3913f18d9027eb35d22406ad2223c7e7e",
+			"size": 3186363937,
+			"version": "8.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+                        "paypal": "https://github.com/sponsors/RisingOS-Revived",
+			"telegram": "https://t.me/Machad3xROMS"
+		}
+	]
 }

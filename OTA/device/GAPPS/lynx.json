@@ -1,20 +1,20 @@
 {
 	"response": [
 		{
-			"maintainer": "EliteDarkKaiser",
+			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "lynx",
-			"filename": "RisingOS_Revived-7.1-250623-2015-GAPPS-OFFICIAL-lynx-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/lynx/RisingOS_Revived-7.1-250623-2015-GAPPS-OFFICIAL-lynx-ota.zip/download",
-			"timestamp": 1750724077,
-			"md5": "ce1d5808b3ec8d45f46c9b9b8f80e582",
-			"sha256": "00af624440e3604bc98803a762931aca895c8264f5a2ba16b57f43e2c75cb087",
-			"size": 2761602972,
-			"version": "7.1-Selene",
+			"filename": "RisingOS_Revived-8.1.1-251103-0602-GAPPS-OFFICIAL-lynx-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/lynx/RisingOS_Revived-8.1.1-251103-0602-GAPPS-OFFICIAL-lynx-ota.zip/download",
+			"timestamp": 1762167467,
+			"md5": "e21fedda4da276466355c8e381584907",
+			"sha256": "8244c935873168eebc4154762657cd597e5a11ec85dce878880b9c2d015eb0a5",
+			"size": 3103796349,
+			"version": "8.1.1-Arete",
 			"buildtype": "STABLE",
 			"forum": "https://xdaforums.com/t/rom-beta-community-unofficial-risingos-revived-6-2-1-a15-feb-spl-lynx.4597839/",
 			"recovery": "",
-			"paypal": "",
+			"paypal": "https://paypal.me/nadiak1016",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]

@@ -1,3 +1,15 @@
+=========10/09/2025===========
+* source update
+* fixed notification led
+* fixed DT2W
+
+
+=========09/08/2025===========
+* updates Kernel, added KSU
+* some minor device side changes and fixes
+* Synced with latest Source Changes
+
+
 =========13/07/2025===========
 * Initial A16 release
 

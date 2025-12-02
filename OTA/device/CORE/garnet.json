@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS_Revived-8.1.1-251111-1005-CORE-OFFICIAL-garnet-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/CORE/garnet/RisingOS_Revived-8.1.1-251111-1005-CORE-OFFICIAL-garnet-ota.zip/download",
+			"timestamp": 1762855225,
+			"md5": "4886a0352554ff5c9882f148c2c68c64",
+			"sha256": "0bd0f44c50b20c9ad1996c1ef452fc2fdccdf93ca09c74b6669d0d12fe37f7bc",
+			"size": 2462300952,
+			"version": "8.1.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "RedLintu16",
+                        "oem": "OnePlus",
+                        "device": "12",
+                        "filename": "RisingOS-Revived-Official-Minimal-Google_Applications-Signed-OTA",
+                        "download": "https://roms-api.redlintu16.com/ROMs/waffle/RisingOS-Revived-Official/OTA/RisingOS-Revived-Official-Minimal-Google_Applications-Signed-OTA.zip",
+                        "timestamp": 1762136700,
+                        "md5": "0fd0968474ecc156e171a992cbbaac6b",
+                        "sha256": "6664e17cab2aa100bf42632b0804ef8ae237915a5f4a0781b4a07fd9d3b7346b",
+                        "size": 3300024581,
+                        "version": "8.1-Arete",
+                        "buildtype": "STABLE",
+                        "forum": "redlintu16.com",
+                        "recovery": "https://roms-api.redlintu16.com/ROMs/waffle/RisingOS-Revived-Official/recovery.img",
+                        "paypal": "https://redlintu16.com",
+                        "telegram": "https://t.me/RedLintu16NestTwo"
+                }
+        ]
+}

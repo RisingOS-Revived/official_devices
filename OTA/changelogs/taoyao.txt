@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: Xiaomi 12 Lite
+Device codename: taoyao
+Device maintainer: ammarbahtiarasli
+
+=×=×= 24th October 2025 =×=×=
+* Synced with Latest RisingOS Revived sources v8.1.1-Arete
+* Added Dolby Atmos/Vision
+* Update blobs to 1.0.27.0 ULIMIXM
+* Sync with latest sm8350-common
+* Many improvement for stability
+
+=×=×= 09th September 2025 =×=×=
+* Synced with Latest RisingOS Revived sources v8.1-Arete
+* Initial A16 rising build
+* Added Miui Camera

@@ -1,0 +1,21 @@
+{
+        "response": [
+                {
+                        "maintainer": "ammarbahtiarasli",
+                        "oem": "Xiaomi",
+                        "device": "Xiaomi 12 Lite",
+                        "filename": "RisingOS_Revived-8.1.1-251023-2356-MICROG-OFFICIAL-taoyao-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/taoyao/RisingOS_Revived-8.1.1-251023-2356-MICROG-OFFICIAL-taoyao-ota.zip/download",
+                        "timestamp": 1761263706,
+                        "md5": "a1d4f5b78961af4995a8d677478cf982",
+                        "sha256": "d8d44c414962eb780e2128d184856196f620d296ea5281127aca237401e1b3ea",
+                        "size": 2276912172,
+                        "version": "8.1.1-Arete",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://sourceforge.net/projects/ammarbahtiarasli/files/recovery/RisingOS-Revived/",
+                        "paypal": "https://paypal.me/ammarbahtiarasli",
+                        "telegram": "https://t.me/taoyaolabs"
+                }
+        ]
+}

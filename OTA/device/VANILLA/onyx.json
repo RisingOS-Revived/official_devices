@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "K4LCHAKRA x ROMGHARTI",
+			"oem": "Xiaomi",
+			"device": "POCO F7",
+			"filename": "RisingOS_Revived-8.1.1-251129-1156-VANILLA-OFFICIAL-onyx-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/onyx/RisingOS_Revived-8.1.1-251129-1156-VANILLA-OFFICIAL-onyx-ota.zip/download",
+			"timestamp": 1764417250,
+			"md5": "41fbb2ca6528cd6f11fe7d1dae6cae6f",
+			"sha256": "b4dd28d17a323b34139cabca3ae43d816578cad75d802207ccf77dfa18aed1c3",
+			"size": 3550700272,
+			"version": "8.1.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/onyx/recovery_images/",
+			"paypal": "",
+			"telegram": "https://t.me/onyx_odyssey"
+		}
+	]
+}

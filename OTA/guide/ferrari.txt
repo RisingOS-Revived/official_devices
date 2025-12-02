@@ -1,0 +1,15 @@
+***************************************
+How to install rising on ferrari:
+***************************************
+
+1- Unlock your bootloader
+2- enter bootloader
+3- fastboot flash recovery [recovery.img]
+4- fastboot flash boot [boot.img]
+5- fastboot flash vendor_boot [vendor_boot.img]
+6- fastboot flash dtbo [dtbo.img]
+7- fastboot reboot recovery
+8- factory reset
+9- apply update and sideload the rom -> adb sideload [rom.zip]
+10- hit yes if you wanna flash gapps, etc
+11- hit no to reboot and enjoy

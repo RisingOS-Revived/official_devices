@@ -1,20 +1,20 @@
 {
 	"response": [
 		{
-			"maintainer": "objecting_",
+			"maintainer": "Jrcable2",
 			"oem": "Google",
 			"device": "bluejay",
-			"filename": "RisingOS_Revived-7.1-250624-0417-GAPPS-OFFICIAL-bluejay-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/bluejay/RisingOS_Revived-7.1-250624-0417-GAPPS-OFFICIAL-bluejay-ota.zip/download",
-			"timestamp": 1750738542,
-			"md5": "ae6d913499132c5a0cde972913ce39e2",
-			"sha256": "3a2f5e13a3d521351ddbe18f37dab879bad7ca0a000784d530edd44ef09b28df",
-			"size": 2625393436,
-			"version": "7.1-Selene",
+			"filename": "RisingOS_Revived-8.1.1-251103-1309-GAPPS-OFFICIAL-bluejay-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/bluejay/RisingOS_Revived-8.1.1-251103-1309-GAPPS-OFFICIAL-bluejay-ota.zip/download",
+			"timestamp": 1762192984,
+			"md5": "1c2c92f1cba4503dceeb99e01ab3ed4d",
+			"sha256": "1951d5086ca7c8d1066f9cf6b5df35ebb91ff5b2238413f029876447f7d2fa6c",
+			"size": 2956712235,
+			"version": "8.1.1-Arete",
 			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
-			"paypal": "",
+			"paypal": "https://paypal.me/nadiak1016",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]

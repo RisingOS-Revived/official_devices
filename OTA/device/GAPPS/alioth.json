@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "zenzer0s",
+			"oem": "Xiaomi",
+			"device": "POCO F3 | Redmi K40 | Mi 11X",
+			"filename": "RisingOS_Revived-8.1.1-251123-0936-GAPPS-OFFICIAL-alioth-ota.zip",
+			"download": "",
+			"timestamp": 1763890493,
+			"md5": "b73beb3bf605278e33c423f0784a5b00",
+			"sha256": "6ed2a531e6530f1110f1e5c5eccbd859fadf2cccc9f64ef01eb31bffeb30c379",
+			"size": 3129951257,
+			"version": "8.1.1-Arete",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://orangefox.download/device/alioth",
+			"paypal": "https://buymeacoffee.com/zenzer0s",
+			"telegram": "https://t.me/zenzer0s_support"
+		}
+	]
+}

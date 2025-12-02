@@ -1,80 +1,215 @@
-This is Android 15 QPR2 with may 2025 security patches.
+This is Android 16.
 
+Notes:
+==============================
+- Rising Revived based source. Signed build.
+- For Recovery and KsuN check Device TG Group.
+- Clean flash is required if coming from another rom.
+- Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
+- Includes Dolby Atmos, POCO camera.
 - Credits to Arian16k, ph12nex, MIUI_users_r_GAY, Chaitanya, flakeforever, Adrianyyyy.
 - Report issues with logs.
 
-==============================
-04/06/2025
-==============================
-- Fix issue that rom stuck on logo for non GL devices.
+===== 24/11/2025 =====
+- mondrian: Update blobs and firmware from OS2.0.208.0.VMNMIXM.
+- mondrian: pal: stream concurrency and custom key optimization.
+- mondrian: Add scroll optimizer props.
+- miuicamera-mondrian: Add more modern camera icon overlay.
+- sm8450-common: sepolicy: Label wakeup_enable for FPC fingerprint sysfs node.
+- sm8450-common: sepolicy: Label more spi sysfs wakeup nodes.
+- sm8450-common: sepolicy: Fix fpc fingerprint sysfs wakeup label.
+- sm8450-common: sensors: Add support for secondary display in AodNotifier.
+- sm8450-common : import device fcm from lineageos.
+- sm8450-common: parts: Fix EINVAL error on write-only touch sampling sysfs node.
+- power: supply: qti_battery_charger: Add batt_sn, max_life_{vol,temp} and over_vol_duration nodes.
+- display-drivers: Disable xiaomi layer handling.
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
 
-==============================
-02/06/2025
-==============================
-Device changes:
+===== 07/11/2025 =====
+DT:-
+- sm8450-common: Split and configure perf tuning.
+- sm8450-common: Enable UserfaultFD based GC by default.
+- sm8450-common: parts: Introduce PowerTools v3.0 with Thermal integration.
+- miuicamera-mondrian: Adapt patches to cupid OS2.0.204.0.VLCMIXM.
+- miuicamera-mondrian: Import & patch miuiscanner from cupid OS2.0.204.0.VLCMIXM.
+Kernel:-
+- arm64/configs: custom: Enable power efficient workqueues.
+- rcu: Make the grace period workers unbound again.
+- touch: goodix: Make sure IRQ wake is disabled at probe.
+- touch: goodix: Do not disable IRQ twice.
+- touch: goodix: Fix free input device twice.
+- touch: goodix: fix deadlock in edge cases.
+- touch: goodix: Fix data racing.
+- touch: goodix: Avoid allocating memory frequently.
+- touch: goodix: Fix memory leak.
+- touch: goodix: Handle properly IRQ wake.
+- mm: Increase vmstat interval to 10 seconds.
+- ANDROID: arm64: cache: Lower ARCH_DMA_MINALIGN to 64 bytes.
+- include: dcache: Bump max inline dirent name size.
+- locking: Remove rcu_read_{,un}lock() for preempt_{dis,en}able().
+- mbcache: Speed up cache entry creation.
+- msm: kgsl: use kmem_cache pool for draw objects.
+- msm: kgsl: Don't try to wait for fences that have been signaled.
+- media: videobuf2: Perform a synchronized wake for waiting processes.
+GameBar:-
+- GameBar: Fix deprecated API warnings.
+- GameBar: perf: Implement comprehensive performance optimizations with 25-40% efficiency gains.
+- GameBar: feat: Add comprehensive i18n support for 10 languages with optimized structure.
+- GameBar: Add screen recording support and add "take screen record" in gesture quick actions menu.
+- Gamebar: Implement "no action" in gesture quick actions menu.
+- Gamebar: Implement "take screenshot" in gesture quick actions menu.
+- GameBar: Rework single tap, double tap, and long press gesture.
+- GameBar: Introduce advanced fps stats.
+- GameBar: Clean up excessive debug logging.
+- GameBar:fonts: Add Oppo Sans,SanFranciscoPro and SonySketch fonts.
+- GameBar: remove neverallow sepolicy.
+Display:-
+	GPU:-
+- Add new GPU driver 762.34.
+	HALs:-
+- config: Set SF caching property to 0 (enable).
+- display: Enable client composition cache.
+- gralloc: Bump allocator priority to 100.
+- init: Disable HWC large comp perf hint.
+- composer: Use foreground uclamp.
+- gralloc: Use foreground cpuset/uclamp.
+- REVERT: gralloc: Downgrade -EINVAL getMetaData warnings.
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
+===== 01/11/2025 =====
+- mondrian: audio: Enable get_module_version for hotword sound model config.
+- mondrian: Decommonize vendor security patch level.
+- mondrian: Update blobs and firmware from OS2.0.207.0.VMNMIXM.
+- Parts: Remove GameBar functionality.
+- mondrian: Introduce GameBar app (Thanks to kenway).
+- GameBar: Add comprehensive i18n support with 12 language translations.
+- GameBar: perf: add caching and safety improvements to GameBar.
+- Kernel: Merge 5.10.245 into android12-5.10-lts.
+- Kernel: net: wireless: cnss2: Implement sysfs show for recovery.
+- sm8450-common: Set config_dozeSupportsAodWallpaper true.
+- sm8450-common: Fix copy path for android.hardware.se.omapi.ese.xml.
+- sm8450-common: rootdir: Enable WLAN SSR recovery.
+- sm8450-common: Drop unused gpt-utils configuration to use BSG framework.
+- sm8450-common: config: Enable HW Rounded corner.
+- sm8450-common: Set executable permission on extract-files.py.
+- sm8450-common: sepolicy: Drop unused qcom-battery sysfs rules.
+- sm8450-common: sepolicy: Cleanup batterysecret rules using wakelock_use macro.
+- sm8450-common: sepolicy: Drop unused Goodix touchscreen wakeup label.
+- sm8450-common: sepolicy: Cleanup audio related policies.
+- sm8450-common: sepolicy: Drop unused thermal_zone87 temp label.
+- sm8450-common: Update blobs and firmware from OS2.0.204.0.VLFMIXM.
+- sm8450-common: Decommonize vendor security patch level.
+- sm8450-common: Align verified boot algorithms and rollback indices with stock.
+- sm8450-common: Use vendor enhanced media codecs for cape and taro.
+- sm8450-common: Remove software OMX blobs.
+- sm8450-common: sepolicy: Allow camera HAL to find quickcamera HAL.
+- sm8450-common: sepolicy: Correct audio hal socket rules and use unix_socket_connect macro.
+- sm8450-common: overlay: Enable fp screen off unlock feature and turn off by default.
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
+===== 08/10/2025 =====
+- [RESTRUCTURE] sm8450-common: powerhint: restructure the json (Thanks to Phoenix (kenway) and beingashwani).
+- [OPT] sm8450-common: powerhint: balance boosts for smoothness and improved battery backup.
+- [BOOST] sm8450-common: powerhint: tune scheduler & interaction for smoother UI.
+- [OPT] sm8450-common: powerhint: Refine UI interaction boosts for smoother experience.
+- [OPT] sm8450-common: powerhint: Add uclamp boost for display wakeup.
+- sm8450-common: Fix some dolby atmos hal denial.
+- Revert "sm8450-common: hal: support new BLE devices".
+- sm8450-common: Use 8Gb dalvik heap size config.
+- sm8450-common: Set product shipping API level to 33.
+- sm8450-common: Reorder Soong namespace includes.
+- sm8450-common: build libstagefright_softomx_plugin.
+- sm8450-common: Dynamically set IRQ affinity for KGSL and MSM_DRM.
+- sm8450-common: Force disable iorapd.
+- sm8450-common: enable display.enable_optimize_refresh.
+- sm8450-common: props: Set blobcache.multifile_limit.
+- sm8450-common: props: Disable Zygote gl preload.
+- sm8450-common: props: Enable QTI Memory Optimization.
+- sm8450-common: Fix typo for android.hardware.se.omapi.ese directory.
+- [REAPPLY] sm8450-common: Fix the auto brightness.
+- Revert "sm8450-common: props: Disable debug.sf.latch_unsignaled".
+- sm8450-common: Parts: Add automatic screen-based touch sampling control with immediate response.
+- sm8450-common Parts: Rewrite touch sampling to Kotlin with AIDL integration.
+- sm8450: parts: Update chinese Translations.
+- Revert "sm8450-common: Make sure to enable 64bit fingerprint HAL".
+- sm8450: parts: Import Translations.
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
+===== 22/09/2025 =====
+- Bump to version 8.1.1 Arete
+- sm8450-common: overlay: Update pixel pitch.
+- sm8450-common: overlay: Turn on display before resuming AOD.
+- kernel: update to linux 5.10.240
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
+===== 21/09/2025 =====
+- mondrian: Spoof BuildFingerprint as Pixel Beta.
+- sm8450-common: Update blobs from diting OS2.0.203.0.VLFMIXM.
+- sm8450-common: BLE: Max GATT connections as a central are increased to 10.
+- sm8450-common: Bluetooth: Disable HID Device Profile.
+- sm8450-common: BT: Enable Battery Service profile (BAS).
+- sm8450-common: HFP: AG: Enable AptX voice power management prop.
+- sm8450-common: Bluetooth: Changing vendor ID as QTI for Device ID Profile.
+- sm8450-common: Le-Audio: Enable C-I-S->SCO sync for Android-V targets.
+- sm8450-common: BT-Intf: Enable LEAudio swb bydefault for all Android-V upgrades.
+- sm8450-common: Set Class of device from property.
+- sm8450-common: BT-Intf: Enable LEAudio bydefault for all Android-V upgrades.
+- sm8450-common: Enable AptX voice property.
+- sm8450-common: BT: Enable PBAP SIM feature.
+- sm8450-common: Enable LE audio offload support property.
+- sm8450-common: overlay: set 60hz refresh rate for AOD.
+- sm8450-common: Implement torch light control. (use old QS)
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
+===== 16/09/2025 =====
+- vintf: Add more hals to fcm
+- aidl: sensors: Update a misleading error log.
+- aidl: sensors: Set dynamic_sensor_timeout to 1600 during boot
+- vinf: Add {vendor.dolby_sp.hardware.dmssp, vendor.dolby_v3_6.hardware.dms360} to FCM
+- Drop megvii stubs
+- mondrian: enable necessary overlays.
+- mondrian: Move libQnnHtpV69{,Skel} to adsp rfsa dir for dsp postprocessing.
+- dolby: update dax-default.xml.
+- dolby: fixup voice profile.
+- dolby: Fix switch widget IDs in preference layouts for proper binding.
+- Fix Camera crash when zoon in/out.
+- dolby: translate.
+- dolby: Match hyperos dax-default.xml (OS2.0.203.0.VMNMIXM).
+- dolby: Implement Material 3 Expressive Design.
+- sm8450-common: powerhint Changes :-
+1: Align THERMAL_EVENT handling with Thermal Hal.
+2: Optimise DISPLAY_UPDATE_IMMINENT boosts.
+3: Reset uclamp after gaming.
+4: Refine touch boost logic.
+5: Set duration for INTERACTION CPUBW boost.
+6: Add CAMERA LAUNCH & CAMERA SHOT boosts.
+7: Add GPU Boost for DISPLAY_UPDATE_IMMINENT.
+8: Add ROTATION boost for smoother screen orientation changes.
+9: Tune ROTATION hint for efficiency.
+10: Tune DEVICE_IDLE to reduce wakeup stutters.
+11: Make ThermalProfile safe by default/add gaming override.
+12: Configure gaming power hints for CPU/GPU clusters.
+13: Tune powerhint to match mondrian sys nodes and values.
+- props: Do not use phase offsets as duration.
+- sepolicy: Allow fingerprint hal to read rootfs.
+- sepolicy: Allow fingerprint hal grant SYS_NICE capability to set SCHED_FIFO.
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
+===== 03/09/2025 =====
 - Initial release,
-- Clean Flash,
-- Report only Device side issues with logs.
-
-==============================
-17/3/2025
-==============================
-Device changes:
-- Update HyperOS Gallery and Gallery Editor, 
-- Included per app refresh rate,
-- Included High Brightness Mode (HBM),
-- Included custom display saturation slider,
-- Implement torch light control,
-- Import QCOM audio effects from OnePlus 9R,
-- Do not use phase offsets as duration,
-- Added battery props for better batterybackup,
-- Fix Dolby audio codecs,
-- Set VENDOR_SECURITY_PATCH To PLATFORM,
-- Unmount /firmware after fastbootd starts,
-- Dont ship source recovery with Rom,
-- audio: Add LHDC support (If you don't have an LHDC device, just check supported codec on Bluetooth Codec Changer app),
-- audio: use QCOM Implementation for Audio Effects,
-- parts: Add {navigation,video} thermal profiles,
-- parts: Add support for 60Hz in Landscape in Per-App-RR,
-- parts: Automatically determine thermal profile for apps,
-- parts: Fix setting default thermal profile,
-- props: Add missing layer buffer slots cache clear property,
-- props: Disable game_default_frame_rate override,
-- props: Set SF caching property to 0 (enable),
-- rootdir: Drop platform specific setup from init.qcom.early_boot.sh,
-- rootdir: Drop platform specific setup from init.qcom.post_boot.sh,
-- rootdir: Drop platform specific setup from init.qcom.sh,
-- rootdir: Drop useless init.qcom.class_core.sh,
-- kernel: Upstream kernel to 5.10.232,
-- kernel: Update KernelSU-Next and SUSFS4KSU to the latest version,
-- kernel: Add hide scripts from Wild Plus Kernel thanks to @TheWildJames,
-- and more .......... 
-
-==============================
-16/2/2025
-==============================
-Device changes:
-- Testing Fix for SMS/USSD issues, 
-- Remove AOSP Dailer,(users have issues with it).
-
-Source changes:
-- Minor improvements.
-
-==============================
-14/2/2025
-==============================
-Device changes:
-- Add KernelSU Next with susfs4ksu,Check (https://github.com/rifsxd/KernelSU-Next/releases) to download KSU Manager,
-- Add AOSP Dailer with Google Choose what you want,
-- Some users cant use USSD Codes use Airplane mode once after every restart should fix it (partial fix), Thanks to Arian for this partial fix.
-
-Source changes:
-- Add back island notifications,
-- Update Basic Call Recorder |Version 1.76|,
-- Update lawnchair/lawnicons to the latest version.
-
-==============================
-8/2/2025
-==============================
-Device changes:
-- initial official release.
+- Switch from pixel launcher if you face any crashing via quick switch should be fixed on the next builds,
+- Clean Flash Recommended if you not on one of my a16 test builds.

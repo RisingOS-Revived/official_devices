@@ -1,21 +1,21 @@
 {
-	"response": [
-		{
-			"maintainer": "SharmagRit",
-			"oem": "POCO",
-			"device": "F5",
-			"filename": "RisingOS_Revived-8.0-250716-1731-GAPPS-OFFICIAL-marble-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/marble/RisingOS_Revived-8.0-250716-1731-GAPPS-OFFICIAL-marble-ota.zip/download",
-			"timestamp": 1752686925,
-			"md5": "f238391a7621fa481552efdf41ac3612",
-			"sha256": "d0ab3fc7a17cea4b815193884cf536475e2b86f8b39ef926ebd6c94da865b717",
-			"size": 3095671258,
-			"version": "8.0-Zorya",
-			"buildtype": "STABLE",
-			"forum": "",
-			"recovery": "",
-			"paypal": "https://www.paypal.com/paypalme/RiteshKrSharma",
-			"telegram": "https://t.me/marble_builds"
-		}
-	]
+        "response": [
+                {
+                        "maintainer": "Dhanush",
+                        "oem": "POCO",
+                        "device": "F5",
+                        "filename": "RisingOS_Revived-8.1.1-251024-1456-GAPPS-OFFICIAL-marble-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/marble/RisingOS_Revived-8.1.1-251024-1456-GAPPS-OFFICIAL-marble-ota.zip/download",
+                        "timestamp": 1761317639,
+                        "md5": "accbf61ae819d4bb737854c21767cbf5",
+                        "sha256": "f5929e04e752ca1fe5b47f8fb2567a72d371a12a4d17956eadb830303051eeab",
+                        "size": 3260450298,
+                        "version": "8.1.1-Arete",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "https://www.paypal.com/paypalme/Dhanush369",
+                        "telegram": "https://t.me/Captain_Clans"
+                }
+        ]
 }
