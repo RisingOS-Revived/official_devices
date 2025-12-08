@@ -50,6 +50,7 @@
 - **POCO X6 5G (garnetp)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
 - **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
 - **POCO F7 (onyx)** - [`@K4LCHAKRA`](https://t.me/K4LCHAKRA) && ['@Romgharti'](https://t.me/Romgharti)
+- **POCO F4 GT (ingres)** - ['@itzParsaYC'](https://t.me/itzParsaYC)
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
@@ -61,6 +62,7 @@
 - **Redmi Note 12 4G (topaz/tapas)** - [`@skwel24`](https://t.me/skwel24) &&  [`@mirabelle1999`](https://t.me/mirabelle1999)
 - **Redmi Note 13 Pro 5G (garnet)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
 - **Redmi Note 10 Pro (sweet/sweetin)** - [`@Musafir1875`](https://t.me/Musafir1875)
+- **Redmi K50 Gaming (ingres)** - ['@itzParsaYC'](https://t.me/itzParsaYC)
 
 ## Samsung
 - **Samsung A71 4G (a71)** - [`@eun0115`](https://t.me/pa38_112)
