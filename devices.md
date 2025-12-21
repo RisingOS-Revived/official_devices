@@ -82,3 +82,6 @@
 - **Xiaomi 12S Pro (unicorn)** - [`@KernelPanix`](https://t.me/KernelPanix)
 - **Xiaomi 12T (diting)** - [`@KernelPanix`](https://t.me/KernelPanix)
 - **Xiaomi 12 Lite (taoyao)** - [`@ammarbahtiarasli`](https://t.me/ammarbahtiarasli)
+
+## Fairphone
+Fairphone 6 (FP6) [`@RedBird16`] (https://t.me/RedLintu16NestTwo)

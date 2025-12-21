@@ -1,0 +1,21 @@
+{
+    "response": [
+            {
+                    "maintainer": "RedLintu16",
+                    "oem": "Fairphone",
+                    "device": "FP6",
+                    "filename": "RisingOS-Revived-OTA-GAPPS-FP6.zip",
+                    "download": "https://roms.redlintu16.com/ROMs/Fairphone/RisingOS-Revived/OTA/RisingOS-Revived-OTA-GAPPS-FP6.zip",
+                    "timestamp": 1738937371,
+                    "md5": "ac44660075ba473de9554e17d64349fe",
+                    "sha256": "adcacca710966d0007c0c3275d3fb8bc316547de4e25637ba72a585a6515075c",
+                    "size": 2640000000,
+                    "version": "8.1.1-Arete",
+                    "buildtype": "STABLE",
+                    "forum": "",
+                    "recovery": "",
+                    "paypal": "",
+                    "telegram": ""
+            }
+    ]
+}
