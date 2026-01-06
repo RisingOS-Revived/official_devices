@@ -53,11 +53,9 @@
   <project name="device_xiaomi_sweet" />
   <project name="device_google_caiman" />
   <project name="device_google_tokay" />
-  <project name="device_oneplus_waffle" />
   <project name="device_xiaomi_taoyao" />
   <project name="device_xiaomi_alioth" />
   <project name="device_oneplus_dodge" />
   <project name="device_xiaomi_onyx" />
   <project name="android_device_xiaomi_ingres" />
-  <project name="device_fairphone_FP6" />
 </manifest>

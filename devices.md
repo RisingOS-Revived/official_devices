@@ -33,7 +33,6 @@
 - **OnePlus 7T Pro (hotdog)** - [`@answer35`](https://t.me/answer35)
 - **OnePlus 8 Pro (instantnoodlep)** - [`@answer35`](https://t.me/answer35)
 - **OnePlus 10 pro (wly)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
-- **OnePlus 12 (waffle)** - RedLintu16 [`Telegram Group`](https://t.me/RedLintu16NestTwo)
 - **OnePlus 13 (dodge)** - [`@OscarM1019`](https://t.me/OscarM1019)
 
 ## Poco
@@ -82,6 +81,3 @@
 - **Xiaomi 12S Pro (unicorn)** - [`@KernelPanix`](https://t.me/KernelPanix)
 - **Xiaomi 12T (diting)** - [`@KernelPanix`](https://t.me/KernelPanix)
 - **Xiaomi 12 Lite (taoyao)** - [`@ammarbahtiarasli`](https://t.me/ammarbahtiarasli)
-
-## Fairphone
-Fairphone 6 (FP6) [`@RedBird16`] (https://t.me/RedLintu16NestTwo)
