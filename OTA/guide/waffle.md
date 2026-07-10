@@ -1,1 +1,0 @@
-https://wiki.lineageos.org/devices/waffle/install/
