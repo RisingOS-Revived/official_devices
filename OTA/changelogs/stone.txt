@@ -1,3 +1,246 @@
+=========27/08/2026==========
+### Device
+
+# Battery & Power
+
+* Improved BatteryStatus, increasing battery drain precision and enhancing the battery notification.
+* Adjusted `BatteryNotificationService` startup during boot and cleaned up its initialization handling.
+* Adjusted the default ZRAM swappiness and compression algorithm.
+* Removed Lineage Health, simplifying battery and charging-control resource management.
+* Added the required permissions and sepolicy for the `cpu_dma_latency` hint.
+* Reduced the `mlock()` limit to 64 KB to reduce unnecessary locked memory usage.
+
+# Thermal
+
+* Adapted the thermal system for Android 17.
+* Updated the thermal settings layout.
+* Adjusted the CPU temperature sensor path in the overlay.
+
+# Display & SurfaceFlinger
+
+* Adjusted display density.
+* Reduced the blur radius to lower the visual and processing cost of blur effects.
+* Enabled background blur support in SurfaceFlinger.
+* Disabled backpressure propagation in SurfaceFlinger.
+* Offloaded WM Shell to another thread to improve UI operation processing.
+* Disabled unused global mode, CDMA, and `world_mode` options.
+* Fixed the backlight configuration by removing the nonexistent `panel1-backlight` reference.
+
+# Camera & Media
+
+* Enabled CameraX extensions support.
+* Updated camera blob dependencies to use `libui-v34`.
+* Fixed dependencies of some blobs to use `libtinyxml2_1.so`.
+* Disabled the `thumbnail_block_model` in Stagefright.
+* Adjusted audio configuration to skip the channel mask field in the speaker layout.
+* Added the SoundDose implementation.
+
+# Audio
+
+* Added the SoundDose implementation.
+* Adjusted speaker channel layout handling.
+* Updated audio-related configurations and Soong dependencies.
+
+# ART / Dalvik
+
+* Tuned Dalvik heap profiles according to the available RAM.
+* Updated the path used for the `dex2oat` boot image.
+* Disabled `dex2oat` debugging.
+* Set ART to release mode.
+* Enabled Android Go configurations to optimize resource usage.
+
+# Memory Management
+
+* Dropped LMKD and MGLRU in favor of the kernel-based memory management implementation.
+* Adjusted the ZRAM configuration for better device-specific behavior.
+* Reduced the memory locking limit used by init.
+* Applied various optimizations and cleanups to reduce memory and resource usage.
+
+# Init / Rootdir
+
+* Cleaned up and reorganized the Qualcomm platform `init` scripts.
+* Removed `vendor_modprobe`.
+* Optimized userdata F2FS mount options.
+* Switched HwComposer to the foreground CPU set.
+* Removed references to nonexistent or unused hardware.
+* Enabled LZ4 compression for ramdisks.
+
+# Properties & Overlays
+
+* Reorganized and simplified property files.
+* Cleaned up obsolete and unnecessary properties.
+* Restored the `ro.vendor.extension_library` definition.
+* Added `hardware.sku` identification support.
+* Reorganized overlays, renamed them to `rro_overlays`, and rebranded them for Stone.
+* Adjusted display, CPU temperature, blur, and network mode overlays.
+* Disabled `world_mode_enabled_bool` and unused network/CDMA options.
+
+# SELinux & VINTF
+
+* Fixed minor service and sysfs SELinux denials.
+* Added the required Bluetooth seapp contexts.
+* Removed unused SELinux labels and properties.
+* Included LineageOS libperfmgr sepolicy.
+* Replaced `vendor_sysfs_usb_c` with `sysfs_typec`.
+* Updated the FCM to use the Xiaomi implementation.
+* Updated the manifest target level to 7 and unset the kernel target level.
+* Disabled kernel VINTF requirement enforcement during OTAs.
+
+# Performance & Build
+
+* Updated the kernel compiler to **Clang r563880c**.
+* Updated power-libperfmgr Soong namespaces and configuration.
+* Updated Soong configuration variables to use boolean types where appropriate.
+* Added the legacy libion implementation and the required Soong configuration.
+* Updated the configuration to use the current libion implementation location.
+* Overrode the kernel BPF version exposed to userspace.
+* Updated the build to use the Xiaomi FCM.
+* Updated configurations for M3E support.
+
+# Doze / Parts
+
+* Migrated `DozeSettingsFragment` to AndroidX APIs.
+* Reworked BatteryStatus to start automatically during boot.
+* Adjusted the thermal settings layout.
+* Applied the Expressive theme to device settings.
+* Adapted Parts components for Android 17 and M3E support.
+
+# Vibrator
+
+* Removed the waveform ramp-down duration override, allowing the framework/vendor default behavior to be used.
+
+# GPS / Location
+
+* Removed the deprecated `volatile` usage from `loc_read_process_conf()`.
+
+### Kernel Changelog
+
+# Power, Charging & Thermal
+
+* Fixed BQ25890 charger state transitions during USB-PD charging.
+* Reworked thermal charging logic and fixed potential issues with CPU thermal limit handling.
+* Optimized the thermal/cpu cooling driver to reduce overhead when identifying CPU clusters.
+* Adjusted panic reset handling to preserve kmsg and the reboot reason.
+* Optimized idle and suspend states, including timer, notifier, and low-power state handling.
+* Removed unnecessary DRM panel notifier dependencies and optimized `sleep_disabled` handling.
+
+# CPUFreq & Scheduler
+
+* Optimized `schedutil`, including the default rate limit, optional iowait boost, and support for dropping frequency on individual CPUs without idling.
+* Applied Android scheduler tweaks and optimized the generic idle loop.
+* Optimized IRQ affinity management and added more efficient cpumask helpers.
+* Adjusted CPU feature handling for heterogeneous architectures and relaxed feature sanity checking where appropriate.
+* Optimized the kernel for Snapdragon 695 with device-specific compiler flags and performance tuning.
+* Tuned UCLAMP and general scheduler behavior for performance.
+
+# Memory & Low Memory Killer
+
+* Integrated and optimized Simple Low Memory Killer, improving victim management, reclaim, priorities, timeouts, and swap handling.
+* Optimized `vmpressure` and reclaim behavior to improve response to memory pressure.
+* Reduced memory overhead by disabling kmem/socket accounting and unnecessary debugging/profiling features.
+* Added support for memory reclaim through `memory.reclaim`.
+* Optimized several small allocations by replacing dynamic allocations with stack buffers or cached structures.
+* Optimized memory shrinkers and locks to reduce contention.
+* Adjusted pageblock sizing to reduce scheduling delays.
+* Added ZRAM memory tracking and writeback support.
+* Optimized per-CPU ZRAM stream management.
+
+# ZRAM, Compression & Storage
+
+* Updated the Zstandard implementation to newer upstream releases, reaching the 1.5.7 series.
+* Added F2FS optimizations to reduce allocations, congestion, and garbage collection overhead.
+* Configured F2FS GC to run with lower scheduler and I/O priority.
+* Enabled storage optimizations and RELR relocation packing.
+* Enabled block security and I/O throttling features.
+* Set `noatime` as the default filesystem mount behavior.
+
+# GPU & Display
+
+* Tuned Moonstone GPU busy behavior by reducing the busy penalty and improving frequency responsiveness.
+* Raised GPU DDR bus frequency floors.
+* Optimized KGSL with lockless page pools, improved shrinker handling, better fence handling, and reduced tracing overhead.
+* Optimized display and IRQ hot paths by removing redundant operations and unnecessary buffer copies.
+* Removed unnecessary PM QoS requests from the display subsystem.
+* Disabled unused graphics debugging and monitoring components.
+
+# Media, Camera & Audio
+
+* Fixed Venus 10-bit bit-depth change handling, correctly selecting TP10/UWC and DPB formats when the firmware detects a bit-depth change.
+* Updated camera-kernel to the latest CLO LAHAINA code.
+* Removed the unnecessary `camera_debug_util` implementation.
+* Imported Xiaomi changes to the GPU, MMC, video, and misc drivers.
+* Optimized ASoC with power-efficient workqueues and removed unnecessary PM QoS usage.
+* Fixed FM recording mixer setup and simplified static array handling.
+
+# Touchscreen & I/O
+
+* Improved the FocalTech touchscreen driver with IRQ priority boosting, AVDD GPIO support, and missing ESD/PRC definitions.
+* Reduced I2C GENI error log spam.
+* Optimized MSM pinctrl operations while retaining the required barriers to guarantee correct I/O write ordering.
+
+# Power Management & Idle
+
+* Optimized `cpuidle`/LPM to avoid unnecessary work when the system is restricted to WFI.
+* Deep idle states are now managed according to the screen state.
+* Tuned LPM timers and exit latencies to avoid unnecessary operations.
+* Enabled `NO_HZ_IDLE` to reduce scheduler ticks and wakeups during idle, standby, and screen-off states.
+* Enabled power-efficient workqueues by default.
+* Removed unnecessary LPM dependencies and debug event logging.
+
+# Kernel Configuration & Hardening
+
+* Cleaned up `stone_defconfig`, disabling unused features, debugging, tracing, profiling, loadable modules, and unnecessary GKI components.
+* Enabled useful features such as 64-bit SCM, block security, I/O throttling, compaction, fair group scheduling, and writeback throttling.
+* Configured binderfs to use `0755` as its default mount mode.
+* Enabled checkpoint/restore support.
+* Disabled low-value features and statistics to reduce memory usage and overhead.
+* Enabled ARM64 LSE atomics and dead code elimination optimizations.
+* Tuned security, watchdog, softlock detector, and scheduler statistics according to device requirements.
+
+# Network
+
+* Configured FQ as the default network scheduler.
+* Configured BBR as the default TCP congestion control algorithm.
+* Increased the maximum TUN MTU to `65536`.
+* Adjusted congestion control configuration to retain BBR support.
+
+# Kernel Base & Compatibility
+
+* Updated the kernel to **Linux 5.4.303 LTS**, incorporating upstream security, stability, and bug fixes.
+* Updated 5.4.y kernel metadata.
+* Applied crypto/AF_ALG fixes covering size validation, concurrency, IV handling, and scatterlist operations.
+* Added optimizations and fixes to ashmem, binder, kernfs, exec, and other subsystems.
+* Added Fake Uname compatibility improvements, including Android 5.10 support and optimized process matching.
+* Added `shmem_set_file` to ashmem.
+* Adjusted `struct file` alignment.
+* Disabled io_uring and other unused device features.
+
+# IRQ, Locking & Performance
+
+* Fixed IRQ affinity handling to prevent unsupported multi-CPU affinity masks.
+* Added warnings for overwritten IRQ affinity notifiers.
+* Optimized locks, rtmutex, and synchronization paths.
+* Removed redundant memory barriers and unnecessary `noinline` usage.
+* Optimized hot paths in display, DMA-BUF, binder, and filesystem code.
+* Reduced debugging and tracing overhead across critical subsystems.
+
+# Xiaomi / Device Specific
+
+* Integrated various Xiaomi-specific changes across platform drivers.
+* Recalculated the Energy Model for Holi and Blair platforms.
+* Disabled unused monitoring/coresight components and power supply drivers.
+* Added Snapdragon 695 and Stone/Moonstone-specific optimizations.
+* Updated thermal behavior with the integration of Xiaomi's rewritten thermal implementation.
+
+# Filesystem & Security
+
+* Optimized F2FS, fscrypt, and kernfs operations to reduce dynamic memory allocations.
+* Removed additional Android/CAF filesystem tracing.
+* Hid `/system/addon.d` from user applications.
+* Enabled DM-Verity with `DM_VERITY_OPT_AT_MOST_ONCE`.
+* Added block security and I/O management features.
+
+
 =========23/11/2025===========
 
 * Enable recovery ramdisk in vendor boot
