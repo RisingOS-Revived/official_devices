@@ -1,3 +1,8 @@
+=========29/08/2026==========
+### Device
+* improve HWComposer responsiveness
+* Synchronized source changes.
+
 =========27/08/2026==========
 ### Device
 
