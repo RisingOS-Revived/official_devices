@@ -3,6 +3,11 @@ Build type: Stable/Monthly
 Device name: POCO X5 PRO
 Device codename: redwood
 Device maintainer: Blueheart016|SaYaN
+=x=x= 06th Sep 2026 =x=x=
+* redwood
+* LunarisDolby
+* MIUI Cam
+* Scarlet v6 NON Root Kernel
 
 =×=×= 12th Nov 2025 =×=×=
 * Android 16 Release
