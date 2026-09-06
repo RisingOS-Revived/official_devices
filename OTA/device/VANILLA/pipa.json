@@ -1,7 +1,7 @@
 {
         "response": [
                 {
-                        "maintainer": "Aryan",
+                        "maintainer": "YuvarajAF",
                         "oem": "Xiaomi",
                         "device": "pipa",
                         "filename": "RisingOS_Revived-6.3-250318-2019-VANILLA-OFFICIAL-pipa-ota.zip",
@@ -15,7 +15,7 @@
                         "forum": "",
                         "recovery": "",
                         "paypal": "",
-                        "telegram": "https://t.me/CuriousNom"
+                        "telegram": ""
                 }
         ]
 }

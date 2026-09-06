@@ -4,6 +4,9 @@ Device name: POCO F4
 Device codename: munch
 Device maintainer: SenX
 
+=========05/09/2026===========
+• Initial Android 17 release (9.0 elefthería)
+
 =========11/11/2025===========
 • Sync to latest source with new features and fixes
 • Introduced torch light control (with proper selinux fix)

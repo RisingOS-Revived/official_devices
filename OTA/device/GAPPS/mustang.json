@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "mustang",
+			"filename": "RisingOS-9-260830-1911-GAPPS-OFFICIAL-mustang-ota.zip",
+			"download": "",
+			"timestamp": 1788131411,
+			"md5": "ad936c735a87ee4af93aef7484c3bf47",
+			"sha256": "2ab37f698f777cde6e6390fba25c0c4d9c5ea31d6e100a63ddcfc49f1f9eb756",
+			"size": 3442176208,
+			"version": "9-elefthería",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
+		}
+	]
+}

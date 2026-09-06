@@ -1,3 +1,6 @@
+=========28/08/2026===========
+-initial Android 17 build
+
 =========11/03/2025===========
 - switched back to aosp kernel per user complaints
 - source updates
@@ -23,7 +26,7 @@
 
 =========08/17/2025===========
 - Welcome to RisingOS Revived 8.1
-- Device Tree and Vendor updated too August 2025
+- Device Tree and Vendor updated too August 2mlll025
 
 =========08/08/2025===========
 - Welcome to RisingOS Revived 8.0 

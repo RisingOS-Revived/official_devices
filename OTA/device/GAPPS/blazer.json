@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "blazer",
+			"filename": "RisingOS-9-260830-2134-GAPPS-OFFICIAL-blazer-ota.zip",
+			"download": "",
+			"timestamp": 1788139974,
+			"md5": "d814095a76ba209ad5abf3ac7689237a",
+			"sha256": "e2b7f9cf651638f78d0be70ca96ca7a8e79a97145f6150cd875dd4912e599e83",
+			"size": 3439883031,
+			"version": "9-elefthería",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
+		}
+	]
+}

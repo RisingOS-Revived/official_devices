@@ -16,7 +16,7 @@
   <project name="device_google_tangorpro" />
   <project name="device_google_akita" />
   <project name="device_google_husky" />
-  <project name="device_google_akita" />
+  <project name="device_google_shiba" />
   <project name="device_google_cheetah" />
   <project name="device_google_lynx" />
   <project name="device_google_panther" />
@@ -58,4 +58,10 @@
   <project name="device_xiaomi_alioth" />
   <project name="device_oneplus_dodge" />
   <project name="device_xiaomi_onyx" />
+  <project name="android_device_xiaomi_ingres" />
+  <project name="device_google_frankel" />
+  <project name="device_google_blazer" />
+  <project name="device_google_mustang" />
+  <project name="device_nothing_Spacewar" />
+  <project name="device_xiaomi_rodin" />
 </manifest>

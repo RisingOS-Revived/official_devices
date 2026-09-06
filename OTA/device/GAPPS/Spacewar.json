@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "mysellysenpai",
+			"oem": "Nothing",
+			"device": "Spacewar",
+			"filename": "RisingOS-9-260903-2205-GAPPS-OFFICIAL-Spacewar-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/Spacewar/RisingOS-9-260903-2205-GAPPS-OFFICIAL-Spacewar-ota.zip/download",
+			"timestamp": 1788472860,
+			"md5": "b089c10e14d4002924aa707428a20304",
+			"sha256": "6be8611d57da6af773b1f91289c1385ec0ebd40c1acf2273d9631147e299eacb",
+			"size": 3359939879,
+			"version": "9-elefthería",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "t.me/mysellyschat"
+		}
+	]
+}

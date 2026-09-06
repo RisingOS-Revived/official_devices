@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "frankel",
+			"filename": "RisingOS-9-260830-2211-GAPPS-OFFICIAL-frankel-ota.zip",
+			"download": "",
+			"timestamp": 1788142098,
+			"md5": "903ecf5421876c22f396455d302bce85",
+			"sha256": "0bfea51fa67d13b0e854cdf34ec8ae5a0c8f12e9ddd7c3f3183a5c462077be6c",
+			"size": 3442665020,
+			"version": "9-elefthería",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
+		}
+	]
+}

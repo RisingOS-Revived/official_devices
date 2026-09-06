@@ -1,3 +1,23 @@
+=========04/09/2026===========
+- hotfix 
+
+=========03/09/2026===========
+- fully fixed and implemented Google Face Unlock
+- fixed Now Playing
+- alot of source updates and improvements
+
+=========30/08/2026===========
+- fix fingerprint
+- add Google Face Unlock
+- rom source updates
+
+=========28/08/2026===========
+-initial Android 17 build
+
+=========12/03/2025===========
+- a few device tree touch ups 
+- source updates
+
 =========11/03/2025===========
 - switched back to aosp kernel per user complaints
 - source updates
