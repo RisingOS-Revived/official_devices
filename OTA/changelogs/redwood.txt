@@ -4,11 +4,11 @@ Device name: POCO X5 PRO
 Device codename: redwood
 Device maintainer: Blueheart016|SaYaN
 
-=×=×= 12th Nov 2025 =×=×=
-* Android 16 Release
-* Blobs updated to OS2.0.11.0.UMSMIXM
+=×=×= 06th Sep 2026 =×=×=
+* Android 17 Release
+* Scarlet NON ROOT v6.0 kernel
 * MIUI Cam Included
-* Includes Moto Dolby
+* Includes Lunaris Dolby
 
 =×=×= 23rd Oct 2025 =×=×=
 * MIUI Cam Included
