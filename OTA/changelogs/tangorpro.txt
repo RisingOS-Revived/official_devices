@@ -1,3 +1,11 @@
+=========07/09/2026===========
+- alot of source updates and fixes
+- fixed adblocking and hosts file issues
+- added back some device tree commits from A16
+- fixed some ui issues
+- added back Gcam 
+- probably more...
+
 =========28/08/2026===========
 -initial Android 17 build
 
