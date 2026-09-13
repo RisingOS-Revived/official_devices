@@ -53,7 +53,6 @@
 - **POCO X6 5G (garnetp)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
 - **POCO X7 Pro 5G (rodin)** - [`@skwel24`](https://t.me/skwel24)
 - **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
-- **POCO F7 (onyx)** - [`@K4LCHAKRA`](https://t.me/K4LCHAKRA) && ['@Romgharti'](https://t.me/Romgharti)
 - **POCO F4 GT (ingres)** - ['@itzParsaYC'](https://t.me/itzParsaYC)
 
 ## Realme
