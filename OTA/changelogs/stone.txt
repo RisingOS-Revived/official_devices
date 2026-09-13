@@ -1,3 +1,114 @@
+=========13/09/2026==========
+### Device
+
+# Display & UI
+* Optimize animation to improve UI responsiveness.
+* Tuned SurfaceFlinger composition timing and phase offsets for smoother frame scheduling and high-refresh-rate rendering.
+* Increased the touch-driven refresh-rate timer to reduce abrupt refresh-rate drops after touch input.
+* Improved HWUI responsiveness by switching to the threaded Skia GL renderthread backend.
+* Adjusted blur rendering behavior and reduced the blur radius for improved performance.
+* Added display update hints to briefly boost CPU and DDR bandwidth before frame rendering for smoother UI performance.
+* Disabled unnecessary refresh-rate detection and optimization paths to improve automatic refresh-rate switching stability.
+* Configured critical display IRQs to improve display latency and responsiveness.
+
+# Power & Battery
+* Added the `cpu_dma_latency` hint to prevent unnecessary CPU idle transitions during rendering and improve UI smoothness.
+* Updated power-libperfmgr sepolicy and permissions to support the required power HAL interfaces.
+* Added support for power HAL access to IStates and IThermal AIDL services without SELinux denials.
+* Improved battery and power management integration with the device power HAL.
+
+# SELinux & Security
+* Updated device sepolicy for power-libperfmgr and platform power HAL access.
+* Marked the device settings application as a coredomain to satisfy platform SELinux labeling requirements.
+* Added the required SELinux rules for dynamic sensor HAL access to raw HID devices and dynamic sensor properties.
+* Added and updated sensor HAL configuration to support dynamic sensors without SELinux violations.
+
+# Sensors
+* Added support for the dynamic sensor HAL.
+* Imported the stock `hals.conf` and added the dynamic sensor HAL entry.
+* Updated SELinux rules required for dynamic sensor properties and raw HID access.
+
+# Camera
+* Added optional Graphene Camera integration when the camera package is available.
+
+# Networking
+* Updated the default preferred network mode to remove deprecated CDMA/TDSCDMA RATs.
+* Disabled the `NL80211_REG_CHANGED` event to avoid wificond crashes related to unsupported NL80211 attributes.
+
+# Device Configuration
+* Added the required device-specific display and performance tuning.
+* Updated device configuration and overlays to better match the current Android framework behavior.
+* Updated device blobs from Xiaomi **OS2.0.9.0.UMQEUXM**.
+
+### Kernel Changelog
+
+# Display & DRM
+
+* Added HBM and panel information sysfs interfaces.
+* Added main display identification support and required DRM encoder headers.
+* Introduced and enabled the exposure dim-layer driver with switchable exposure control.
+* Improved KCAL color management with RGB bias and hue, saturation, value, and contrast adjustments.
+* Updated KCAL userspace interfaces and cleaned up related implementation.
+
+# GPU & Performance
+
+* Improved KGSL event handling by switching event work from workqueues to kthreads.
+* Prevented KGSL unmapping during system suspend.
+* Enabled scheduler and SLUB optimizations in the Stone defconfig.
+* Added PSI support and disabled BFQ for improved device-specific I/O behavior.
+
+# Power & Thermal
+
+* Reverted the previous thermal charging logic rework.
+* Fixed thermal boost buffer handling.
+* Updated the Qualcomm power-supply naming from Wingtech QGKI to Huaqin QGKI.
+
+# Networking
+
+* Fixed multiple skb lifetime, reference-counting, and shared-fragment handling issues.
+* Fixed packet fanout use-after-free during NETDEV_UP races.
+* Corrected IPv6 error-path skb control-buffer handling.
+* Added and updated IPv6 router advertisement lifetime sysctls.
+* Fixed TCP userspace annotation issues.
+* Fixed TIPC buffer double-free handling.
+* Reverted the FQ default network scheduler configuration.
+
+# Security & Stability
+
+* Fixed HID Logitech force-feedback use-after-free handling.
+* Fixed NFC LLCP handling after closed-state checks.
+* Updated prctl executable-link permission and checkpoint/restore handling.
+* Improved procfs fdinfo access permissions.
+* Added killable VFS locking operations to improve task interruption and responsiveness.
+* Added `faccessat2` support and reworked addon.d access restrictions.
+* Improved RT mutex waiter handling for PREEMPT_RT compatibility.
+* Fixed ABI compatibility for `atomic64_t`.
+* Added required fixes for newer Clang and CFI compatibility.
+
+# Camera & Multimedia
+
+* Fixed an out-of-bounds access in MSM camera bandwidth path handling.
+* Updated Qualcomm camera, audio, display, WLAN, and firmware interfaces from newer LA.UM releases.
+* Fixed VIDC/CVP callback function type compatibility.
+* Updated firmware common interface definitions.
+
+# Memory & ION
+
+* Cleaned up the ION implementation and removed obsolete debugging code.
+* Converted the ION page pool locking to spinlocks.
+* Improved pointer handling in ION.
+
+# Kernel Configuration & Build
+
+* Suppressed selected Clang warnings and fixed declaration-after-statement issues.
+* Disabled panic reboot delay and EL2 vector hardening for the Stone kernel configuration.
+* Added the required VFS access-control infrastructure.
+
+# Qualcomm & Device Integration
+
+* Updated Qualcomm WLAN, camera-kernel, dataipa, audio-kernel, display-driver, and MSM 5.4 components to newer LA.UM releases.
+* Updated Qualcomm KGSL, qseecom, RMNET, VIDC/CVP, and firmware interfaces for improved compatibility and stability.
+
 =========29/08/2026==========
 ### Device
 * improve HWComposer responsiveness
