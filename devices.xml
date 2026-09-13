@@ -57,7 +57,6 @@
   <project name="device_xiaomi_taoyao" />
   <project name="device_xiaomi_alioth" />
   <project name="device_oneplus_dodge" />
-  <project name="device_xiaomi_onyx" />
   <project name="android_device_xiaomi_ingres" />
   <project name="device_google_frankel" />
   <project name="device_google_blazer" />
