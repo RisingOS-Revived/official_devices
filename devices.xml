@@ -64,4 +64,6 @@
   <project name="device_nothing_Spacewar" />
   <project name="device_xiaomi_rodin" />
   <project name="android_device_xiaomi_onyx"/>
+  <project name="device_oneplus_giulia" />
+  <project name="device_oneplus_giuliac" />
 </manifest>

@@ -39,6 +39,8 @@
 - **OnePlus 10 pro (wly)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
 - **OnePlus 12 (waffle)** - RedLintu16 [`Telegram Group`](https://t.me/RedLintu16NestTwo)
 - **OnePlus 13 (dodge)** - [`@OscarM1019`](https://t.me/OscarM1019)
+- **Oneplus 13R (giulia)** - [`@franlop77`](https://t.me/franlop77)
+- **Oneplus Ace 5 (giuliac)** - [`@franlop77`](https://t.me/franlop77)
 
 ## Poco
 - **POCO F3 (alioth)** - [`zenzer0s`](https://t.me/zenzer0s)
