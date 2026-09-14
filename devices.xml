@@ -63,4 +63,5 @@
   <project name="device_google_mustang" />
   <project name="device_nothing_Spacewar" />
   <project name="device_xiaomi_rodin" />
+  <project name="android_device_xiaomi_onyx"/>
 </manifest>

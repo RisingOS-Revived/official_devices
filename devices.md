@@ -54,6 +54,7 @@
 - **POCO X7 Pro 5G (rodin)** - [`@skwel24`](https://t.me/skwel24)
 - **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
 - **POCO F4 GT (ingres)** - ['@itzParsaYC'](https://t.me/itzParsaYC)
+- **POCO F7 (onyx)** - [`@SharmagRit`](https://t.me/SharmagRit)
 
 ## Realme
 - **Realme GT2 pro (ferrari)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
