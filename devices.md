@@ -52,7 +52,7 @@
 - **POCO X4 Pro 5G (veux)** - [`@MrTopia`](https://t.me/mrtopia)
 - **POCO X5 5G/REDMI NOTE 12 5G (stone)** - [`@bittencourtjulival`](https://t.me/bittencourtjulival)
 - **POCO X5 Pro 5G (redwood)** - [`@Blueheart016|SaYaN`](https://t.me/@BlueHeart016)
-- **POCO X6 5G (garnetp)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
+- **POCO X6 5G (garnetp)** - [`@Jotanh`](https://t.me/jotanh)
 - **POCO X7 Pro 5G (rodin)** - [`@skwel24`](https://t.me/skwel24)
 - **POCO M6 Pro 5G (sky)** - [`@ashwani_212`](https://t.me/ashwani_212)
 - **POCO F4 GT (ingres)** - ['@itzParsaYC'](https://t.me/itzParsaYC)
@@ -66,7 +66,7 @@
 - **Redmi Note 8/8T (ginkgo)** - [`@k_y_c_i_i_9_1`](https://t.me/k_y_c_i_i_9_1)
 - **Redmi Note 10 (sunny)** - [`@dpenra`](https://t.me/dpenra)
 - **Redmi Note 12 4G (topaz/tapas)** - [`@skwel24`](https://t.me/skwel24) &&  [`@mirabelle1999`](https://t.me/mirabelle1999)
-- **Redmi Note 13 Pro 5G (garnet)** - [`@mysellysenpai`](https://t.me/mysellysenpai)
+- **Redmi Note 13 Pro 5G (garnet)** - [`@Jotanh`](https://t.me/jotanh)
 - **Redmi Note 10 Pro (sweet/sweetin)** - [`@Musafir1875`](https://t.me/Musafir1875)
 - **Redmi K50 Gaming (ingres)** - ['@itzParsaYC'](https://t.me/itzParsaYC)
 
