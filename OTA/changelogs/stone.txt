@@ -1,3 +1,10 @@
+=========19/09/2026==========
+### Device
+
+* Nigrate to 64-bit only.
+* Minor adjustment
+* Synchronized source changes.
+
 =========13/09/2026==========
 ### Device
 
