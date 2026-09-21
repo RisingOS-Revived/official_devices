@@ -1,4 +1,7 @@
-Source Changelog: https://github.com/RisingOS-Revived/risingOS_changelogs
+Source Changelog: https://t.me/RisingOSRevived/57056/73368
+
+21/09/2026
+- Intial A17 Official build
 
 30/12/2025
 - Fixed Ultra wide in camera.
