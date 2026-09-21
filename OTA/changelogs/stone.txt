@@ -1,3 +1,13 @@
+=========21/09/2026==========
+### Device
+* Synchronized source changes.
+
+### Kernel
+# Filesystem
+* Improved dcache lookup behavior by using freezable waits during directory entry lookups.
+# Audio
+* Fixed MSM compressed-audio XRUN state handling by clearing the state before submitting new buffers.
+
 =========19/09/2026==========
 ### Device
 
