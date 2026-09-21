@@ -1,7 +1,12 @@
 Device: Nothing Phone (1) (Spacewar)
 Maintainer: mysellysenpai
 
-=== 2026/08/11 ===
+=== 2026/09/21 ===
+
+   * source
+Sync the latest source changes and fixes. ('https://t.me/RisingOSRevived/57056/75350')
+
+=== 2026/09/03 ===
 
    * general
 Initial android 17 release
