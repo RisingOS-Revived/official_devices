@@ -2,7 +2,22 @@ Device Specific Changes:
 Build type: Stable/Monthly
 Device name: POCO F4
 Device codename: munch
-Device maintainer: SenX
+Device maintainer: efeisot
+
+==========24/09/2026==========
+* Removed 6GHz band from softap (hotspot) configuration (FastConnect 6800 doesn't support it)
+* Implemented torch light control with brightness cap (protects flashlight LED)
+* Fixed low max volume in speakers; enabled Qualcomm TWS+ and AAC frame control; audio quality tweaks
+* Added VoIP record low latency path; renamed Audio HAL and prebuilt audio extensions
+* Updated media C2 codec XMLs (dav1d AV1 decoder, low latency AVC/HEVC entries)
+* Display: async powermode, smooth motion, 120 FPS ScreenRecorder, new auto network selection UI
+* Power/battery: WLAN Optimized Power Management, battery props, powerhint cleanup, lz4 zram, dropped UFFD flag
+* WiFi no longer turns off when entering airplane mode
+* Added Gamebar Performance Overlay
+* Dolby Vision: HDR types now overridden at boot in parts (overrideHdrTypes API updated for U)
+* Kernel: build switched to Clang r563880c, defconfig updated
+* Updated WFD system blobs from marvel_g A17VTWEH.20
+* Miscellaneous: ntsync permission fix, init script cleanup, package cache removal on early boot
 
 =========11/09/2026===========
 • September security patch
