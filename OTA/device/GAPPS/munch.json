@@ -4,12 +4,12 @@
 			"maintainer": "efeisot",
 			"oem": "Xiaomi",
 			"device": "Poco F4/Redmi K40s",
-			"filename": "RisingOS-9-260911-2032-GAPPS-OFFICIAL-munch-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/munch/RisingOS-9-260911-2032-GAPPS-OFFICIAL-munch-ota.zip/download",
-			"timestamp": 1789158397,
-			"md5": "a4958862d689a89b8c296bfccec21cbb",
-			"sha256": "eed6dd52d408e7930e15f95cdbb32a387a64f9d5a2c331d2844c679e1c430f0b",
-			"size": 3243618382,
+			"filename": "RisingOS-9-260924-2036-GAPPS-OFFICIAL-munch-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/munch/RisingOS-9-260924-2036-GAPPS-OFFICIAL-munch-ota.zip/download",
+			"timestamp": 1790271310,
+			"md5": "004da784aae77c66e30eb6e0d3fb9c4f",
+			"sha256": "540341c23b9d1655b20d5caf0361ed068571bfba3c64aebe6cca4dbb07391b57",
+			"size": 3224279228,
 			"version": "9-elefthería",
 			"buildtype": "STABLE",
 			"forum": "",
@@ -19,3 +19,4 @@
 		}
 	]
 }
+
