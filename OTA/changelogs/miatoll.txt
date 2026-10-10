@@ -1,0 +1,10 @@
+Device: Redmi Note 9s/Pro/Pro max, Poco m2 Pro (miatoll)
+Device maintainer: ナマン
+
+===============
+    09/10/2026
+===============
+
+• Initiat A17
+• Added Erofs Support
+• Added Uclamp Support

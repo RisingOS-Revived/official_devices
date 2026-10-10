@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "ナマン",
+			"oem": "Xiaomi",
+			"device": "miatoll",
+			"filename": "RisingOS-9-261009-1952-VANILLA-OFFICIAL-miatoll-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/VANILLA/miatoll/RisingOS-9-261009-1952-VANILLA-OFFICIAL-miatoll-ota.zip/download",
+			"timestamp": 1791575426,
+			"md5": "5541ba6796523156b77ea771c804532b",
+			"sha256": "2077bf53463064e577ce08f450551affed4cd8d4d6bdfbf4f75be463466491ff",
+			"size": 2387203265,
+			"version": "9-elefthería",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://orangefox.download/release/69ea75f54a1c3a7b3f7c103d",
+			"paypal": "",
+			"telegram": "http://t.me/Unknowns1805"
+		}
+	]
+}
