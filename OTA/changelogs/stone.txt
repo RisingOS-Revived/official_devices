@@ -1,3 +1,65 @@
+=========10/10/2026==========
+### Device
+
+# Display & Color Management
+* Removed redundant composition color mode and color space arrays, allowing the framework to select the appropriate composition color space.
+* Updated DisplayModeDirector overlay behavior to ignore UDFPS refresh-rate votes.
+* Removed the accelerated color transform overlay configuration.
+
+# Audio
+* (PREVENTIVE) Set microphone routing for VoIP applications by adding Wired Headset Mic and Telephony Rx to the `voip_tx` route.
+
+# Permissions
+* Fixed `top-app` CPU `uclamp.max` permissions in init.
+
+# Memory Management
+* Disabled the Pinner service.
+* Fix ZRAM in Stone Parts.
+
+### Kernel Changelog
+
+# Display & GPU
+* Added CPU frequency timing support to the Stone defconfig.
+* Suppressed unnecessary panel-dead reporting logs in the MSM SDE connector.
+
+# Audio
+* Fixed MSM compressed-audio XRUN handling by clearing the XRUN state before submitting buffers.
+* Kept MI2S, AUX, and TDM interfaces enabled to prevent audio failures.
+* Silenced redundant sound focus and source tracking error logs in `msm_voice`.
+
+# Power & Thermal
+* Silenced unnecessary EDL/download-mode device-tree property warnings.
+* Fixed thermal boost buffer handling.
+
+# Wi-Fi & Networking
+* Enabled dynamic and modulated DTIM support in `qcacld-3.0`.
+* Avoided zero-sized memory allocations for unsafe-channel data.
+* Silenced noisy WDI2 GSI informational logs.
+* Fixed TCP BBRv2 rate sampling and packet-loss tracking, including ECN marking support.
+* Updated TCP rate sampling to improve app-limited bandwidth detection.
+* Prevented unnecessary TTL and hop-limit reductions.
+
+# ZRAM & Compression
+* Enabled LZ4 compression support for ZRAM and accelerated ARM64 decompression using optimized assembly routines.
+* Updated LZ4 to v1.10.0 and adapted it to the Linux kernel.
+* Improved LZ4 compression and decompression compatibility with ARM64 Clang builds.
+* Prevented runtime changes to the active ZRAM compression algorithm.
+* Updated Zstandard and reverted an incompatible unaligned-access header change.
+
+# Memory Management & Suspend
+* Set memory-management swappiness to 85%.
+* Removed the Qualcomm memory-offline driver and device-tree node to fully disable PASR.
+* Improved suspend handling in `smcinvoke` and silenced redundant freeze-related logging.
+* Added a safe freeze point during QSEECom secure-monitor busy retries.
+* Used freezable waits for dcache lookups and FUSE forced-request handling.
+
+# Security & Stability
+* Fixed a FUSE-BPF verifier bypass in `fuse_prog_is_valid_access`.
+* Fixed the `proc_dou8vec_minmax` userspace pointer annotation and added the required sysctl helper.
+* Improved Qualcomm SPS IPC logging behavior when IPC logging is disabled.
+* Silenced redundant MSM TSENS IPC logs.
+
+
 =========21/09/2026==========
 ### Device
 * Synchronized source changes.
