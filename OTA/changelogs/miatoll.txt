@@ -2,6 +2,12 @@ Device: Redmi Note 9s/Pro/Pro max, Poco m2 Pro (miatoll)
 Device maintainer: ナマン
 
 ===============
+    11/10/2026
+===============
+(HotFix)
+• Fixed Qs Flickering and other thrid party apps graphic issue
+
+===============
     09/10/2026
 ===============
 
