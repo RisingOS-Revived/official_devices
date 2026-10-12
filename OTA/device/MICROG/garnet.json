@@ -1,21 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "mysellysenpai",
+			"maintainer": "Jotanh",
 			"oem": "Xiaomi",
 			"device": "garnet",
-			"filename": "RisingOS_Revived-8.1.1-251111-1122-MICROG-OFFICIAL-garnet-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/garnet/RisingOS_Revived-8.1.1-251111-1122-MICROG-OFFICIAL-garnet-ota.zip/download",
-			"timestamp": 1762859903,
-			"md5": "001fc3547c8bafd26b7a6271c373bb46",
-			"sha256": "82d4e7a434a8b0c8fab49c6e4da5e57a7ce985947667921fcc667efd75b33da2",
-			"size": 2082233526,
-			"version": "8.1.1-Arete",
+			"filename": "RisingOS-9-261012-2208-MICROG-OFFICIAL-garnet-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/MICROG/garnet/RisingOS-9-261012-2208-MICROG-OFFICIAL-garnet-ota.zip/download",
+			"timestamp": 1791842804,
+			"md5": "e7ccb20ba4328c708f3a329c2aca9d38",
+			"sha256": "861dc83fe026d13b1f5675804f3a0406fa715a7d89e4d2cedb3228bf33d43377",
+			"size": 2434074119,
+			"version": "9-elefthería",
 			"buildtype": "STABLE",
 			"forum": "",
-			"recovery": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/garnet/IMGs/recovery.img/download",
 			"paypal": "",
-			"telegram": "https://t.me/garnetglobalchat"
+			"telegram": "https://t.me/joaodoximichat"
 		}
 	]
 }
