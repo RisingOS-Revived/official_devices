@@ -1,3 +1,16 @@
+=========13/10/2026===========
+- Initial Android 17 Release (9.0 elefthería)
+- Synced with latest RisingOS Revived 9.0 source
+- Kernel: Eclipse Kernel with USB gadget UVC/webcam crash fix
+- Kernel: Updated KSU (xxksu) and RMNET accelerator optimization
+- Techpack Audio: DAPM routing and Cirrus playback fixes, reduced log noise
+- Audio: Fix Dolby DAP and spatializer effect configuration
+- Sensors: Fix ultrasound proximity sensor poll timeout
+- Thermal: Enable QTI thermal HAL service & stock thermal alignment
+- Camera: Added Leica Camera
+- Display: Switch to vendor-defined color modes
+- Misc: Cleaned up pinner configuration and unused overlays
+
 =========15/11/2025===========
 - Added Eclipse Kernel (Nokernel)
 - Source updates
