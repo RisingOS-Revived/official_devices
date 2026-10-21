@@ -1,3 +1,9 @@
+=========21/10/2026==========
+### Device
+* Completede transition to arm64-only.
+* Added per-app and system-wide resolution settings.
+* Updated media profile.
+
 =========10/10/2026==========
 ### Device
 
