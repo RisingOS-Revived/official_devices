@@ -1,111 +1,94 @@
-# ROM Flashing Instructions
-=======
-# RisingOS Installation Instructions
+# RisingOS Revived Installation Instructions for veux
 
-**Author:** @MrTopia
+**Maintainer:** [acerhizm](https://t.me/acerhizm) | [Support group](https://t.me/acerbuilds) | [GitHub](https://github.com/acerhizmq)
 
--------------------------------
+**Device:** Redmi Note 11 Pro 5G / Redmi Note 11E Pro / POCO X4 Pro 5G (veux)
 
-=======
-## **Instructions**
+---
 
-### **ALWAYS Keep in Mind...**
+### Before you start
 
-> **Note:** Clean flash involves formatting data, which means you will lose data stored in the internal storage of your device. Data in the SD card should not be affected. I will not be responsible for any loss of data.
+* Your bootloader must be unlocked.
+* Be on the latest stock firmware for your device before flashing for the first time.
+* Back up everything you need. A clean flash formats data, including internal storage.
+* Use only the files from the download page. Do **not** mix in boot, vendor_boot or vbmeta images from other builds or ROMs if you want support.
 
-## When do a clean flash? Here you go...**
-- You are coming from any other ROM.
-- You are coming from a previous Android version.
-- If you face issues like poor RAM management or storage problems, it indicates that you have not followed the instructions or have changed the kernel/recovery. STRICTLY follow the provided instructions before reporting any issues.
-- Always make sure your on your devices latest google firmware 
+### Required files
 
--------------------------------
- 
-### **Installation Methods**
+Download from the [download page](https://risingosrevived.tech/downloads.html?codename=veux):
 
-## **Clean Flash Steps:**
+* `RisingOS-9-xxxxxx-xxxx-GAPPS-OFFICIAL-veux-ota.zip`
+* `boot.img`, `vendor_boot.img` and `vbmeta.img` of the **same build date** (in the `IMGs` folder)
 
-• Backup your Important files ( cloud / pc )
+The ROM ships with GApps, so no separate GApps package is needed. Recovery is part of `vendor_boot.img`.
 
-• Flash Important .img files via Bootloader
+---
+
+### Clean flash (first install, coming from another ROM or from Android 16)
+
+1. Power off the phone, then hold **Power + Volume Down** to enter Fastboot mode and connect it to your PC.
+2. Check the connection:
+
+```
+fastboot devices
+```
+
+3. Flash the images:
 
 ```
 fastboot flash boot boot.img
 ```
 
 ```
-fastboot flash dtbo dtbo.img
-```
-
-```
 fastboot flash vendor_boot vendor_boot.img
 ```
 
-| Step | Vanilla ROM                              | GApps ROM                 |
-| ---- | ---------------------------------------- | ------------------------- |
-| 1️⃣  | Boot to recovery                         | Boot to recovery          |
-| 2️⃣  | Format data (`yes`)                      | Format data (`yes`)       |
-| 3️⃣  | Select **Apply Update**                  | Select **Apply Update**   |
-| 4️⃣  | Flash ROM zip                            | Flash ROM zip             |
-| 5️⃣  | **Flash GApps package (e.g., NikGApps, MindTheGApps)** | *(Skip – GApps included)* |
-| 6️⃣  | Reboot to system                         | Reboot to system          |
-=======
-    - fastboot flash boot boot.img
-    - fastboot flash dtbo dtbo.img
-    - fastboot flash vendor_boot vendor_boot.img
+```
+fastboot flash vbmeta vbmeta.img
+```
 
-• Boot to Recovery
+4. Reboot to recovery:
 
-• Select **Apply Update**
+```
+fastboot reboot recovery
+```
 
-• Flash **RisingOS Revived** ROM
+5. In recovery select **Factory reset** → **Format data / factory reset** and confirm.
+6. Go back, select **Apply update** → **Apply from ADB**, then on the PC run:
 
-• Format Data (correct, the place where you need to type in "YES")
+```
+adb sideload RisingOS-9-xxxxxx-xxxx-GAPPS-OFFICIAL-veux-ota.zip
+```
 
-• Reboot and enjoy!
+7. When the sideload finishes, select **Reboot system now**. The first boot takes a few minutes.
 
 ---
 
-## Dirty flash:**
+### Update (dirty flash)
 
-• Backup your Important files
+#### Via OTA (recommended)
 
-| Step | Vanilla ROM                                | GApps ROM                         |
-| ---- | ------------------------------------------ | --------------------------------- |
-| 1️⃣  | Boot to recovery                           | Boot to recovery                  |
-| 2️⃣  | Select **Apply Update** & Flash ROM zip                              | Select **Apply Update** & Flash ROM zip                     |
-| 3️⃣  | **Flash a GApps package (e.g., NikGApps, MindTheGApps)** | *(Skip – GApps already included)* |
-| 4️⃣  | Reboot to system                           | Reboot to system                  |
-=======
-• Boot to Recovery
+* Go to **Settings → System → Updater**, download the latest build, install it and reboot.
 
-• Flash **RisingOS Revived** ROM
+#### Manually
 
-• Reboot and enjoy!
+1. Reboot to recovery.
+2. Select **Apply update** → **Apply from ADB** and run:
 
-> **Note:** There will be no loss of data if everything goes well. Keep backups in case of any mishap. I will not be responsible for any loss of data.
+```
+adb sideload RisingOS-9-xxxxxx-xxxx-GAPPS-OFFICIAL-veux-ota.zip
+```
+
+3. Select **Reboot system now**.
+
+There is no need to format data or to reflash the images when updating from an official RisingOS Revived 9.x build.
 
 ---
 
-## OTA: (IF Supported)**
-=======
-## OTA:**
+### Notes
 
-• Go to Settings -> System -> Updater and download latest build
-• Choose install and let it finish
-• Reboot
-###  NOTE - Even if you're using a vanilla build u don't need to flash any gapps package again if you're updating via OTA method
+* Root: KernelSU is built into the kernel. Install a KernelSU manager app to use it.
+* Device settings (display, charging, audio, performance) are in **Settings → System → XiaomiParts** or the XiaomiParts app.
+* When reporting a bug, include a logcat and the steps to reproduce it in the support group.
 
-=======
----
-
-## Flash via adb:**
-
-• Backup your Important files
-
-• Adb reboot recovery
-
-• Flash the ROM via ADB sideload:
-   ```
-   adb sideload <path/to/rom.zip>
-   ```  
+Your device should now be running RisingOS Revived!

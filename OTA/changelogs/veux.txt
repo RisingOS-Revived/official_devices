@@ -1,5 +1,17 @@
 Device Changelogs
 
+Date - 25-10-2026
+- Initial Android 17 Release (**RisingOS Revived 9.0 elefthería**)
+- New maintainer: acerhizm
+- XiaomiParts: Rebuilt as a single dashboard (Settings + launcher), Material You or Signature theme, 13 languages
+- Charging: Selectable power profiles (Normal / 18W / 33W / 67W) and USB fast charge (900 mA)
+- Display: Added FPS overlay (QS tile)
+- Audio: MiSound/Dirac reworked, optional pause during calls, equalizer switch, recovers after audioserver restarts
+- Camera: Leica Camera, fixed third-party camera apps (WhatsApp etc.) and added torch strength control
+- Memory: ZRAM now defaults to zstd with swappiness 100
+- Kernel: Updated KernelSU with SUSFS support and performance tuning
+- Removed the non-working touch sampling rate toggle
+
 Date - 02-12-2025
 - Synced to **Latest 8.1.1 Source Changes**
 - Synced to Latest Kernel Changes
