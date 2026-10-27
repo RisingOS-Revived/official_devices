@@ -1,21 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "Slogar25xOscarM",
+			"maintainer": "vilckindima",
 			"oem": "Google",
 			"device": "caiman",
-			"filename": "RisingOS_Revived-8.1-250825-1456-GAPPS-OFFICIAL-caiman-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/caiman/RisingOS_Revived-8.1-250825-1456-GAPPS-OFFICIAL-caiman-ota-signed.zip/download",
-			"timestamp": 1756133801,
-			"md5": "51741d03b78e946523486597d838da55",
-			"sha256": "4559575cd67216175d61da245e7508880d918c4b1f1b107b34b6d18d799fecfa",
-			"size": 3242996523,
-			"version": "8.1-Arete",
+			"filename": "RisingOS-9-261027-1231-GAPPS-OFFICIAL-caiman-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/caiman/RisingOS-9-261027-1231-GAPPS-OFFICIAL-caiman-ota.zip/download",
+			"timestamp": 1793104239,
+			"md5": "1e778757c78d5906b9a34ed4427311b2",
+			"sha256": "74aa1a29b4bd3898361020d64b5a1db6b98d2de64f2568a455e0e56481420aa3",
+			"size": 3689662747,
+			"version": "9-elefthería",
 			"buildtype": "STABLE",
 			"forum": "",
-			"recovery": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/caiman/IMGs/",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/caiman/IMGs/",
 			"paypal": "",
-			"telegram": ""
+			"telegram": "https://t.me/+h4k50_zwx6NkNTYx"
 		}
 	]
 }

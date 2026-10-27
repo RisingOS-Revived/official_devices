@@ -1,21 +1,21 @@
 {
 	"response": [
 		{
-			"maintainer": "Slogar25xOscarM",
+			"maintainer": "vilckindima",
 			"oem": "Google",
 			"device": "komodo",
-			"filename": "RisingOS_Revived-8.1-250825-1114-GAPPS-OFFICIAL-komodo-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/komodo/RisingOS_Revived-8.1-250825-1114-GAPPS-OFFICIAL-komodo-ota-signed.zip/download",
-			"timestamp": 1756120500,
-			"md5": "9ca820f4d13bbc5a1ffe2c970534a5df",
-			"sha256": "6c6a7864906ae1a041a9600fdc6173443c7641f46c94f8e9d2997ef82b42eadc",
-			"size": 3248499440,
-			"version": "8.1-Arete",
+			"filename": "RisingOS-9-261027-1203-GAPPS-OFFICIAL-komodo-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/komodo/RisingOS-9-261027-1203-GAPPS-OFFICIAL-komodo-ota.zip/download",
+			"timestamp": 1793102423,
+			"md5": "ebba545e15d55b4f3639f74906174990",
+			"sha256": "fa28d38ee81d2abfe217237542d9a1999ed78eee0241b789d6fcc783394ebc74",
+			"size": 3690009573,
+			"version": "9-elefthería",
 			"buildtype": "STABLE",
 			"forum": "",
-			"recovery": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/komodo/IMGs/",
 			"paypal": "",
-			"telegram": ""
+			"telegram": "https://t.me/+h4k50_zwx6NkNTYx"
 		}
 	]
 }
