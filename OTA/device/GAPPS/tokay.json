@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "vilckindima",
+			"oem": "Google",
+			"device": "tokay",
+			"filename": "RisingOS-9-261027-1240-GAPPS-OFFICIAL-tokay-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/tokay/RisingOS-9-261027-1240-GAPPS-OFFICIAL-tokay-ota.zip/download",
+			"timestamp": 1793104807,
+			"md5": "83660ec3da7cd0b23ca4fbeaf47527f1",
+			"sha256": "427f4b50c9c918cf2151c1fb3bec66eaf53082d13069faffd5e0bf1c3610a35e",
+			"size": 3684407725,
+			"version": "9-elefthería",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/tokay/IMGs/",
+			"paypal": "",
+			"telegram": "https://t.me/+h4k50_zwx6NkNTYx"
+		}
+	]
+}

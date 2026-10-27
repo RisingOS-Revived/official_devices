@@ -1,0 +1,7 @@
+=========27/10/2026===========
+- Initial Android 17 release
+- First official build for this device
+- Fixed Wi-Fi not connecting to WPA2/WPA3 routers, including in Setup Wizard
+- Fixed the Pixel Camera UI with BottomBar UI Revamp enabled
+- Requires the CP3A.261005.005 stock firmware or newer
+
