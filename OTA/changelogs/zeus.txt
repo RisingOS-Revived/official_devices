@@ -1,3 +1,18 @@
+Device Changelogs
+
+Date - 28-10-2026
+- Initial Android 17 Release (**RisingOS Revived 9.0 elefthería**)
+- New maintainer: acerhizm
+- Firmware and blobs: HyperOS 3 (OS3.0.4.0.VLBMIXM)
+- XiaomiParts: New single dashboard (Settings + launcher), Material You or Signature theme, 13 languages
+- Charging: Fast charge boost (off by default) and reverse charging with a stop level
+- Performance: CPU and GPU limits kept across reboots, selectable zram size, algorithm and swappiness
+- Audio: Dolby Atmos (LunarisDolby) and MiSound with equalizer
+- Camera: MIUI Camera with all modes, working front camera beauty and torch strength control
+- Kernel: KernelSU-Next built in
+
+Previous builds (maintained by KernelPanix)
+
 Highlights & Device Specific Changes:
 Build type: user
 Device name: Xiaomi 12 Pro
