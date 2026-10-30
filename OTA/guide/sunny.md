@@ -26,15 +26,14 @@
 ---
 
 # **Rom Download**
-- [RisingOS-Revived](https://risingos-revived-devices.github.io/portal/downloads.html?codename=sunny)
+- [RisingOS-Revived](https://risingos-revived-devices.github.io/downloads.html?codename=sunny)
 
 
 # **Recovery Images Download**
 
-- [Gapps](https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/sunny/recovery_images/)
-- [Core](https://sourceforge.net/projects/risingos-revived/files/8.x/CORE/sunny/recovery_images/)
-- [Vanilla](https://sourceforge.net/projects/risingos-revived/files/8.x/VANILLA/sunny/recovery_images/)
-- [MICROG VANILLA](https://sourceforge.net/projects/risingos-revived/files/8.x/MICROG/sunny/recovery_images/)
+- [Gapps](https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/sunny/recovery/)
+- [Vanilla](https://sourceforge.net/projects/risingos-revived/files/9.x/VANILLA/sunny/recovery/)
+- [MICROG VANILLA](https://sourceforge.net/projects/risingos-revived/files/9.x/MICROG/sunny/recovery/)
 
 
 ## **Installation Methods**
