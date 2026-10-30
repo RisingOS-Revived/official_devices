@@ -3,6 +3,13 @@ Build type: Stable/Monthly
 Device name: POCO X5 PRO
 Device codename: redwood
 Device maintainer: Blueheart016|SaYaN
+
+=x=x= 30th Oct 2026 =x=x=
+* HDR vision added
+* Moto Dolby
+* Leica Cam
+* Scarlet Root Kernel
+
 =x=x= 06th Sep 2026 =x=x=
 * redwood
 * LunarisDolby
