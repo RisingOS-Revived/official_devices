@@ -1,21 +1,21 @@
 {
-	"response": [
-		{
-			"maintainer": "Blueheart016|SaYaN",
-			"oem": "xiaomi",
-			"device": "POCO X5 PRO 5G",
-			"filename": "RisingOS_Revived-8.1.1-251112-0109-GAPPS-OFFICIAL-redwood-ota.zip",
-			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/redwood/RisingOS_Revived-8.1.1-251112-0109-GAPPS-OFFICIAL-redwood-ota.zip/download",
-			"timestamp": 1762909318,
-			"md5": "1380d7218ee3a9e616604b22427421e0",
-			"sha256": "44360dd9d5ce8d3b4c32d465964a03d58cdfc036ef63c38e55d6c2e6ecfa30d1",
-			"size": 2941095846,
-			"version": "8.1.1-Arete",
-			"buildtype": "STABLE",
-			"forum": "",
-			"recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/redwood/IMGs/",
-			"paypal": "https://paypal.me/blueheart016",
-			"telegram": "https://t.me/ToxicOS_OfficalSupport"
-		}
-	]
+        "response": [
+                {
+                        "maintainer": "Blueheart016|SaYaN",
+                        "oem": "Xiaomi",
+                        "device": "redwood",
+                        "filename": "RisingOS-9-261030-0859-CORE-OFFICIAL-redwood-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/9.x/CORE/redwood/RisingOS-9-261030-0859-CORE-OFFICIAL-redwood-ota.zip/download",
+                        "timestamp": 1793350578,
+                        "md5": "f4c53c774b02153031c442f8d03e24f3",
+                        "sha256": "8a77bbc5eebb92cc7a2801f40b85625bcfca896e1ed582f2f050a12f610b3021",
+                        "size": 2586066166,
+                        "version": "9-elefthería",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/redwood/IMGs/",
+                        "paypal": "https://paypal.me/blueheart016",
+                        "telegram":  "https://t.me/ToxicOS_OfficalSupport"
+                }
+        ]
 }
