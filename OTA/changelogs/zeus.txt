@@ -1,5 +1,14 @@
 Device Changelogs
 
+Date - 30-10-2026
+- Synced with the latest RisingOS Revived sources
+- Camera: Dolby Vision video recording
+- Camera: New "Modded by acerhizm" settings section: Leica UI, colorful mode icons, eye tracking focus, super JPEG, max brightness, custom theme and switch colors, custom watermark, India filters, 1/8000 shutter, 10x zoom in video modes, Director mode and lab options
+- Display: Auto HBM now reacts to the current light level right away
+- Audio: MiSound no longer loads while it is off or while Dolby is on
+- Dolby: Compact navbar design
+- Fixed sensor notifier and perf HAL start-up issues
+
 Date - 28-10-2026
 - Initial Android 17 Release (**RisingOS Revived 9.0 elefthería**)
 - New maintainer: acerhizm
