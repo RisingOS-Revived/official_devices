@@ -3,6 +3,9 @@ Build type: Stable/Monthly
 Device name: POCO F4
 Device codename: munch
 Device maintainer: efeisot
+==========30/10/2026==========
+* Dolby Atmos integration changed under tree
+* October Security Patch
 
 ==========24/09/2026==========
 * Removed 6GHz band from softap (hotspot) configuration (FastConnect 6800 doesn't support it)
