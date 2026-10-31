@@ -1,3 +1,6 @@
+=========31/10/2026===========
+- source updates
+
 =========11/10/2026===========
 - source updates
 - fixes towards brightness , slider and PixelExtraParts HBM
