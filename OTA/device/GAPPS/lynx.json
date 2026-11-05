@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "Jrcable2",
+			"maintainer": "EliteDarkKaiser",
 			"oem": "Google",
 			"device": "lynx",
 			"filename": "RisingOS-9-261101-1354-GAPPS-OFFICIAL-lynx-ota.zip",
@@ -14,7 +14,7 @@
 			"buildtype": "STABLE",
 			"forum": "https://xdaforums.com/t/rom-beta-community-unofficial-risingos-revived-6-2-1-a15-feb-spl-lynx.4597839/",
 			"recovery": "",
-			"paypal": "https://paypal.me/nadiak1016",
+			"paypal": "https://www.paypal.com/donate/?business=3FEXCST893SSQ&no_recurring=0&item_name=Contributions+to+support+my+ROMs+and+software+development+efforts+are+appreciated.&currency_code=USD",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]

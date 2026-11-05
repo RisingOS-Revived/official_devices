@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "Jrcable2",
+			"maintainer": "EliteDarkKaiser",
 			"oem": "Google",
 			"device": "panther",
 			"filename": "RisingOS-9-261101-1305-GAPPS-OFFICIAL-panther-ota.zip",
@@ -14,7 +14,7 @@
 			"buildtype": "STABLE",
 			"forum": "https://xdaforums.com/t/rom-official-beta-community-risingos-6-2-a15-jan-spl-pantah.4711870/",
 			"recovery": "",
-			"paypal": "https://paypal.me/nadiak1016",
+			"paypal": "https://www.paypal.com/donate/?business=3FEXCST893SSQ&no_recurring=0&item_name=Contributions+to+support+my+ROMs+and+software+development+efforts+are+appreciated.&currency_code=USD",
 			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
 		}
 	]
