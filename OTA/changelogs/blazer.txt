@@ -1,3 +1,6 @@
+=========05/11/2026===========
+- Includes ESIM fix from @cashhwocky
+
 =========31/10/2026===========
 - source updates
 

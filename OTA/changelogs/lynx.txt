@@ -1,3 +1,8 @@
+=========05/11/2026===========
+- Initial Release of RisingOS Revived 9.0 ( elefthería ) Android 17 
+- Synced with latest Source Changes
+- Device Tree, Kernel, and Vendor updated too October 2026
+
 =========11/03/2025===========
 - switched back to aosp kernel per user complaints
 - source updates

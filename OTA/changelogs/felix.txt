@@ -1,3 +1,8 @@
+=========05/11/2026===========
+- Initial Release of RisingOS Revived 9.0 ( elefthería ) Android 17 
+- Synced with latest Source Changes
+- Device Tree, Kernel, and Vendor updated too October 2026
+
 =========08/09/2025===========
 - Initial Release of RisingOS Revived 8.0 ( Zorya ) Android 16 
 - Synced with latest Source Changes
