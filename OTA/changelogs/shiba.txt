@@ -1,3 +1,8 @@
+=========11/11/2026===========
+- Pixel Extra Parts updated and reworked
+- source updates
+- November rom update
+
 =========29/10/2026===========
 - Pixel Extra Parts updates
 - source updates
