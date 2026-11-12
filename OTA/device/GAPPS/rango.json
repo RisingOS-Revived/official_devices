@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "rango",
+			"filename": "RisingOS-9-261112-1636-GAPPS-OFFICIAL-rango-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/rango/RisingOS-9-261112-1636-GAPPS-OFFICIAL-rango-ota.zip/download",
+			"timestamp": 1794519298,
+			"md5": "4f1fd2754e30255bf3ec7346da9237d1",
+			"sha256": "34cd498fdd1854bdbcfc159ddab545f3881b1c7d1f9d32f3f04cc991bf71d71a",
+			"size": 3650106260,
+			"version": "9-elefthería",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.com/donate/?business=3FEXCST893SSQ&no_recurring=0&item_name=Contributions+to+support+my+ROMs+and+software+development+efforts+are+appreciated.&currency_code=USD",
+			"telegram": "https://t.me/+E67IdG0vR0gzZWEx"
+		}
+	]
+}
