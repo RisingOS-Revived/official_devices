@@ -20,7 +20,7 @@
 - **Pixel 10 (frankel)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 10 Pro (blazer)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 - **Pixel 10 Pro Xl (mustang)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
-
+- **Pixel 10 Pro Fold (rango)** - [`@EliteDarkKaiser`](https://t.me/EliteDarkKaiser)
 
 ## Motorola
 - **Motorola Edge 30 (Dubai)** - [`@Rakhshan7070`](https://t.me/shan_rakh)

@@ -1,0 +1,5 @@
+=========12/11/2026===========
+- Latest Rising Source Changes
+- Updated Device Trees and Kernel
+- Using Latest PEP intigration!!
+- Initial Android 17 build

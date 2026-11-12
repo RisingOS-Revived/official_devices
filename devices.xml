@@ -66,4 +66,5 @@
   <project name="android_device_xiaomi_onyx"/>
   <project name="device_oneplus_giulia" />
   <project name="device_oneplus_giuliac" />
+  <project name="device_google_rango" />
 </manifest>
