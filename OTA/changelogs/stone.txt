@@ -1,3 +1,10 @@
+=========13/11/2026==========
+* New DT
+* Existing features (device-side) maintained **
+* Minor performance issues fixed
+* Changes from source synchronized
+* November security patch
+
 =========21/10/2026==========
 ### Device
 * Completede transition to arm64-only.
