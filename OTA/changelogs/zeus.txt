@@ -1,5 +1,15 @@
 Device Changelogs
 
+Date - 13-11-2026
+- Kernel: Moved to Linux 6.6 (android15-6.6, November 2026 security patch) - the whole device was ported to the new kernel with nothing left behind: KernelSU-Next, charging, display, audio, camera and XiaomiParts features all carried over
+- Display: Hardware overlay composition now works on Waipio, so layers no longer all fall back to the GPU
+- Display: Fixed the blue tint on videos in social media apps
+- Audio: ViPER4Android works again on the new AIDL audio HAL
+- Audio: Fixed sound cutting out in voice chats (Discord and others) and "Hey Google" stopping after an audio service restart
+- Thermal: All board temperature sensors are reported again
+- Power: Deep sleep works on the new kernel
+- Less log spam
+
 Date - 30-10-2026
 - Synced with the latest RisingOS Revived sources
 - Camera: Dolby Vision video recording
