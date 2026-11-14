@@ -1,3 +1,8 @@
+=========14/11/2026===========
+- Synced with latest Source Changes
+- Synced with latest Device Tree & Kernel
+- Shipping PixelExtraParts
+
 =========05/11/2026===========
 - Initial Release of RisingOS Revived 9.0 ( elefthería ) Android 17 
 - Synced with latest Source Changes
