@@ -1,3 +1,25 @@
+=×= 15/11/2026 =×=
+   * kernel
+Upstream Kernel to 6.6
+
+   * vendor
+Updated GPU Driver
+Added Parrot 6.6 Blobs
+Switch Camera to AIDL
+Switch Video Codecs to AIDL
+Added Audio Hals Stock HIDL
+Added Vulkan 1.3 support
+
+   * dolby
+Updated Lunaris dolby
+
+   * device
+Updated Modules List to 6.6
+Updates Xiaomi Parts to new Material Expressive theme
+Remove Unsupported and Old functions in Xiaomi Parts
+Switch to Stock Display ID
+Updated Sepolicy Rules
+
 =×= 12/10/2026 =×=
 
    * source
