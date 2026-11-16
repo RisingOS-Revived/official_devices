@@ -5,7 +5,8 @@
 ## Before you start
 
 - The bootloader must be unlocked.
-- Update the phone to the latest stock Android 17 firmware first: these builds need at least the October 2026 firmware (CP3A.261005.005). The ROM does not update the bootloader or the modem.
+- Flash the October 2026 stock firmware (CP3A.261005.005) first, for example with flash.android.com, and pick this build by hand: the site offers the newest one by default. The ROM does not update the bootloader or the modem, and newer stock (Android 17 QPR2, November 2026) is not supported yet.
+- Never lock the bootloader with a custom ROM installed: the phone will stop booting.
 - Download the files of the same build from SourceForge (risingos-revived → 9.x → GAPPS → komodo):
   - `RisingOS-9-<date>-GAPPS-OFFICIAL-komodo-ota.zip`
   - from the `IMGs` folder: `<date>-boot.img`, `<date>-dtbo.img`, `<date>-vendor_boot.img` and `<date>-vendor_kernel_boot.img`, with the same `<date>` as in the zip name
