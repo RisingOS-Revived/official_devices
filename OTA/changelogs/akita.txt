@@ -1,3 +1,6 @@
+=========19/11/2026===========
+- initial Android 17 build
+
 =========12/03/2025===========
 - a few device tree touch ups 
 - source updates
