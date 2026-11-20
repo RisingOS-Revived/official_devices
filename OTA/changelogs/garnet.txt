@@ -1,4 +1,16 @@
+=×= 20/11/2026 =×=
+
+   * kernel
+idle: Put GPU in 295MHZ in Idle
+Merge tag 'ASB-2026-11-02_15-6.6'
+Added NetFilter Again
+Added Ksun + Susfs Support #ci_3554
+
+   * source
+Sync latest source
+
 =×= 15/11/2026 =×=
+
    * kernel
 Upstream Kernel to 6.6
 
