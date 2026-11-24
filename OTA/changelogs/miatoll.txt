@@ -2,6 +2,12 @@ Device: Redmi Note 9s/Pro/Pro max, Poco m2 Pro (miatoll)
 Device maintainer: ナマン
 
 ===============
+    23/11/2026
+===============
+• Added Bypass Charging Qs Title
+• November Security Patches
+
+===============
     11/10/2026
 ===============
 (HotFix)
